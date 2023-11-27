@@ -1,0 +1,2510 @@
+{'date': '31.03.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '01.04.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '01.04.2019', 'text': 'Elgiganten 3004', 'amount': -1500.0}
+{'date': '02.04.2019', 'text': 'VDK DKK 479 00', 'amount': -479.0}
+{'date': '03.04.2019', 'text': 'VDK DKK 180 00', 'amount': -180.0}
+{'date': '03.04.2019', 'text': 'Fisketorvet Føtex 70212', 'amount': -193.85}
+{'date': '05.04.2019', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '08.04.2019', 'text': 'Orsted bill', 'amount': -919.39}
+{'date': '08.04.2019', 'text': 'Kim Q Hair design 07208', 'amount': -325.0}
+{'date': '09.04.2019', 'text': 'VDK DKK 299 00', 'amount': -299.0}
+{'date': '09.04.2019', 'text': 'Fisketorvet Føtex 57064', 'amount': -236.6}
+{'date': '11.04.2019', 'text': 'Ørsted', 'amount': -1341.1}
+{'date': '11.04.2019', 'text': '19906', 'amount': -496.0}
+{'date': '11.04.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '11.04.2019', 'text': 'Apotek Fisketorvet 03860', 'amount': -124.95}
+{'date': '11.04.2019', 'text': 'Fisketorvet Føtex 73215', 'amount': -195.95}
+{'date': '14.04.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '15.04.2019', 'text': 'Fisketorvet Føtex 75349', 'amount': -85.0}
+{'date': '16.04.2019', 'text': 'Fisketorvet Føtex 31257', 'amount': -567.8}
+{'date': '23.04.2019', 'text': 'Jysk D082', 'amount': -1347.0}
+{'date': '23.04.2019', 'text': 'SILVAN 637 Fisketo 48444', 'amount': -74.9}
+{'date': '23.04.2019', 'text': 'Ikea 121 ECO 63440', 'amount': -208.0}
+{'date': '23.04.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '23.04.2019', 'text': 'Taxa 4 X 35', 'amount': -224.0}
+{'date': '24.04.2019', 'text': 'VDK DKK 237 50', 'amount': -237.5}
+{'date': '25.04.2019', 'text': 'VDK PLN 30 00', 'amount': -53.49}
+{'date': '25.04.2019', 'text': 'Dantaxi 4x48 15050', 'amount': -280.0}
+{'date': '25.04.2019', 'text': 'Fisketorvet Føtex 63073', 'amount': -341.1}
+{'date': '26.04.2019', 'text': 'Transfer of salary', 'amount': 40141.74}
+{'date': '26.04.2019', 'text': 'WARPIGS BREWPUB 18100', 'amount': -356.0}
+{'date': '29.04.2019', 'text': 'ANDRZEJ MILOSZ TAXIOSO WARSZAWA', 'amount': -56.72}
+{'date': '29.04.2019', 'text': 'INTERCONTINENTAL WARSZAWA', 'amount': -1176.23}
+{'date': '29.04.2019', 'text': 'Tommi s Burger Joi 89717', 'amount': -35.0}
+{'date': '29.04.2019', 'text': 'Fisketorvet Føtex 78176', 'amount': -249.2}
+{'date': '29.04.2019', 'text': 'TIVOLI Salgskiosk 56624', 'amount': -270.0}
+{'date': '29.04.2019', 'text': 'TIVOLI Salgskiosk 56626', 'amount': -180.0}
+{'date': '29.04.2019', 'text': 'Lune Spanskrør ApS 14273', 'amount': -70.0}
+{'date': '29.04.2019', 'text': 'Tivoli A S F B 89802', 'amount': -310.0}
+{'date': '29.04.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '30.04.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -72.0}
+{'date': '30.04.2019', 'text': 'GO BOAT APS KBENHAVN', 'amount': -799.0}
+{'date': '30.04.2019', 'text': 'MobilePay Pasfoto HBG1', 'amount': -50.0}
+{'date': '30.04.2019', 'text': 'MobilePay Pasfoto HBG1', 'amount': -50.0}
+{'date': '01.05.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '02.05.2019', 'text': 'Fisketorvet Føtex 79388', 'amount': -191.05}
+{'date': '02.05.2019', 'text': '99208', 'amount': -457.98}
+{'date': '03.05.2019', 'text': 'MCDONALDS FISKETORVET Koebenhavn', 'amount': -66.0}
+{'date': '03.05.2019', 'text': 'Autocent Gentofte 19125', 'amount': -3181.09}
+{'date': '07.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -172.0}
+{'date': '07.05.2019', 'text': 'MCDONALDS FISKETORVET Koebenhavn', 'amount': -194.0}
+{'date': '07.05.2019', 'text': 'MOBILPERIODKORT TAASTRUP', 'amount': -700.0}
+{'date': '07.05.2019', 'text': 'JD SPORTS DENMARK COPENHAGEN', 'amount': -750.0}
+{'date': '08.05.2019', 'text': 'Fisketorvet Føtex 91157', 'amount': -420.5}
+{'date': '10.05.2019', 'text': 'VF SERVICES DENMARK APS', 'amount': -950.0}
+{'date': '13.05.2019', 'text': 'Jysk D082 08341', 'amount': 299.0}
+{'date': '13.05.2019', 'text': '94544', 'amount': -428.0}
+{'date': '13.05.2019', 'text': 'JYSK Fisketorvet 50333', 'amount': -299.0}
+{'date': '13.05.2019', 'text': 'SILVAN 637 Fisketo 68253', 'amount': -179.8}
+{'date': '14.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -240.0}
+{'date': '15.05.2019', 'text': 'DSB 858 Cph RKA 27532', 'amount': -200.0}
+{'date': '15.05.2019', 'text': 'Taxa 4 X 35 31138', 'amount': -229.0}
+{'date': '15.05.2019', 'text': 'WARPIGS BREWPUB 56462', 'amount': -688.0}
+{'date': '16.05.2019', 'text': 'MOBILPERIODKORT TAASTRUP', 'amount': -24.0}
+{'date': '16.05.2019', 'text': '01125', 'amount': -355.0}
+{'date': '16.05.2019', 'text': 'NEMOLAND CAFE 66425', 'amount': -20.0}
+{'date': '16.05.2019', 'text': 'Fisketorvet Føtex 95824', 'amount': -140.95}
+{'date': '20.05.2019', 'text': 'Coffee Factory Swe 90323', 'amount': -92.0}
+{'date': '20.05.2019', 'text': 'Café G 11973', 'amount': -322.0}
+{'date': '20.05.2019', 'text': 'STOREBÆLT', 'amount': -245.0}
+{'date': '20.05.2019', 'text': 'INGO VASBYG 4', 'amount': -401.5}
+{'date': '21.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -84.0}
+{'date': '21.05.2019', 'text': 'Taxa 4 X 35 14198', 'amount': -233.0}
+{'date': '22.05.2019', 'text': '53474', 'amount': -125.0}
+{'date': '24.05.2019', 'text': 'Transfer of salary', 'amount': 40141.74}
+{'date': '24.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -204.0}
+{'date': '27.05.2019', 'text': 'Fisketorvet Føtex 18057', 'amount': -378.95}
+{'date': '27.05.2019', 'text': 'Valby Dyreklinik A 61363', 'amount': -1699.61}
+{'date': '27.05.2019', 'text': 'SILVAN 637 Fisketo 81648', 'amount': -74.9}
+{'date': '27.05.2019', 'text': 'Bryggens Dyreklini 17556', 'amount': -60.0}
+{'date': '28.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -368.0}
+{'date': '28.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -128.0}
+{'date': '29.05.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -168.0}
+{'date': '02.06.2019', 'text': 'MobilePay Caroline Boje', 'amount': 399.0}
+{'date': '03.06.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '03.06.2019', 'text': 'Friheden KBH 06214', 'amount': -145.0}
+{'date': '03.06.2019', 'text': 'Fisketorvet Føtex 19552', 'amount': -19.95}
+{'date': '03.06.2019', 'text': 'SILVAN 637 Fisketo 87565', 'amount': -31.84}
+{'date': '03.06.2019', 'text': 'Ikea 121 ECO 34246', 'amount': -1338.0}
+{'date': '03.06.2019', 'text': 'Magasin Kgs Nytor 27198', 'amount': -700.0}
+{'date': '03.06.2019', 'text': 'Illums Bolighus 06972', 'amount': -1498.7}
+{'date': '04.06.2019', 'text': 'BERTELS KAGER KOBENHAVN K', 'amount': -188.0}
+{'date': '04.06.2019', 'text': 'IZ BRUS APS KOBENHAVN N', 'amount': -60.0}
+{'date': '04.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -180.0}
+{'date': '04.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -240.0}
+{'date': '06.06.2019', 'text': 'Royal Arena 02917', 'amount': -286.0}
+{'date': '06.06.2019', 'text': 'MOBILPERIODKORT TAASTRUP', 'amount': -700.0}
+{'date': '06.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -23.75}
+{'date': '06.06.2019', 'text': 'Fisketorvet Føtex 81660', 'amount': -283.65}
+{'date': '07.06.2019', 'text': '64375', 'amount': -226.0}
+{'date': '11.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -316.0}
+{'date': '12.06.2019', 'text': 'BLACK STAR BURGER PERM', 'amount': -84.65}
+{'date': '12.06.2019', 'text': 'STARBUCKS COFFEE HOUSE MOSKVA', 'amount': -37.67}
+{'date': '12.06.2019', 'text': 'TANZY CAFE MOSCOW', 'amount': -107.77}
+{'date': '12.06.2019', 'text': 'OOO MOTZTZA MOSCOW', 'amount': -349.99}
+{'date': '12.06.2019', 'text': 'HOTEL SADOVNICHESKAYA MOSKVA', 'amount': -4006.98}
+{'date': '12.06.2019', 'text': 'RESTAURANT GRILL VINE MOSKVA', 'amount': -292.96}
+{'date': '12.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -575.0}
+{'date': '12.06.2019', 'text': 'PRM TER H KOSMO 455 PERM', 'amount': -837.05}
+{'date': '12.06.2019', 'text': 'VDK RUB 4660 00', 'amount': -487.2}
+{'date': '12.06.2019', 'text': 'VDK RUB 8840 00', 'amount': -924.21}
+{'date': '12.06.2019', 'text': 'VDK RUB 900 00', 'amount': -94.1}
+{'date': '12.06.2019', 'text': 'Taxa 4 X 35 38688', 'amount': -223.0}
+{'date': '12.06.2019', 'text': 'Fisketorvet Føtex 08111', 'amount': -263.65}
+{'date': '13.06.2019', 'text': 'ATM Cash Withdrawal VISA Abroad', 'amount': -30.0}
+{'date': '13.06.2019', 'text': 'THE BEST KEBAB MOSKVA', 'amount': -3.03}
+{'date': '13.06.2019', 'text': 'THE BEST KEBAB MOSKVA', 'amount': -85.37}
+{'date': '13.06.2019', 'text': 'HOTEL SADOVNICHESKAYA MOSKVA', 'amount': -104.62}
+{'date': '13.06.2019', 'text': 'MOSMETRO RU ANOVOKUZNE MOSCOW', 'amount': -11.51}
+{'date': '13.06.2019', 'text': 'MOSMETRO RU ASMOLENSKA MOSCOW', 'amount': -5.75}
+{'date': '13.06.2019', 'text': 'MOSMETRO RU APARTIZANS MOSCOW', 'amount': -5.75}
+{'date': '13.06.2019', 'text': 'MOSMETRO RU ASMOLENSKA MOSCOW', 'amount': -5.75}
+{'date': '13.06.2019', 'text': 'HOTEL SADOVNICHESKAYA MOSKVA', 'amount': -512.66}
+{'date': '13.06.2019', 'text': 'BBBurgers Nikolskaya MOSKVA', 'amount': -147.52}
+{'date': '13.06.2019', 'text': 'MUZEI KREMLYA AS 2 MOSKVA', 'amount': -146.47}
+{'date': '14.06.2019', 'text': 'MOSMETRO RU AOKHOTNY R MOSCOW', 'amount': -5.76}
+{'date': '14.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -188.0}
+{'date': '14.06.2019', 'text': 'MOSMETRO RU AKIEVSKAYA MOSCOW', 'amount': -5.76}
+{'date': '14.06.2019', 'text': 'MUZEI MOSKOVSKOGO KREM MOSKVA', 'amount': -393.03}
+{'date': '17.06.2019', 'text': 'Fisketorvet Føtex 22849', 'amount': -47.9}
+{'date': '17.06.2019', 'text': 'Kim Q Hair design 08221', 'amount': -325.0}
+{'date': '18.06.2019', 'text': 'Payment', 'amount': 1912.59}
+{'date': '20.06.2019', 'text': 'Fisketorvet Føtex 86527', 'amount': -244.85}
+{'date': '26.06.2019', 'text': 'Transfer of salary', 'amount': 40588.37}
+{'date': '27.06.2019', 'text': 'Fisketorvet Føtex 70269', 'amount': -142.85}
+{'date': '28.06.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -60.0}
+{'date': '01.07.2019', 'text': 'Total fees', 'amount': -60.0}
+{'date': '04.01.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '04.01.2021', 'text': 'HK Handels og Kontorf', 'amount': -514.0}
+{'date': '04.01.2021', 'text': 'Gjensidige Forsikring', 'amount': -481.84}
+{'date': '04.01.2021', 'text': 'Meny Solrød str 73647', 'amount': -342.02}
+{'date': '06.01.2021', 'text': 'AMZN Mktp IT MJ5U14BN4 AMAZON IT', 'amount': -267.19}
+{'date': '07.01.2021', 'text': 'Amazon fr MJ3Z89QB4 amazon fr', 'amount': -271.99}
+{'date': '07.01.2021', 'text': 'Ejendom Skat P1', 'amount': -11698.04}
+{'date': '18.01.2021', 'text': '47156', 'amount': -255.85}
+{'date': '19.01.2021', 'text': 'BAUHAUS Web Shop 78462', 'amount': -499.95}
+{'date': '19.01.2021', 'text': 'BAUHAUS Web Shop 23739', 'amount': -1399.9}
+{'date': '20.01.2021', 'text': 'AMZN Mktp IT MV0NJ0JF4', 'amount': -234.52}
+{'date': '23.01.2021', 'text': 'MobilePay Caroline Boje', 'amount': -2175.0}
+{'date': '25.01.2021', 'text': 'BAUHAUS Web Shop 94744', 'amount': -199.9}
+{'date': '25.01.2021', 'text': 'MobilePay Sune Enevoldsen', 'amount': -100.0}
+{'date': '25.01.2021', 'text': 'MobilePay Sune Enevoldsen', 'amount': -100.0}
+{'date': '26.01.2021', 'text': 'Lønoverførsel', 'amount': 42659.48}
+{'date': '29.01.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '29.01.2021', 'text': 'MobilePay Caroline Boje', 'amount': -175.0}
+{'date': '01.02.2021', 'text': 'Gebyrer i alt', 'amount': -10.0}
+{'date': '30.01.2021', 'text': 'MobilePay Yuliya Nikiforova', 'amount': -150.0}
+{'date': '01.02.2021', 'text': 'Gjensidige Forsikring', 'amount': -521.84}
+{'date': '01.02.2021', 'text': 'If Skadeforsikring', 'amount': -398.33}
+{'date': '01.02.2021', 'text': 'HK Handels og Kontorf', 'amount': -514.0}
+{'date': '01.02.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.02.2021', 'text': '267 Lagkagehuset S 25256', 'amount': -109.0}
+{'date': '01.02.2021', 'text': 'SuperB Solrød 54767', 'amount': -303.1}
+{'date': '05.02.2021', 'text': 'Karlslunde Dyrehos 38350', 'amount': -8120.08}
+{'date': '05.02.2021', 'text': 'Solrød Apotek 45247', 'amount': -186.25}
+{'date': '08.02.2021', 'text': 'Fisketorvet Føtex 62014', 'amount': -904.85}
+{'date': '08.02.2021', 'text': '27673', 'amount': -213.0}
+{'date': '08.02.2021', 'text': 'Q8 Service 8042 15459', 'amount': -405.9}
+{'date': '10.02.2021', 'text': 'EWII', 'amount': -3987.08}
+{'date': '10.02.2021', 'text': 'Water bill', 'amount': -3433.68}
+{'date': '10.02.2021', 'text': 'Car tax', 'amount': -580.0}
+{'date': '11.02.2021', 'text': 'Karlslunde Dyrehos 18889', 'amount': -15243.7}
+{'date': '11.02.2021', 'text': 'Solrød Apotek 66514', 'amount': -156.75}
+{'date': '15.02.2021', 'text': 'B Skat 2021 22 02', 'amount': -1262.0}
+{'date': '15.02.2021', 'text': 'B Skat 2021 20 01', 'amount': -1262.0}
+{'date': '22.02.2021', 'text': 'Coop 365 Solrød 85599', 'amount': -114.55}
+{'date': '22.02.2021', 'text': 'Coop 365 Solrød 86576', 'amount': -252.15}
+{'date': '23.02.2021', 'text': 'McDonalds Solroed rest', 'amount': -226.0}
+{'date': '23.02.2021', 'text': 'SuperB Solrød', 'amount': -183.7}
+{'date': '25.02.2021', 'text': 'MobilePay Anne Luise Nehm Willerste', 'amount': -100.0}
+{'date': '25.02.2021', 'text': 'Bilka Ishøj 12264', 'amount': -1247.7}
+{'date': '26.02.2021', 'text': 'Lønoverførsel', 'amount': 42659.48}
+{'date': '26.02.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.03.2021', 'text': 'Gjensidige Forsikring', 'amount': -481.84}
+{'date': '01.03.2021', 'text': 'HK Handels og Kontorf', 'amount': -514.0}
+{'date': '01.03.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.03.2021', 'text': 'SuperB Solrød 72604', 'amount': -291.5}
+{'date': '05.03.2021', 'text': 'SuperB Solrød 74342', 'amount': -171.35}
+{'date': '08.03.2021', 'text': 'Bilka Ishøj 70111', 'amount': -1526.75}
+{'date': '15.03.2021', 'text': 'Coop 365 Solrød 97498', 'amount': -146.75}
+{'date': '15.03.2021', 'text': 'Bilka Ishøj 19333', 'amount': -140.7}
+{'date': '15.03.2021', 'text': 'BAUHAUS Web Shop 01444', 'amount': -324.8}
+{'date': '18.03.2021', 'text': 'Karlslunde Dyrehos 19452', 'amount': -1278.2}
+{'date': '22.03.2021', 'text': 'McDonalds Solroed rest', 'amount': -149.0}
+{'date': '22.03.2021', 'text': 'SuperB Solrød 83158', 'amount': -860.75}
+{'date': '24.03.2021', 'text': 'B Skat 2021 22 03', 'amount': -1262.0}
+{'date': '26.03.2021', 'text': 'Lønoverførsel', 'amount': 49375.48}
+{'date': '26.03.2021', 'text': 'SuperB Solrød 86722', 'amount': -155.05}
+{'date': '29.03.2021', 'text': 'Solrød Tandklinik 65143', 'amount': -1030.2}
+{'date': '29.03.2021', 'text': 'Shell Express 9506 45184', 'amount': -300.12}
+{'date': '30.03.2021', 'text': 'Automatudbetaling 5379 2523', 'amount': -1900.0}
+{'date': '31.03.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '31.03.2021', 'text': 'SuperB Solrød 89943', 'amount': -843.1}
+{'date': '03.04.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '03.04.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '03.04.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '03.04.2023', 'text': 'LIDL 89892', 'amount': -672.35}
+{'date': '04.04.2023', 'text': 'Google CLOUD LRPF4L Milan', 'amount': -246.7}
+{'date': '05.04.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -273.0}
+{'date': '05.04.2023', 'text': 'SuperB Solrød 37929', 'amount': -575.5}
+{'date': '06.04.2023', 'text': 'MobilePay Caroline Boje', 'amount': -337.0}
+{'date': '06.04.2023', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '11.04.2023', 'text': 'ZooBiiDoo 45660', 'amount': -95.0}
+{'date': '11.04.2023', 'text': 'Q8 Service 8042 58338', 'amount': -584.18}
+{'date': '11.04.2023', 'text': 'LIDL 82550', 'amount': -648.06}
+{'date': '11.04.2023', 'text': 'BAUHAUS Ishøj 60133', 'amount': -931.32}
+{'date': '11.04.2023', 'text': 'B Skat 20 04 2023', 'amount': -1697.0}
+{'date': '11.04.2023', 'text': 'Varmepumpe Service', 'amount': -2500.0}
+{'date': '11.04.2023', 'text': 'CPH Parkering A S 90710', 'amount': -899.0}
+{'date': '12.04.2023', 'text': 'PAYPAL DIRECT FERR 35314369001', 'amount': -2934.26}
+{'date': '12.04.2023', 'text': 'SALINES HYERES', 'amount': -2057.0}
+{'date': '12.04.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -237.0}
+{'date': '12.04.2023', 'text': 'SuperB Solrød 67059', 'amount': -667.55}
+{'date': '14.04.2023', 'text': 'Fitness Vitality 37152', 'amount': -150.0}
+{'date': '14.04.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -11.5}
+{'date': '16.04.2023', 'text': 'MobilePay Caroline Boje', 'amount': -1599.0}
+{'date': '16.04.2023', 'text': 'MobilePay Landsindsamling Solrød', 'amount': -50.0}
+{'date': '17.04.2023', 'text': 'LIDL 00636', 'amount': -500.95}
+{'date': '17.04.2023', 'text': 'MobilePay 6238AK', 'amount': -50.0}
+{'date': '18.04.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -100.01}
+{'date': '19.04.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -251.0}
+{'date': '20.04.2023', 'text': 'Børne og Ungeydelse', 'amount': 2373.0}
+{'date': '20.04.2023', 'text': 'Q8 Service 8042 71234', 'amount': -500.34}
+{'date': '21.04.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -75.9}
+{'date': '24.04.2023', 'text': 'SuperB Solrød 73998', 'amount': -590.65}
+{'date': '24.04.2023', 'text': 'LIDL 08186', 'amount': -50.9}
+{'date': '24.04.2023', 'text': 'Fitness Vitality 36463', 'amount': -150.0}
+{'date': '25.04.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.39}
+{'date': '25.04.2023', 'text': 'Hotel at Booking com Amsterdam', 'amount': -4271.69}
+{'date': '26.04.2023', 'text': 'Lønoverførsel', 'amount': 118691.31}
+{'date': '26.04.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -222.0}
+{'date': '27.04.2023', 'text': 'Hotel at Booking com Amsterdam', 'amount': -4709.79}
+{'date': '27.04.2023', 'text': 'WWW ITALIANWAY HOUSE MILANO', 'amount': -3898.74}
+{'date': '27.04.2023', 'text': 'Fisketorvet Føtex 36523', 'amount': -1167.6}
+{'date': '28.04.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '01.05.2023', 'text': 'ZooBiiDoo 69124', 'amount': -209.0}
+{'date': '01.05.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.05.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.05.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.05.2023', 'text': 'AMZN Mktp DE PI2QS8BU5 AMAZON DE', 'amount': -2303.5}
+{'date': '01.05.2023', 'text': 'LIDL 17175', 'amount': -618.1}
+{'date': '01.05.2023', 'text': 'Water bill', 'amount': -3265.0}
+{'date': '01.05.2023', 'text': 'l5ud0', 'amount': -899.95}
+{'date': '01.05.2023', 'text': 'Hovmand varmepumpe', 'amount': -10746.88}
+{'date': '02.05.2023', 'text': 'Hotel at Booking com Amsterdam', 'amount': 4270.26}
+{'date': '02.05.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '03.05.2023', 'text': 'GOOGLE CLOUD FVZVXC CC', 'amount': -234.97}
+{'date': '03.05.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -269.0}
+{'date': '03.05.2023', 'text': 'P huset Gl Mønt 65128', 'amount': -92.0}
+{'date': '03.05.2023', 'text': 'SuperB Solrød 81516', 'amount': -710.45}
+{'date': '04.05.2023', 'text': 'SuperB Solrød 82217', 'amount': -207.85}
+{'date': '05.05.2023', 'text': 'MobilePay Caroline Boje', 'amount': -337.0}
+{'date': '05.05.2023', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '08.05.2023', 'text': 'LIDL 01068', 'amount': -764.1}
+{'date': '08.05.2023', 'text': 'Magasin Kgs Nytor 33474', 'amount': -1299.0}
+{'date': '08.05.2023', 'text': 'B Skat 20 05 2023', 'amount': -1697.0}
+{'date': '08.05.2023', 'text': 'SuperB Solrød 83869', 'amount': -394.7}
+{'date': '09.05.2023', 'text': '7 11 B442 OPT 57835', 'amount': -500.68}
+{'date': '10.05.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -217.0}
+{'date': '12.05.2023', 'text': 'SELECTA AS BRONDBY', 'amount': -38.0}
+{'date': '12.05.2023', 'text': 'KLARNA BODYSTORE DK STOCKHOLM', 'amount': -339.0}
+{'date': '15.05.2023', 'text': 'SuperB Solrød 89099', 'amount': -589.65}
+{'date': '16.05.2023', 'text': 'AMZN Mktp DE AMAZON DE', 'amount': 732.72}
+{'date': '16.05.2023', 'text': 'SuperB Solrød 89734', 'amount': -657.0}
+{'date': '17.05.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -267.0}
+{'date': '22.05.2023', 'text': 'Q8 Service 8042 97509', 'amount': -593.32}
+{'date': '22.05.2023', 'text': 'LIDL 09917', 'amount': -632.8}
+{'date': '22.05.2023', 'text': 'BAUHAUS Ishøj 04309', 'amount': -1849.32}
+{'date': '22.05.2023', 'text': 'SuperB Solrød 92863', 'amount': -358.85}
+{'date': '23.05.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -39.0}
+{'date': '23.05.2023', 'text': 'Hotel at Booking com Amsterdam', 'amount': -4449.93}
+{'date': '24.05.2023', 'text': 'APPLE COM BILL CORK', 'amount': -59.0}
+{'date': '24.05.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -270.0}
+{'date': '25.05.2023', 'text': 'Solrød Tandklinik 00879', 'amount': -681.21}
+{'date': '25.05.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.33}
+{'date': '25.05.2023', 'text': 'Kim Q Hair design 20565', 'amount': -369.0}
+{'date': '26.05.2023', 'text': 'Lønoverførsel', 'amount': 60473.49}
+{'date': '26.05.2023', 'text': 'Fisketorvet Føtex 54450', 'amount': -210.81}
+{'date': '30.05.2023', 'text': 'Matas 18732 32526', 'amount': -34.9}
+{'date': '30.05.2023', 'text': 'LIDL 04136', 'amount': -609.08}
+{'date': '30.05.2023', 'text': 'SLOTHS AUTO ApS 01784', 'amount': -5950.0}
+{'date': '30.05.2023', 'text': 'ZooBiiDoo 10538', 'amount': -219.0}
+{'date': '31.05.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '31.05.2023', 'text': 'COCOONR BOOKING COM S RENNES', 'amount': -4033.92}
+{'date': '31.05.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -220.0}
+{'date': '31.05.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '01.06.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.06.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.06.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.06.2023', 'text': 'Overført til MasterCard', 'amount': -2618.02}
+{'date': '01.06.2023', 'text': '271 Lagkagehuset 55880', 'amount': -152.75}
+{'date': '02.06.2023', 'text': 'MobilePay EASY PARK A S', 'amount': -43.24}
+{'date': '02.06.2023', 'text': 'MEDITERRANEA LA NAVIERA D IBIZA', 'amount': -738.27}
+{'date': '02.06.2023', 'text': 'LM SANT FRANCESC', 'amount': -52.15}
+{'date': '02.06.2023', 'text': 'FORMENTERA MARKET FORMENTERA', 'amount': -224.45}
+{'date': '02.06.2023', 'text': 'MERCHANDISING A MI MANERA SANT', 'amount': -2592.43}
+{'date': '02.06.2023', 'text': 'TAXI 1005 SAN JOSE EIVISSA', 'amount': -142.55}
+{'date': '06.06.2023', 'text': 'Google CLOUD Sx364C Milan', 'amount': -236.35}
+{'date': '06.06.2023', 'text': 'RTE BOCASALINA FORMENTERA ES', 'amount': -1376.37}
+{'date': '06.06.2023', 'text': 'SALINES HYERES', 'amount': -4771.77}
+{'date': '07.06.2023', 'text': 'LIDL 20453', 'amount': -445.3}
+{'date': '07.06.2023', 'text': 'CIRCLE K NYBROVEJ 31431', 'amount': -300.3}
+{'date': '07.06.2023', 'text': 'PAYPAL HELPCOURSER 2I', 'amount': -357.92}
+{'date': '07.06.2023', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -5.37}
+{'date': '07.06.2023', 'text': 'SuperB Solrød 01717', 'amount': -281.1}
+{'date': '08.06.2023', 'text': 'Europcar Formentera', 'amount': -2098.73}
+{'date': '11.06.2023', 'text': 'MobilePay Caroline Boje', 'amount': -337.0}
+{'date': '11.06.2023', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '12.06.2023', 'text': 'Fisketorvet Føtex 21495', 'amount': -849.45}
+{'date': '12.06.2023', 'text': 'ZooBiiDoo 53909', 'amount': -204.0}
+{'date': '12.06.2023', 'text': 'Storebæltsforbinde 16911', 'amount': -270.0}
+{'date': '13.06.2023', 'text': 'CIRCLE K MOTORVEJS 60170', 'amount': -574.01}
+{'date': '13.06.2023', 'text': 'Q8 Service 8101 82022', 'amount': -203.95}
+{'date': '14.06.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -248.0}
+{'date': '14.06.2023', 'text': 'Estancia Steaks Philipp', 'amount': -731.91}
+{'date': '14.06.2023', 'text': '', 'amount': -798.21}
+{'date': '15.06.2023', 'text': '', 'amount': -504.81}
+{'date': '15.06.2023', 'text': 'M M SH 65535 AMERSFOORT', 'amount': -5.22}
+{'date': '15.06.2023', 'text': 'SHELL 0002 HAMBURG', 'amount': -360.87}
+{'date': '15.06.2023', 'text': 'SHELL AMERSFOORT AMERSFOORT', 'amount': -355.88}
+{'date': '15.06.2023', 'text': 'HOLIDAY INN HAFEN CITY HAMBURG', 'amount': -372.65}
+{'date': '16.06.2023', 'text': 'Hout Sage Speelgoed', 'amount': -1161.66}
+{'date': '16.06.2023', 'text': '', 'amount': -70.81}
+{'date': '16.06.2023', 'text': 'Massimo Dutti 4711', 'amount': -269.07}
+{'date': '17.06.2023', 'text': 'MobilePay Caroline Boje', 'amount': 625.0}
+{'date': '19.06.2023', 'text': '', 'amount': -521.79}
+{'date': '19.06.2023', 'text': 'Q Park Torengarage', 'amount': -173.68}
+{'date': '19.06.2023', 'text': 'Biscuiterie Delauna', 'amount': -50.68}
+{'date': '19.06.2023', 'text': 'Commune Etretat', 'amount': -223.6}
+{'date': '19.06.2023', 'text': 'Efb', 'amount': -96.89}
+{'date': '19.06.2023', 'text': '', 'amount': -89.44}
+{'date': '19.06.2023', 'text': '', 'amount': -260.86}
+{'date': '19.06.2023', 'text': '', 'amount': -28.32}
+{'date': '19.06.2023', 'text': 'Total Nb000698 Nivel', 'amount': -5.96}
+{'date': '20.06.2023', 'text': '', 'amount': -200.55}
+{'date': '20.06.2023', 'text': '', 'amount': -235.2}
+{'date': '20.06.2023', 'text': 'Carrefour City', 'amount': -88.68}
+{'date': '20.06.2023', 'text': 'Carrefour City', 'amount': -105.6}
+{'date': '20.06.2023', 'text': 'Commune Etretat', 'amount': -81.97}
+{'date': '20.06.2023', 'text': 'George V', 'amount': -67.07}
+{'date': '20.06.2023', 'text': 'L AIGUILLE CREUSE', 'amount': -89.43}
+{'date': '20.06.2023', 'text': '', 'amount': -186.31}
+{'date': '20.06.2023', 'text': 'Mairie De Saint Malo', 'amount': -93.15}
+{'date': '20.06.2023', 'text': '', 'amount': -43.22}
+{'date': '21.06.2023', 'text': '', 'amount': -10.43}
+{'date': '21.06.2023', 'text': '', 'amount': -30.55}
+{'date': '21.06.2023', 'text': 'CARREFOUR CITY 03665', 'amount': -8.57}
+{'date': '21.06.2023', 'text': 'Commune Etretat', 'amount': -22.35}
+{'date': '21.06.2023', 'text': 'Commune Etretat', 'amount': -37.26}
+{'date': '21.06.2023', 'text': 'Maille Souple', 'amount': -163.95}
+{'date': '21.06.2023', 'text': 'Mairie De Saint Malo', 'amount': -93.15}
+{'date': '21.06.2023', 'text': '', 'amount': -48.43}
+{'date': '21.06.2023', 'text': '', 'amount': -70.05}
+{'date': '21.06.2023', 'text': '', 'amount': -29.06}
+{'date': '22.06.2023', 'text': 'Boutique Mere Poula', 'amount': -51.41}
+{'date': '22.06.2023', 'text': 'CREP MALO', 'amount': -108.04}
+{'date': '22.06.2023', 'text': 'Delices Malouins', 'amount': -67.05}
+{'date': '22.06.2023', 'text': 'Keolis Mont St M', 'amount': -126.66}
+{'date': '22.06.2023', 'text': 'Mairie De Saint Malo', 'amount': -29.8}
+{'date': '23.06.2023', 'text': '', 'amount': -27.56}
+{'date': '23.06.2023', 'text': 'Hariet Et Rosie', 'amount': -267.47}
+{'date': '23.06.2023', 'text': 'LE GLACIER D ETRETAT', 'amount': -74.5}
+{'date': '23.06.2023', 'text': 'Sushi Shop', 'amount': -291.32}
+{'date': '23.06.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -59.0}
+{'date': '24.06.2023', 'text': 'MobilePay Caroline Boje', 'amount': -560.0}
+{'date': '26.06.2023', 'text': 'Lønoverførsel', 'amount': 48032.29}
+{'date': '26.06.2023', 'text': 'Le Verdun', 'amount': -29.8}
+{'date': '26.06.2023', 'text': 'Ninba', 'amount': -197.66}
+{'date': '26.06.2023', 'text': 'REL DE VERTOU', 'amount': -45.44}
+{'date': '26.06.2023', 'text': 'OKKO Nantes Chateau Nantes', 'amount': -1989.26}
+{'date': '26.06.2023', 'text': '', 'amount': -238.39}
+{'date': '27.06.2023', 'text': '', 'amount': -31.28}
+{'date': '27.06.2023', 'text': '', 'amount': -31.28}
+{'date': '27.06.2023', 'text': 'Carrefour Expres', 'amount': -269.23}
+{'date': '27.06.2023', 'text': 'Le Cafe Du Commerce', 'amount': -208.59}
+{'date': '27.06.2023', 'text': '', 'amount': -126.64}
+{'date': '27.06.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.34}
+{'date': '28.06.2023', 'text': 'Autoroutes Du S', 'amount': -30.54}
+{'date': '28.06.2023', 'text': 'Autoroutes Du S', 'amount': -8.93}
+{'date': '28.06.2023', 'text': '', 'amount': -29.79}
+{'date': '28.06.2023', 'text': '', 'amount': -335.2}
+{'date': '29.06.2023', 'text': '', 'amount': -35.0}
+{'date': '29.06.2023', 'text': 'INDIGO 640006', 'amount': -315.79}
+{'date': '29.06.2023', 'text': 'La Roche Plate', 'amount': -135.55}
+{'date': '29.06.2023', 'text': 'SPAR SARL RCK', 'amount': -81.92}
+{'date': '30.06.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '30.06.2023', 'text': '', 'amount': -113.58}
+{'date': '30.06.2023', 'text': '', 'amount': -42.45}
+{'date': '30.06.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '02.01.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17423.02}
+{'date': '02.01.2019', 'text': 'SILVAN 637 Fisketo 44358', 'amount': -623.04}
+{'date': '02.01.2019', 'text': 'Taxa 4 X 35 50051', 'amount': -266.0}
+{'date': '02.01.2019', 'text': 'Ikea 121 ACO 73165', 'amount': -1448.0}
+{'date': '02.01.2019', 'text': 'Louis Nielsen Fisk 31837', 'amount': -795.0}
+{'date': '02.01.2019', 'text': 'ZARA FISKETORVERT 18691', 'amount': -527.0}
+{'date': '02.01.2019', 'text': 'SILVAN 637 Fisketo 46674', 'amount': -99.9}
+{'date': '02.01.2019', 'text': 'Fisketorvet Føtex 08977', 'amount': -569.85}
+{'date': '02.01.2019', 'text': 'Det Gamle Apotek A 31353', 'amount': -22.0}
+{'date': '02.01.2019', 'text': 'TIVOLI DK', 'amount': -720.0}
+{'date': '02.01.2019', 'text': 'SILVAN 637 Fisketo 46972', 'amount': -74.75}
+{'date': '02.01.2019', 'text': 'Brioche Dorée 59036', 'amount': -39.0}
+{'date': '02.01.2019', 'text': 'La Boucherie CPH 79239', 'amount': -900.0}
+{'date': '03.01.2019', 'text': 'VDK DKK 189 00', 'amount': -189.0}
+{'date': '03.01.2019', 'text': 'VDK DKK 312 23', 'amount': -312.23}
+{'date': '03.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -82.0}
+{'date': '04.01.2019', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '04.01.2019', 'text': 'VDK DKK 80 50', 'amount': -80.5}
+{'date': '06.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -190.0}
+{'date': '07.01.2019', 'text': '69419', 'amount': -1499.0}
+{'date': '07.01.2019', 'text': 'CAFÉ FLOTTENHEIMER 93607', 'amount': -704.0}
+{'date': '07.01.2019', 'text': 'Fisketorvet Føtex 14002', 'amount': -272.1}
+{'date': '07.01.2019', 'text': 'MCDONALDS FISKETOR 67997', 'amount': -25.0}
+{'date': '07.01.2019', 'text': 'MCDONALDS FISKETOR 67995', 'amount': -202.0}
+{'date': '08.01.2019', 'text': 'VDK DKK 84 00', 'amount': -84.0}
+{'date': '09.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -117.0}
+{'date': '09.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -105.0}
+{'date': '11.01.2019', 'text': 'Fisketorvet Føtex 12563', 'amount': -95.3}
+{'date': '13.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -120.0}
+{'date': '13.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -115.0}
+{'date': '14.01.2019', 'text': 'SILVAN 637 Fisketo 54288', 'amount': -929.9}
+{'date': '14.01.2019', 'text': 'Fisketorvet Føtex 82993', 'amount': -65.65}
+{'date': '14.01.2019', 'text': 'SILVAN 637 Fisketo 59001', 'amount': -344.85}
+{'date': '14.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -124.0}
+{'date': '15.01.2019', 'text': 'STOREBÆLT 03211', 'amount': -245.0}
+{'date': '16.01.2019', 'text': '10490', 'amount': -245.0}
+{'date': '16.01.2019', 'text': 'Fisketorvet Føtex 67094', 'amount': -270.25}
+{'date': '17.01.2019', 'text': 'VDK DKK 171 65', 'amount': -171.65}
+{'date': '21.01.2019', 'text': 'Fisketorvet Føtex 80164', 'amount': -233.25}
+{'date': '21.01.2019', 'text': 'Fisketorvet Føtex 14243', 'amount': -443.5}
+{'date': '22.01.2019', 'text': 'Taxa 4 X 35 44706', 'amount': -219.0}
+{'date': '23.01.2019', 'text': 'MobilePay Caroline Boje', 'amount': -105.0}
+{'date': '23.01.2019', 'text': 'Dantaxi 4x48 55273', 'amount': -283.0}
+{'date': '24.01.2019', 'text': 'Parkeringsautomate 42698', 'amount': -100.0}
+{'date': '24.01.2019', 'text': 'Fisketorvet Føtex 16537', 'amount': -153.85}
+{'date': '25.01.2019', 'text': 'Transfer of salary', 'amount': 40141.74}
+{'date': '25.01.2019', 'text': 'MCDONALDS FISKETOR 81546', 'amount': -194.0}
+{'date': '28.01.2019', 'text': 'Taxa 4 X 35', 'amount': -284.0}
+{'date': '28.01.2019', 'text': 'HMSHost Cph Airpo 51928', 'amount': -90.0}
+{'date': '29.01.2019', 'text': 'VDK MYR 300 00', 'amount': -490.95}
+{'date': '29.01.2019', 'text': 'VDK GBP 21 57', 'amount': -189.65}
+{'date': '30.01.2019', 'text': 'ATM Cash Withdrawal VISA Abroad', 'amount': -30.0}
+{'date': '31.01.2019', 'text': '39849', 'amount': -228.0}
+{'date': '31.01.2019', 'text': 'Fisketorvet Føtex 45361', 'amount': -266.1}
+{'date': '01.02.2019', 'text': 'VDK DKK 4321 89', 'amount': -4321.89}
+{'date': '01.02.2019', 'text': 'VDK GBP 10 32', 'amount': -89.72}
+{'date': '01.02.2019', 'text': 'VDK MYR 149 70', 'amount': -243.61}
+{'date': '01.02.2019', 'text': 'If Skadeforsikring', 'amount': -382.16}
+{'date': '01.02.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -14563.76}
+{'date': '04.02.2019', 'text': 'VDK DKK 479 00', 'amount': -479.0}
+{'date': '04.02.2019', 'text': 'VDK DKK 940 00', 'amount': -940.0}
+{'date': '04.02.2019', 'text': 'Zara Home DK KOBMA 86545', 'amount': -118.0}
+{'date': '04.02.2019', 'text': 'SILVAN 637 Fisketo 78762', 'amount': -150.0}
+{'date': '04.02.2019', 'text': 'Illums Bolighus 88690', 'amount': -119.95}
+{'date': '04.02.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '05.02.2019', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '05.02.2019', 'text': 'Fisketorvet Føtex 23982', 'amount': -303.5}
+{'date': '07.02.2019', 'text': 'Bryggens Dyreklini 14595', 'amount': -3068.34}
+{'date': '11.02.2019', 'text': 'Kim Q Hair design 06407', 'amount': -325.0}
+{'date': '11.02.2019', 'text': 'ILLUM 51553', 'amount': -135.0}
+{'date': '11.02.2019', 'text': 'Fisketorvet Føtex 51690', 'amount': -177.8}
+{'date': '11.02.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '12.02.2019', 'text': 'VDK DKK 2089 00', 'amount': -2089.0}
+{'date': '12.02.2019', 'text': 'Fisketorvet Føtex 47482', 'amount': -264.75}
+{'date': '14.02.2019', 'text': 'Coffee Factory Swe 10212', 'amount': -117.0}
+{'date': '18.02.2019', 'text': 'VDK MYR 1084 95', 'amount': 1790.41}
+{'date': '18.02.2019', 'text': 'MCDONALDS FISKETOR 89764', 'amount': -238.0}
+{'date': '18.02.2019', 'text': 'Bertoni Fisketorve 77282', 'amount': -1199.0}
+{'date': '18.02.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '19.02.2019', 'text': 'VDK DKK 176 87', 'amount': 176.87}
+{'date': '19.02.2019', 'text': 'VDK DKK 171 49', 'amount': -171.49}
+{'date': '19.02.2019', 'text': 'VDK DKK 176 87', 'amount': -176.87}
+{'date': '19.02.2019', 'text': 'Fisketorvet Føtex 58113', 'amount': -279.05}
+{'date': '22.02.2019', 'text': 'Fisketorvet Føtex 84953', 'amount': -108.8}
+{'date': '25.02.2019', 'text': 'ZARA FISKETORVERT 00204', 'amount': -449.0}
+{'date': '25.02.2019', 'text': 'Fisketorvet Føtex 90903', 'amount': -84.98}
+{'date': '26.02.2019', 'text': 'Transfer of salary', 'amount': 40141.74}
+{'date': '26.02.2019', 'text': 'MobilePay Maria Barlev', 'amount': -50.0}
+{'date': '26.02.2019', 'text': 'Payment', 'amount': 502.0}
+{'date': '26.02.2019', 'text': 'Fisketorvet Føtex 33886', 'amount': -73.95}
+{'date': '27.02.2019', 'text': 'Payment', 'amount': 5430.45}
+{'date': '28.02.2019', 'text': 'Fine Ørsted car', 'amount': -1000.0}
+{'date': '01.03.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17298.68}
+{'date': '04.03.2019', 'text': 'Fisketorvet Føtex 56302', 'amount': -319.75}
+{'date': '04.03.2019', 'text': 'Ikea 121 ECO 72880', 'amount': -535.0}
+{'date': '05.03.2019', 'text': 'VDK DKK 188 00', 'amount': -188.0}
+{'date': '05.03.2019', 'text': 'VDK DKK 168 00', 'amount': -168.0}
+{'date': '05.03.2019', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '05.03.2019', 'text': 'VDK DKK 102 00', 'amount': -102.0}
+{'date': '06.03.2019', 'text': 'Fisketorvet Føtex 58243', 'amount': -392.78}
+{'date': '10.03.2019', 'text': 'MobilePay Caroline Boje', 'amount': -150.0}
+{'date': '11.03.2019', 'text': 'CINEMAXX FISKETORV 33875', 'amount': -244.0}
+{'date': '12.03.2019', 'text': 'VDK DKK 296 00', 'amount': -296.0}
+{'date': '12.03.2019', 'text': 'Fisketorvet Føtex 95006', 'amount': -113.45}
+{'date': '14.03.2019', 'text': 'Fisketorvet Føtex 40956', 'amount': -156.8}
+{'date': '17.03.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '18.03.2019', 'text': 'ZARA FISKETORVERT 01217', 'amount': -748.0}
+{'date': '18.03.2019', 'text': 'Fisketorvet Føtex 04330', 'amount': -188.6}
+{'date': '18.03.2019', 'text': 'Ikea 121 ECO 87258', 'amount': -2399.0}
+{'date': '19.03.2019', 'text': 'VDK DKK 48 00', 'amount': -48.0}
+{'date': '19.03.2019', 'text': 'Fisketorvet Føtex 64668', 'amount': -148.25}
+{'date': '20.03.2019', 'text': 'VDK DKK 188 00', 'amount': -188.0}
+{'date': '21.03.2019', 'text': 'VDK DKK 3344 00', 'amount': -3344.0}
+{'date': '21.03.2019', 'text': 'VDK DKK 2386 00', 'amount': -2386.0}
+{'date': '22.03.2019', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '25.03.2019', 'text': '50360', 'amount': -279.0}
+{'date': '26.03.2019', 'text': 'Transfer of salary', 'amount': 40141.74}
+{'date': '27.03.2019', 'text': '09734', 'amount': -248.0}
+{'date': '28.03.2019', 'text': 'Fisketorvet Føtex 07849', 'amount': -77.45}
+{'date': '01.04.2019', 'text': 'Total fees', 'amount': -70.0}
+{'date': '01.10.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.10.2021', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.10.2021', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.10.2021', 'text': '1BE65', 'amount': -36.0}
+{'date': '02.10.2021', 'text': 'MobilePay Caroline Boje', 'amount': -254.0}
+{'date': '04.10.2021', 'text': 'Solrød Tandklinik 78068', 'amount': -353.19}
+{'date': '04.10.2021', 'text': 'Kamerahuset ApS 45928', 'amount': -23365.0}
+{'date': '05.10.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -43.07}
+{'date': '05.10.2021', 'text': 'GOOGLE CLOUD_01B4E4 C', 'amount': -48.7}
+{'date': '05.10.2021', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -86.33}
+{'date': '05.10.2021', 'text': 'MobilePay DOT', 'amount': -84.0}
+{'date': '05.10.2021', 'text': 'MobilePay DOT', 'amount': -68.0}
+{'date': '07.10.2021', 'text': 'SLOTHS AUTO ApS 01356', 'amount': -2823.52}
+{'date': '11.10.2021', 'text': 'Storebæltsforbinde 22556', 'amount': -245.0}
+{'date': '11.10.2021', 'text': 'Storebæltsforbinde 66366', 'amount': -245.0}
+{'date': '11.10.2021', 'text': 'CIRCLE K NYBORG MA 23112', 'amount': -361.03}
+{'date': '12.10.2021', 'text': 'SuperB Solrød 14124', 'amount': -520.6}
+{'date': '13.10.2021', 'text': 'Starbucks Fisketor 54245', 'amount': -90.0}
+{'date': '14.10.2021', 'text': '25274', 'amount': -350.24}
+{'date': '17.10.2021', 'text': 'MobilePay SOLRØD SPILDEVAND A S', 'amount': -2600.0}
+{'date': '17.10.2021', 'text': 'Varmepumpe', 'amount': -3675.0}
+{'date': '18.10.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -46.19}
+{'date': '18.10.2021', 'text': 'FISKETORVET KØBENHAVN V', 'amount': -30.0}
+{'date': '18.10.2021', 'text': 'B Skat 20 10 2021', 'amount': -1262.0}
+{'date': '18.10.2021', 'text': 'SuperB Solrød 17624', 'amount': -676.56}
+{'date': '18.10.2021', 'text': 'MobilePay Farewell gift to Emilie', 'amount': -150.0}
+{'date': '19.10.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -25.5}
+{'date': '21.10.2021', 'text': 'Karlslunde Dyrehos 22966', 'amount': -495.77}
+{'date': '21.10.2021', 'text': 'SuperB Solrød 19870', 'amount': -428.3}
+{'date': '22.10.2021', 'text': '8150341 1 CU73606', 'amount': 883.52}
+{'date': '22.10.2021', 'text': 'Multa parcheggio', 'amount': -895.0}
+{'date': '25.10.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.32}
+{'date': '25.10.2021', 'text': 'Q8 Service 8042 27720', 'amount': -402.04}
+{'date': '26.10.2021', 'text': 'Lønoverførsel', 'amount': 42867.94}
+{'date': '26.10.2021', 'text': 'McDonalds Solroed rest', 'amount': -215.0}
+{'date': '26.10.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -131.01}
+{'date': '26.10.2021', 'text': 'GEOCENTER MOENS KLINT BORRE', 'amount': -35.0}
+{'date': '27.10.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -743.9}
+{'date': '27.10.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.57}
+{'date': '28.10.2021', 'text': 'RYANAIR PAYPAL COM', 'amount': -1310.19}
+{'date': '28.10.2021', 'text': 'Q8 Service 8042 30848', 'amount': -500.69}
+{'date': '28.10.2021', 'text': 'SuperB Solrød 24820', 'amount': -407.65}
+{'date': '29.10.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '29.10.2021', 'text': 'campadventure dk 54064', 'amount': -350.0}
+{'date': '01.11.2021', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.11.2021', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.11.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.11.2021', 'text': 'Maxi Zoo Gentofte 21354', 'amount': -352.85}
+{'date': '03.11.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -602.85}
+{'date': '03.11.2021', 'text': 'GOOGLE CLOUD_01B4E4 C', 'amount': -51.28}
+{'date': '04.11.2021', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -89.58}
+{'date': '05.11.2021', 'text': '3101 MAXI ZOO GENTOFTE GENTOFTE', 'amount': -288.9}
+{'date': '08.11.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -1009.31}
+{'date': '08.11.2021', 'text': 'CPH Parkering A S 63066', 'amount': -704.0}
+{'date': '09.11.2021', 'text': 'KLARNA KLARNA STOCKHOLM', 'amount': -549.0}
+{'date': '09.11.2021', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -679.9}
+{'date': '11.11.2021', 'text': 'SN4799000026624683 MILANO', 'amount': -17.98}
+{'date': '11.11.2021', 'text': 'SN4799000026630048 MILANO', 'amount': -28.47}
+{'date': '11.11.2021', 'text': 'ESPRESSO HOUSE 7160 T3 KASTRUP', 'amount': -85.0}
+{'date': '11.11.2021', 'text': 'SN4799000026630816 MILANO', 'amount': -39.88}
+{'date': '12.11.2021', 'text': 'SN4799000026635187 MILANO', 'amount': -42.36}
+{'date': '12.11.2021', 'text': 'SN4799000026634694 MILANO', 'amount': -42.36}
+{'date': '12.11.2021', 'text': 'SN4799000026635868 MILANO', 'amount': -26.28}
+{'date': '12.11.2021', 'text': 'WWW TERRAVISION EU LUTON', 'amount': -60.41}
+{'date': '12.11.2021', 'text': 'SuperB Solrød 35739', 'amount': -662.6}
+{'date': '14.11.2021', 'text': 'MobilePay Caroline Boje', 'amount': -477.0}
+{'date': '15.11.2021', 'text': 'Q8 Service 8042 45701', 'amount': -598.69}
+{'date': '16.11.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -46.41}
+{'date': '16.11.2021', 'text': 'McDonalds Solroed rest', 'amount': -234.0}
+{'date': '18.11.2021', 'text': 'SuperB Solrød 39740', 'amount': -723.2}
+{'date': '19.11.2021', 'text': 'GOOGLE Play g co helppayÆ', 'amount': -167.71}
+{'date': '22.11.2021', 'text': 'B Skat 20 11 2021', 'amount': -1262.0}
+{'date': '23.11.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.64}
+{'date': '23.11.2021', 'text': 'McDonalds Solroed rest', 'amount': -256.0}
+{'date': '26.11.2021', 'text': 'Lønoverførsel', 'amount': 42867.94}
+{'date': '26.11.2021', 'text': 'Karlslunde Dyrehos 47465', 'amount': -1143.74}
+{'date': '29.11.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.53}
+{'date': '29.11.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -46.58}
+{'date': '30.11.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.11.2021', 'text': 'KIM Q HAIR DESIGN KOEBENHAVN V', 'amount': -349.0}
+{'date': '30.11.2021', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -423.75}
+{'date': '30.11.2021', 'text': 'FOETEX FISKETOR KOEBENHAVN V', 'amount': -723.55}
+{'date': '30.11.2021', 'text': 'MUJI Denmark ApS Copenhagen', 'amount': -384.0}
+{'date': '30.11.2021', 'text': 'PAYPAL PANDORA AS 35314369001', 'amount': -1836.8}
+{'date': '30.11.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -34.5}
+{'date': '30.11.2021', 'text': 'Q8 Service 8042 57611', 'amount': -450.26}
+{'date': '01.12.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.12.2021', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.12.2021', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '02.12.2021', 'text': 'PAYPAL ADIDASDANMA 35314369001', 'amount': -379.0}
+{'date': '03.12.2021', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -129.35}
+{'date': '03.12.2021', 'text': 'GOOGLE CLOUD_01B4E4 C', 'amount': -49.83}
+{'date': '04.12.2021', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '06.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -510.7}
+{'date': '07.12.2021', 'text': 'RYANAIR PAYPAL COM', 'amount': -816.18}
+{'date': '08.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -660.3}
+{'date': '10.12.2021', 'text': 'AMZN Mktp DE V97MW4W45 AMAZON DE', 'amount': -814.95}
+{'date': '13.12.2021', 'text': 'PAYPAL UNIQLOEUROP 35314369001', 'amount': -238.0}
+{'date': '14.12.2021', 'text': 'PAYPAL SAALDIGITAL 35314369001', 'amount': -115.0}
+{'date': '14.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -67.5}
+{'date': '14.12.2021', 'text': '3108 MAXI ZOO KOEGE KOEGE', 'amount': -353.85}
+{'date': '15.12.2021', 'text': 'AMZN Mktp DE 3X83X02A5 AMAZON DE', 'amount': -970.25}
+{'date': '15.12.2021', 'text': 'KLARNA BGA GROUP STOCKHOLM', 'amount': -435.0}
+{'date': '15.12.2021', 'text': '7 Eleven B477 OPT 50056', 'amount': -537.93}
+{'date': '15.12.2021', 'text': 'CPH Parkering A S 02483', 'amount': -890.0}
+{'date': '16.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -591.75}
+{'date': '17.12.2021', 'text': 'RYANAIR DUBLIN', 'amount': -22.64}
+{'date': '17.12.2021', 'text': 'ESPRESSO HOUSE 7160 T3 KASTRUP', 'amount': -85.0}
+{'date': '17.12.2021', 'text': 'AMZN Mktp DE JB6L11GS5 AMAZON DE', 'amount': -625.64}
+{'date': '20.12.2021', 'text': 'SLOTHS AUTO ApS 01404', 'amount': -3920.0}
+{'date': '21.12.2021', 'text': 'WWW TERRAVISION EU LUTON', 'amount': -60.39}
+{'date': '21.12.2021', 'text': '267 LAGKAGHUSET SOLROED', 'amount': -170.0}
+{'date': '22.12.2021', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -1114.7}
+{'date': '22.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -396.8}
+{'date': '23.12.2021', 'text': 'Lønoverførsel', 'amount': 42867.94}
+{'date': '23.12.2021', 'text': 'Elgiganten Koege Oelby Lyng', 'amount': -1293.0}
+{'date': '23.12.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.64}
+{'date': '23.12.2021', 'text': 'Q Park Magasin Køb 00443', 'amount': -48.0}
+{'date': '25.12.2021', 'text': 'MobilePay Caroline Boje', 'amount': -646.0}
+{'date': '27.12.2021', 'text': 'POLITIKENS BOGHAL KOEBENHAVN V', 'amount': -284.85}
+{'date': '27.12.2021', 'text': 'Elgiganten Fisketorvet', 'amount': -1449.0}
+{'date': '27.12.2021', 'text': 'Storebæltsforbinde 67123', 'amount': -245.0}
+{'date': '28.12.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.52}
+{'date': '28.12.2021', 'text': 'Just Eat dk Copenhagen', 'amount': -236.0}
+{'date': '28.12.2021', 'text': 'Hotel on Booking com Amsterdam', 'amount': -4787.46}
+{'date': '28.12.2021', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -89.9}
+{'date': '28.12.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -778.85}
+{'date': '28.12.2021', 'text': 'Q8 Service 8042 77386', 'amount': -437.17}
+{'date': '29.12.2021', 'text': 'Ostetal Nord Tiste', 'amount': -5.29}
+{'date': '29.12.2021', 'text': 'SPORT24 OUTLET ISHOEJ ISHOEJ', 'amount': -120.0}
+{'date': '29.12.2021', 'text': 'SHELL 8511 SITTENSEN', 'amount': -439.98}
+{'date': '30.12.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.12.2021', 'text': 'Lidl Dienstleistung Dinklage', 'amount': -95.19}
+{'date': '30.12.2021', 'text': 'PAYPAL BOOKING 35314369001', 'amount': -565.8}
+{'date': '30.12.2021', 'text': 'SHELL 1118 GLADBECK', 'amount': -271.76}
+{'date': '01.01.2021', 'text': 'Rente samlet indestående', 'amount': -180.63}
+{'date': '02.01.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '02.01.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.01.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '02.01.2023', 'text': 'BAUHAUS Ishøj 97216', 'amount': -2429.2}
+{'date': '02.01.2023', 'text': 'MobilePay JAHEB 40', 'amount': -150.0}
+{'date': '02.01.2023', 'text': 'Q8 Service 8042 66938', 'amount': -500.57}
+{'date': '02.01.2023', 'text': 'LIDL 99399', 'amount': -752.55}
+{'date': '03.01.2023', 'text': 'McDonalds Solroed rest', 'amount': -277.0}
+{'date': '03.01.2023', 'text': 'Google CLOUD T2w7TP Milan', 'amount': -248.35}
+{'date': '03.01.2023', 'text': 'SuperB Solrød 05011', 'amount': -29.0}
+{'date': '05.01.2023', 'text': 'MobilePay Caroline Boje', 'amount': -399.0}
+{'date': '05.01.2023', 'text': 'SuperB Solrød 06362', 'amount': -102.9}
+{'date': '06.01.2023', 'text': 'Solrød Tandklinik 66826', 'amount': -586.15}
+{'date': '09.01.2023', 'text': 'LIDL 04152', 'amount': -320.66}
+{'date': '09.01.2023', 'text': '267 Lagkagehuset S 74701', 'amount': -262.9}
+{'date': '09.01.2023', 'text': 'Maxi Zoo Gentofte 74854', 'amount': -243.9}
+{'date': '09.01.2023', 'text': 'Kim Q Hair design 19265', 'amount': -369.0}
+{'date': '10.01.2023', 'text': 'Bahne Fisketorvet 23978', 'amount': -153.95}
+{'date': '10.01.2023', 'text': 'McDonalds Solroed rest', 'amount': -275.0}
+{'date': '10.01.2023', 'text': 'Elgiganten 3016 40096', 'amount': -599.0}
+{'date': '10.01.2023', 'text': 'Fisketorvet Føtex 86815', 'amount': -390.95}
+{'date': '11.01.2023', 'text': 'LIDL 08073', 'amount': -490.1}
+{'date': '16.01.2023', 'text': 'LIDL 11071', 'amount': -89.4}
+{'date': '16.01.2023', 'text': 'BAUHAUS Ishøj 06200', 'amount': -582.6}
+{'date': '16.01.2023', 'text': 'Ejendomskat', 'amount': -12012.6}
+{'date': '17.01.2023', 'text': 'McDonalds Solroed rest', 'amount': -286.0}
+{'date': '17.01.2023', 'text': 'SuperB Solrød 14140', 'amount': -668.8}
+{'date': '18.01.2023', 'text': 'Q8 Service 8042 76980', 'amount': -500.2}
+{'date': '20.01.2023', 'text': 'Børne og Ungeydelse', 'amount': 2703.0}
+{'date': '22.01.2023', 'text': 'MobilePay Caroline Boje', 'amount': -648.75}
+{'date': '24.01.2023', 'text': 'McDonalds Solroed rest', 'amount': -262.0}
+{'date': '26.01.2023', 'text': 'Lønoverførsel', 'amount': 45705.31}
+{'date': '26.01.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.23}
+{'date': '26.01.2023', 'text': 'MobilePay FALCK FAN', 'amount': -1000.0}
+{'date': '29.01.2023', 'text': 'MobilePay McDonald s Motelvej So', 'amount': -254.0}
+{'date': '30.01.2023', 'text': 'LIDL 25343', 'amount': -712.6}
+{'date': '31.01.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '31.01.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '01.02.2023', 'text': 'Gebyrer i alt', 'amount': -10.0}
+{'date': '01.02.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.02.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.02.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.02.2023', 'text': 'PAYPAL BOOKING HOTEL', 'amount': -4693.3}
+{'date': '01.02.2023', 'text': 'PAYPAL AIRBNB HMPF8N', 'amount': -18769.35}
+{'date': '01.02.2023', 'text': 'SuperB Solrød 23797', 'amount': -851.65}
+{'date': '02.02.2023', 'text': 'Overskydende skat', 'amount': 103.38}
+{'date': '03.02.2023', 'text': 'GOOGLE CLOUD WC9D56 Milano', 'amount': -243.61}
+{'date': '05.02.2023', 'text': 'MobilePay McDonald s Motelvej So', 'amount': -219.0}
+{'date': '06.02.2023', 'text': 'Q8 Service 8042 08116', 'amount': -500.34}
+{'date': '06.02.2023', 'text': 'SuperB Solrød 25356', 'amount': -605.45}
+{'date': '06.02.2023', 'text': 'SuperB Solrød 25359', 'amount': -30.95}
+{'date': '06.02.2023', 'text': 'B Skat 20 02 2023', 'amount': -1697.0}
+{'date': '06.02.2023', 'text': 'Car tax', 'amount': -640.0}
+{'date': '06.02.2023', 'text': 'B Skat 20 01 2023', 'amount': -1697.0}
+{'date': '06.02.2023', 'text': 'LIDL 33841', 'amount': -369.2}
+{'date': '08.02.2023', 'text': 'SuperB Solrød 28489', 'amount': -368.65}
+{'date': '10.02.2023', 'text': 'Aktieudbytte 3033767048', 'amount': 5383.75}
+{'date': '13.02.2023', 'text': 'Fisketorvet Føtex 77421', 'amount': -1442.05}
+{'date': '13.02.2023', 'text': 'LIDL 73425', 'amount': -120.9}
+{'date': '13.02.2023', 'text': 'ZooBiiDoo 39920', 'amount': -107.0}
+{'date': '13.02.2023', 'text': 'Vand 2022', 'amount': -3484.65}
+{'date': '13.02.2023', 'text': 'Electricity bill 202', 'amount': -33300.75}
+{'date': '14.02.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -49.31}
+{'date': '14.02.2023', 'text': 'McDonalds Solroed rest', 'amount': -256.0}
+{'date': '15.02.2023', 'text': 'SuperB Solrød 33437', 'amount': -609.75}
+{'date': '19.02.2023', 'text': 'MobilePay McDonald s Motelvej So', 'amount': -253.0}
+{'date': '20.02.2023', 'text': 'SuperB Solrød 35557', 'amount': -783.85}
+{'date': '22.02.2023', 'text': 'MobilePay Maternity present for RUN', 'amount': -50.0}
+{'date': '22.02.2023', 'text': 'Q8 Service 8042 23474', 'amount': -530.22}
+{'date': '22.02.2023', 'text': 'Bigbio Nordhavn 84119', 'amount': -69.0}
+{'date': '23.02.2023', 'text': 'LIDL 51292', 'amount': -609.7}
+{'date': '24.02.2023', 'text': 'Lønoverførsel', 'amount': 45705.31}
+{'date': '26.02.2023', 'text': 'MobilePay McDonald s Motelvej So', 'amount': -230.0}
+{'date': '27.02.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -25.63}
+{'date': '27.02.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.29}
+{'date': '27.02.2023', 'text': 'IKEA 094 HFB ECO 02277', 'amount': -399.0}
+{'date': '27.02.2023', 'text': 'Multa', 'amount': -795.0}
+{'date': '28.02.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '28.02.2023', 'text': 'SuperB Solrød 41530', 'amount': -218.7}
+{'date': '01.03.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.03.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.03.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.03.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '02.03.2023', 'text': 'MobilePay Caroline Boje', 'amount': -955.0}
+{'date': '02.03.2023', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '02.03.2023', 'text': 'MobilePay Caroline Boje', 'amount': -337.0}
+{'date': '02.03.2023', 'text': 'SuperB Solrød 42893', 'amount': -480.15}
+{'date': '03.03.2023', 'text': 'Google CLOUD z8VSMz Milan', 'amount': -220.22}
+{'date': '04.03.2023', 'text': 'MobilePay PostNord Danmark Online P', 'amount': -12.0}
+{'date': '06.03.2023', 'text': 'SuperB Solrød 44778', 'amount': -243.15}
+{'date': '06.03.2023', 'text': 'B Skat 20 03 2023', 'amount': -1697.0}
+{'date': '08.03.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -282.0}
+{'date': '09.03.2023', 'text': 'PHZ BALTONA MULTISTORE DF', 'amount': -15.99}
+{'date': '10.03.2023', 'text': 'Q8 Service 8042 37010', 'amount': -400.02}
+{'date': '10.03.2023', 'text': 'Fisketorvet Føtex 97523', 'amount': -1375.6}
+{'date': '13.03.2023', 'text': 'LIDL 67548', 'amount': -375.55}
+{'date': '14.03.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -103.5}
+{'date': '15.03.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -240.0}
+{'date': '17.03.2023', 'text': 'Power Køge 77996', 'amount': -499.0}
+{'date': '17.03.2023', 'text': 'SuperB Solrød 53160', 'amount': -674.0}
+{'date': '20.03.2023', 'text': 'ZooBiiDoo 85032', 'amount': -248.0}
+{'date': '20.03.2023', 'text': 'Meny Solrød str 85863', 'amount': -13.5}
+{'date': '21.03.2023', 'text': 'SuperB Solrød 55601', 'amount': -567.65}
+{'date': '22.03.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -225.0}
+{'date': '23.03.2023', 'text': 'AMZN Mktp DE ZY4HI8X05 AMAZON DE', 'amount': -543.85}
+{'date': '24.03.2023', 'text': 'Lønoverførsel', 'amount': 52824.06}
+{'date': '24.03.2023', 'text': 'LUFTHANSA PAYPAL COM', 'amount': -8031.0}
+{'date': '24.03.2023', 'text': 'Q8 Service 8042 47540', 'amount': -605.77}
+{'date': '25.03.2023', 'text': 'MobilePay Lorenzo Colone', 'amount': 1100.0}
+{'date': '25.03.2023', 'text': 'MobilePay Christian Pavese', 'amount': 1000.0}
+{'date': '27.03.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.32}
+{'date': '27.03.2023', 'text': 'SNS Tivoi Garden 42103', 'amount': -3023.0}
+{'date': '27.03.2023', 'text': 'LIDL 83453', 'amount': -184.2}
+{'date': '28.03.2023', 'text': 'Fisketorvet Føtex 00458', 'amount': -1244.75}
+{'date': '29.03.2023', 'text': 'McD 0107 SOLROD Karlslunde', 'amount': -241.0}
+{'date': '29.03.2023', 'text': 'Kim Q Hair design 20036', 'amount': -369.0}
+{'date': '30.03.2023', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -10.5}
+{'date': '30.03.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '30.03.2023', 'text': 'Fisketorvet Føtex 44604', 'amount': -373.75}
+{'date': '31.03.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '01.07.2020', 'text': 'OVERSKYDENDE SKAT', 'amount': 55.0}
+{'date': '01.07.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '01.07.2020', 'text': 'Fisketorvet Føtex 11862', 'amount': -222.35}
+{'date': '03.07.2020', 'text': 'MobilePay Caroline Boje', 'amount': 200.0}
+{'date': '06.07.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -720.0}
+{'date': '06.07.2020', 'text': 'Fisketorvet Føtex 16579', 'amount': -321.3}
+{'date': '06.07.2020', 'text': 'SILVAN 637 Fisketo 74785', 'amount': -1224.1}
+{'date': '06.07.2020', 'text': 'Bauhaus Valby 72451', 'amount': -414.9}
+{'date': '06.07.2020', 'text': 'Bauhaus Valby 72514', 'amount': -179.95}
+{'date': '07.07.2020', 'text': 'Ørsted', 'amount': -910.07}
+{'date': '07.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -295.0}
+{'date': '07.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -895.0}
+{'date': '09.07.2020', 'text': 'IZ CAFIOLA APS KOBENHAVN K', 'amount': -138.0}
+{'date': '10.07.2020', 'text': 'Fisketorvet Føtex 14729', 'amount': -448.75}
+{'date': '13.07.2020', 'text': 'SILVAN 637 Fisketo 82243', 'amount': -889.45}
+{'date': '14.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -395.0}
+{'date': '14.07.2020', 'text': 'SILVAN 637 Fisketo 84581', 'amount': -334.85}
+{'date': '16.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -295.0}
+{'date': '16.07.2020', 'text': 'Fisketorvet Føtex 65577', 'amount': -277.1}
+{'date': '17.07.2020', 'text': 'Café Sebastopol Ap 19134', 'amount': -990.0}
+{'date': '17.07.2020', 'text': 'SILVAN 637 Fisketo 87397', 'amount': -538.55}
+{'date': '17.07.2020', 'text': 'MobilePay Lorenzo Colone', 'amount': 500.0}
+{'date': '20.07.2020', 'text': 'Bauhaus Valby 28166', 'amount': -5292.5}
+{'date': '21.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -895.0}
+{'date': '21.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -395.0}
+{'date': '21.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -8.0}
+{'date': '22.07.2020', 'text': 'SILVAN 637 Fisketo 92562', 'amount': -84.85}
+{'date': '22.07.2020', 'text': 'Kim Q Hair design 12454', 'amount': -325.0}
+{'date': '23.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -295.0}
+{'date': '24.07.2020', 'text': 'Lønoverførsel', 'amount': 42410.48}
+{'date': '24.07.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '24.07.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '24.07.2020', 'text': 'Bauhaus Valby 78338', 'amount': -364.8}
+{'date': '24.07.2020', 'text': 'Bauhaus Valby 78840', 'amount': -1099.0}
+{'date': '27.07.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '27.07.2020', 'text': 'BAUHAUS Ishøj 21874', 'amount': -2348.65}
+{'date': '27.07.2020', 'text': 'Bauhaus Valby 79815', 'amount': -4216.25}
+{'date': '27.07.2020', 'text': 'BAUHAUS Ishøj 94484', 'amount': -321.3}
+{'date': '28.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -31.0}
+{'date': '28.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -895.0}
+{'date': '28.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -495.0}
+{'date': '28.07.2020', 'text': 'SILVAN 637 Fisketo 98198', 'amount': -39.95}
+{'date': '28.07.2020', 'text': 'SILVAN 637 Fisketo 98229', 'amount': -50.0}
+{'date': '28.07.2020', 'text': 'Harald Nyborg Ishø 68492', 'amount': -1090.0}
+{'date': '28.07.2020', 'text': 'ILVA Ishøj 94063', 'amount': -1039.0}
+{'date': '28.07.2020', 'text': 'BAUHAUS Ishøj 24280', 'amount': -1471.85}
+{'date': '29.07.2020', 'text': 'Bahne Fisketorvet 36381', 'amount': -403.95}
+{'date': '29.07.2020', 'text': 'AMZN Mktp DE UF5S80575', 'amount': -556.69}
+{'date': '29.07.2020', 'text': 'My Home 18413', 'amount': -99.0}
+{'date': '29.07.2020', 'text': 'Meny Solrød str 74829', 'amount': -496.35}
+{'date': '30.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -295.0}
+{'date': '30.07.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '31.07.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -17.0}
+{'date': '03.08.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '03.08.2020', 'text': 'BAUHAUS Ishøj 26107', 'amount': -6561.6}
+{'date': '03.08.2020', 'text': 'BAUHAUS Ishøj 95888', 'amount': -360.09}
+{'date': '10.08.2020', 'text': 'DANSKSPADESIGN DK HASLEV', 'amount': -755.0}
+{'date': '10.08.2020', 'text': '81152', 'amount': -25.0}
+{'date': '11.08.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -24.0}
+{'date': '11.08.2020', 'text': 'SuperB Solrød 47986', 'amount': -149.75}
+{'date': '12.08.2020', 'text': 'AMZN Mktp DE 9R21268W5', 'amount': -527.78}
+{'date': '12.08.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -1470.0}
+{'date': '13.08.2020', 'text': 'Betal 3825 0089555724', 'amount': 74341.0}
+{'date': '14.08.2020', 'text': 'MobilePay Caroline Boje', 'amount': -1500.0}
+{'date': '23.08.2020', 'text': 'Car deposit', 'amount': -60000.0}
+{'date': '24.08.2020', 'text': 'Richards', 'amount': -78.0}
+{'date': '25.08.2020', 'text': 'AMZN Mktp IT 6K60V0MZ5 AMAZON IT', 'amount': -259.75}
+{'date': '26.08.2020', 'text': 'Lønoverførsel', 'amount': 42385.48}
+{'date': '27.08.2020', 'text': 'Taxa 4 X 35 64735', 'amount': -95.0}
+{'date': '28.08.2020', 'text': 'BAUHAUS Ishøj 69609', 'amount': -219.9}
+{'date': '31.08.2020', 'text': 'BAUHAUS Ishøj 01257', 'amount': -2313.53}
+{'date': '31.08.2020', 'text': 'BAUHAUS Ishøj 43223', 'amount': -4887.9}
+{'date': '31.08.2020', 'text': 'Q8 Service 8042 10503', 'amount': -369.72}
+{'date': '01.09.2020', 'text': 'Gebyrer i alt', 'amount': -10.0}
+{'date': '01.09.2020', 'text': 'HK Handels og Kontorf', 'amount': -875.22}
+{'date': '01.09.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '03.09.2020', 'text': 'Fireplace', 'amount': -30415.0}
+{'date': '03.09.2020', 'text': 'AMZN Mktp IT W81L502D5 AMAZON IT', 'amount': -1728.79}
+{'date': '03.09.2020', 'text': 'IKEA 121 HFB ECO 21446', 'amount': -604.0}
+{'date': '04.09.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -20.0}
+{'date': '07.09.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -16.0}
+{'date': '07.09.2020', 'text': 'BAUHAUS Ishøj 72366', 'amount': -499.7}
+{'date': '07.09.2020', 'text': 'IKEA 094 IF 18468', 'amount': -140.5}
+{'date': '07.09.2020', 'text': 'IKEA 094 HFB 35852', 'amount': -2067.0}
+{'date': '09.09.2020', 'text': 'BAUHAUS Ishøj 50650', 'amount': -799.85}
+{'date': '10.09.2020', 'text': 'Meny Solrød str 04294', 'amount': -226.18}
+{'date': '16.09.2020', 'text': 'Fisketorvet Føtex 40539', 'amount': -212.6}
+{'date': '16.09.2020', 'text': 'SILVAN 637 Fisketo 50119', 'amount': -419.9}
+{'date': '18.09.2020', 'text': 'Q8 Service 8042 22893', 'amount': -384.77}
+{'date': '21.09.2020', 'text': 'AMZN Mktp IT T175V7A25 AMAZON IT', 'amount': -300.95}
+{'date': '21.09.2020', 'text': 'Bauhaus Valby 73404', 'amount': -1684.81}
+{'date': '21.09.2020', 'text': 'Electricity Havneh', 'amount': -954.35}
+{'date': '23.09.2020', 'text': 'Udbetaling', 'amount': 16133.14}
+{'date': '23.09.2020', 'text': 'Richards 59868', 'amount': -40.0}
+{'date': '24.09.2020', 'text': 'MobilePay Morten Max Andersen', 'amount': -75.0}
+{'date': '25.09.2020', 'text': 'Lønoverførsel', 'amount': 42410.48}
+{'date': '28.09.2020', 'text': 'BAUHAUS Ishøj 77395', 'amount': -299.8}
+{'date': '28.09.2020', 'text': 'BAUHAUS Ishøj 06248', 'amount': -289.95}
+{'date': '29.09.2020', 'text': 'EASYJET AIR 000000K1VM42C', 'amount': -1447.4}
+{'date': '29.09.2020', 'text': 'BAUHAUS Ishøj 64934', 'amount': -76.65}
+{'date': '30.09.2020', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.09.2020', 'text': 'AMZN Mktp IT UW2LR7RW5 AMAZON IT', 'amount': -1471.66}
+{'date': '30.09.2020', 'text': 'Fisketorvet Føtex 66717', 'amount': -278.65}
+{'date': '01.10.2020', 'text': 'Gebyrer i alt', 'amount': -10.0}
+{'date': '01.07.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.07.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.07.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.07.2022', 'text': 'Q8 Service 8042 20105', 'amount': -752.94}
+{'date': '04.07.2022', 'text': 'Storebæltsforbinde 07652', 'amount': -250.0}
+{'date': '04.07.2022', 'text': 'Google CLOUD WBFvQD Milan', 'amount': -65.85}
+{'date': '04.07.2022', 'text': 'Q8 Service 8101 45071', 'amount': -318.38}
+{'date': '05.07.2022', 'text': 'Vital Hotel Meiser Fichtenau Neu', 'amount': -2031.61}
+{'date': '05.07.2022', 'text': 'E CENTER AMMON DINKELSBUEHL', 'amount': -33.91}
+{'date': '06.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -34.87}
+{'date': '06.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -33.63}
+{'date': '06.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -24.72}
+{'date': '07.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -60.69}
+{'date': '07.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -40.46}
+{'date': '07.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -40.22}
+{'date': '07.07.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -36.97}
+{'date': '08.07.2022', 'text': 'U EXPRESS 06CANNES', 'amount': -813.07}
+{'date': '11.07.2022', 'text': 'LADUREE B98 CANNES', 'amount': -67.98}
+{'date': '11.07.2022', 'text': 'MONOPRIX 06CANNES0SC01', 'amount': -196.32}
+{'date': '11.07.2022', 'text': 'CANNES HOCHE 06CANNE0SSC34', 'amount': -154.85}
+{'date': '11.07.2022', 'text': 'SC FATHER AND S 06CANNES', 'amount': -347.39}
+{'date': '11.07.2022', 'text': 'Father And Sons Cannes Cannes', 'amount': -764.81}
+{'date': '11.07.2022', 'text': 'LES BAINS CANINS CANNES', 'amount': -135.97}
+{'date': '11.07.2022', 'text': 'L IDEE 06CANNES', 'amount': -694.93}
+{'date': '12.07.2022', 'text': 'PHARM ANGLO FRAN CANNES', 'amount': -49.03}
+{'date': '12.07.2022', 'text': 'WEEZEVENT 21DIJON', 'amount': -226.64}
+{'date': '12.07.2022', 'text': 'CARREFCITYSCO CANNES', 'amount': -238.95}
+{'date': '12.07.2022', 'text': 'CASINO SHOP CANNES', 'amount': -483.43}
+{'date': '12.07.2022', 'text': 'TICKET WEEZEVENT DIJON', 'amount': -226.61}
+{'date': '13.07.2022', 'text': 'FNAC CANNES', 'amount': -535.25}
+{'date': '13.07.2022', 'text': 'CARREFOURCITY CANNES', 'amount': -365.72}
+{'date': '14.07.2022', 'text': 'ANIMAL CONCEPT ST LAURENT DU', 'amount': -275.72}
+{'date': '15.07.2022', 'text': 'MONOPRIX 06CANNES0SC01', 'amount': -187.26}
+{'date': '18.07.2022', 'text': 'PAYPAL ITUNESAPPST AP', 'amount': -46.44}
+{'date': '18.07.2022', 'text': 'Storebæltsforbinde 31511', 'amount': -250.0}
+{'date': '18.07.2022', 'text': 'SuperB Solrød 97744', 'amount': -862.34}
+{'date': '18.07.2022', 'text': 'Ejendomskat 07 20222', 'amount': -12011.79}
+{'date': '18.07.2022', 'text': 'B Skat 20 07 2022', 'amount': -1069.0}
+{'date': '19.07.2022', 'text': 'AUTOROUTE DU SUD VEDENE CEDEX', 'amount': -191.9}
+{'date': '19.07.2022', 'text': 'ESCOTA VINCI 06211', 'amount': -119.36}
+{'date': '19.07.2022', 'text': 'SHELL 8196 TAPONAS', 'amount': -375.5}
+{'date': '19.07.2022', 'text': 'ENI CAMBARETTE BRIGNOLES', 'amount': -60.44}
+{'date': '19.07.2022', 'text': 'TOTAL SERVICE STATION OLZHEIM', 'amount': -496.12}
+{'date': '19.07.2022', 'text': 'AGIP9172CAMBARE BRIGNOLES', 'amount': -400.63}
+{'date': '19.07.2022', 'text': 'APRR 21850', 'amount': -252.33}
+{'date': '19.07.2022', 'text': 'NOIDANT NOIDANT LE RO', 'amount': -170.73}
+{'date': '19.07.2022', 'text': 'LAMY CA 06CANNES', 'amount': -1122.17}
+{'date': '19.07.2022', 'text': 'Raststaette Holmmoor Ost', 'amount': -75.41}
+{'date': '19.07.2022', 'text': 'SHELL 1252 HOLDORF', 'amount': -313.6}
+{'date': '19.07.2022', 'text': 'Esso Station Quickborn Quickborn', 'amount': -231.61}
+{'date': '19.07.2022', 'text': 'UZR Park Villa Wuppertal', 'amount': -1647.38}
+{'date': '19.07.2022', 'text': '45562', 'amount': -1482.32}
+{'date': '22.07.2022', 'text': 'BAUHAUS Ishøj 82890', 'amount': -327.42}
+{'date': '22.07.2022', 'text': 'SuperB Solrød 18695', 'amount': -954.65}
+{'date': '22.07.2022', 'text': 'Karlslunde Dyrehos 27639', 'amount': -17975.14}
+{'date': '24.07.2022', 'text': 'MobilePay Caroline Boje', 'amount': -800.0}
+{'date': '25.07.2022', 'text': 'Q8 Service 8042 39447', 'amount': -600.02}
+{'date': '25.07.2022', 'text': 'SuperB Solrød 02866', 'amount': -118.95}
+{'date': '26.07.2022', 'text': 'Lønoverførsel', 'amount': 54403.5}
+{'date': '27.07.2022', 'text': 'MobilePay Caroline Boje', 'amount': -740.0}
+{'date': '28.07.2022', 'text': 'SuperB Solrød 04221', 'amount': -625.26}
+{'date': '29.07.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '29.07.2022', 'text': 'MobilePay Caroline Boje', 'amount': -170.0}
+{'date': '30.07.2022', 'text': 'MobilePay Caroline Boje', 'amount': -808.0}
+{'date': '01.08.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.08.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.08.2022', 'text': 'Gjensidige Forsikring D', 'amount': -578.51}
+{'date': '01.08.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -44.77}
+{'date': '01.08.2022', 'text': 'SuperB Solrød 06650', 'amount': -881.0}
+{'date': '01.08.2022', 'text': 'Loki insurance', 'amount': 16177.63}
+{'date': '03.08.2022', 'text': 'ZooBiiDoo 57614', 'amount': -199.0}
+{'date': '03.08.2022', 'text': 'KLARNA KLARNA STOCKHOLM', 'amount': -458.0}
+{'date': '03.08.2022', 'text': 'AMZN Mktp DE JG48P2E85 AMAZON DE', 'amount': -568.2}
+{'date': '03.08.2022', 'text': 'Google CLOUD 328Lx8 Milan', 'amount': -67.98}
+{'date': '04.08.2022', 'text': 'Fisketorvet 83993', 'amount': -75.0}
+{'date': '04.08.2022', 'text': 'LIDL 43152', 'amount': -349.35}
+{'date': '05.08.2022', 'text': 'MCDONALDS FISKETORVET Koebenhavn', 'amount': -35.0}
+{'date': '05.08.2022', 'text': 'MCDONALDS FISKETORVET Koebenhavn', 'amount': -77.0}
+{'date': '05.08.2022', 'text': 'AMAZON IT 372NM11W5 WWW A', 'amount': -145.42}
+{'date': '05.08.2022', 'text': 'MobilePay Caroline Boje', 'amount': -328.0}
+{'date': '05.08.2022', 'text': '82401', 'amount': -236.0}
+{'date': '08.08.2022', 'text': 'SuperB Solrød 11086', 'amount': -1278.85}
+{'date': '09.08.2022', 'text': 'McDonalds Solroed rest', 'amount': -314.0}
+{'date': '09.08.2022', 'text': 'AMZN Mktp DE T811K2Z15 AMAZON DE', 'amount': -330.7}
+{'date': '10.08.2022', 'text': 'PAYPAL SHARE NOW 35314369001', 'amount': -155.07}
+{'date': '11.08.2022', 'text': 'Bollo auto', 'amount': -600.0}
+{'date': '11.08.2022', 'text': 'Q8 Service 8042 55882', 'amount': -660.01}
+{'date': '12.08.2022', 'text': 'WARPIGS BREWPUB 66865', 'amount': -390.0}
+{'date': '12.08.2022', 'text': 'MobilePay Caroline Boje', 'amount': -206.0}
+{'date': '15.08.2022', 'text': 'BAUHAUS Ishøj 99340', 'amount': -1447.83}
+{'date': '15.08.2022', 'text': 'SuperB Solrød 15436', 'amount': -517.7}
+{'date': '16.08.2022', 'text': 'PAYPAL ITUNESAPPST AP', 'amount': -46.43}
+{'date': '16.08.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -72.68}
+{'date': '16.08.2022', 'text': 'PAYPAL WIKIPEDIA 4029357733', 'amount': -22.0}
+{'date': '16.08.2022', 'text': 'BAUHAUS Ishøj 01892', 'amount': -79.9}
+{'date': '22.08.2022', 'text': 'Babysam Tåstrup 59669', 'amount': -2195.0}
+{'date': '22.08.2022', 'text': 'Meny Solrød str 75193', 'amount': -99.95}
+{'date': '22.08.2022', 'text': 'Babysam Tåstrup 59845', 'amount': -1058.9}
+{'date': '22.08.2022', 'text': 'Solrød Apotek 01515', 'amount': -272.15}
+{'date': '23.08.2022', 'text': '267 Lagkagehuset S 34379', 'amount': -100.0}
+{'date': '23.08.2022', 'text': 'LIDL 64939', 'amount': -386.5}
+{'date': '24.08.2022', 'text': 'McDonalds Solroed rest', 'amount': -221.0}
+{'date': '24.08.2022', 'text': 'McDonalds Solroed rest', 'amount': -29.0}
+{'date': '24.08.2022', 'text': 'SuperB Solrød 23800', 'amount': -612.1}
+{'date': '26.08.2022', 'text': 'Lønoverførsel', 'amount': 49902.07}
+{'date': '29.08.2022', 'text': 'LIDL 69352', 'amount': -277.05}
+{'date': '29.08.2022', 'text': 'Uno X 739 Køge Køb 05755', 'amount': -600.01}
+{'date': '29.08.2022', 'text': 'Babysam Køge 97669', 'amount': -1144.95}
+{'date': '29.08.2022', 'text': 'SuperB Solrød 27748', 'amount': -999.9}
+{'date': '30.08.2022', 'text': 'Bornholmslinjen AS 45 70900100', 'amount': -848.0}
+{'date': '30.08.2022', 'text': 'McDonalds Solroed rest', 'amount': -244.0}
+{'date': '31.08.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '31.08.2022', 'text': 'AMZN Mktp DE C102M95P5 AMAZON DE', 'amount': -688.27}
+{'date': '31.08.2022', 'text': 'Solrød Apotek 02326', 'amount': -624.85}
+{'date': '31.08.2022', 'text': 'SuperB Solrød 29271', 'amount': -193.4}
+{'date': '01.09.2022', 'text': 'ZooBiiDoo 29530', 'amount': -199.0}
+{'date': '01.09.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.09.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.09.2022', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.09.2022', 'text': 'MobilePay Lasse gift', 'amount': -70.0}
+{'date': '01.09.2022', 'text': 'B Skat 20 08 2022', 'amount': -1069.0}
+{'date': '02.09.2022', 'text': 'ASK', 'amount': -100000.0}
+{'date': '05.09.2022', 'text': 'Google CLOUD SCCx6G Milan', 'amount': -70.51}
+{'date': '05.09.2022', 'text': 'SuperB Solrød 31951', 'amount': -443.51}
+{'date': '05.09.2022', 'text': 'LIDL 78163', 'amount': -316.7}
+{'date': '05.09.2022', 'text': 'SuperB Solrød 32726', 'amount': -55.0}
+{'date': '06.09.2022', 'text': 'Køb DI DanmarkIndeks', 'amount': -99937.5}
+{'date': '06.09.2022', 'text': 'Køb DIX GAC ResAkDKK', 'amount': -599882.79}
+{'date': '06.09.2022', 'text': 'Matas 18732 21862', 'amount': -210.85}
+{'date': '06.09.2022', 'text': 'McDonalds Solroed rest', 'amount': -282.0}
+{'date': '07.09.2022', 'text': 'SuperB Solrød 20315', 'amount': -577.85}
+{'date': '08.09.2022', 'text': 'MobilePay Caroline Boje', 'amount': -328.0}
+{'date': '12.09.2022', 'text': 'Kim Q Hair design 18180', 'amount': -349.0}
+{'date': '12.09.2022', 'text': 'Fisketorvet Føtex 26703', 'amount': -1066.2}
+{'date': '13.09.2022', 'text': 'AMZN Mktp DE 4V6XI39T5 AMAZON DE', 'amount': -352.73}
+{'date': '13.09.2022', 'text': 'PAYPAL ITUNESAPPST AP', 'amount': -38.96}
+{'date': '13.09.2022', 'text': 'McDonalds Solroed rest', 'amount': -299.0}
+{'date': '14.09.2022', 'text': 'AMZN Mktp DE 6Q54X3945 AMAZON DE', 'amount': -1281.06}
+{'date': '14.09.2022', 'text': 'SuperB Solrød 25778', 'amount': -646.55}
+{'date': '16.09.2022', 'text': 'PAYPAL ITUNESAPPST AP', 'amount': -46.77}
+{'date': '16.09.2022', 'text': 'BR Gentofte 2002 58116', 'amount': -1199.0}
+{'date': '17.09.2022', 'text': 'MobilePay Caroline Boje', 'amount': -770.0}
+{'date': '19.09.2022', 'text': 'LIDL 94220', 'amount': -162.2}
+{'date': '19.09.2022', 'text': 'B Skat 20 09 2022', 'amount': -1069.0}
+{'date': '19.09.2022', 'text': 'Q8 Service 8042 84845', 'amount': -631.6}
+{'date': '19.09.2022', 'text': 'SuperB Solrød 29676', 'amount': -722.05}
+{'date': '20.09.2022', 'text': 'McDonalds Solroed rest', 'amount': -275.0}
+{'date': '20.09.2022', 'text': 'CPH Parkering A S 69818', 'amount': -50.0}
+{'date': '20.09.2022', 'text': 'P huset Gl Mønt 46630', 'amount': -275.0}
+{'date': '20.09.2022', 'text': '87053', 'amount': -329.0}
+{'date': '21.09.2022', 'text': 'P huset Gl Mønt 46774', 'amount': -330.0}
+{'date': '22.09.2022', 'text': 'Pitanordic ApS 17467', 'amount': -115.0}
+{'date': '22.09.2022', 'text': 'JOE THE JUICE A S Copenhagen C', 'amount': -179.0}
+{'date': '22.09.2022', 'text': 'WARPIGS BREWPUB 67232', 'amount': -617.0}
+{'date': '22.09.2022', 'text': 'Coffee Industri Sw 93506', 'amount': -176.0}
+{'date': '22.09.2022', 'text': 'COULOIR ApS 30323', 'amount': -389.0}
+{'date': '22.09.2022', 'text': 'NEMOLAND CAFE 86376', 'amount': -340.0}
+{'date': '22.09.2022', 'text': 'SuperB Solrød 31927', 'amount': -16.0}
+{'date': '23.09.2022', 'text': '7 Eleven B477 45518', 'amount': -65.0}
+{'date': '23.09.2022', 'text': 'Øresundsbroen m SE 20381', 'amount': -400.0}
+{'date': '23.09.2022', 'text': 'SuperB Hasle 17948', 'amount': -271.05}
+{'date': '26.09.2022', 'text': 'Lønoverførsel', 'amount': 45708.31}
+{'date': '26.09.2022', 'text': 'Hammerhavns Kioske 50742', 'amount': -128.0}
+{'date': '26.09.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -22.67}
+{'date': '26.09.2022', 'text': 'IZ COPENHILL A S VIRUM', 'amount': -94.0}
+{'date': '26.09.2022', 'text': 'STEEP DEEP RENTAL APS HOLTE', 'amount': -600.0}
+{'date': '26.09.2022', 'text': 'Q8 Service 8042 88413', 'amount': -473.53}
+{'date': '26.09.2022', 'text': 'The living room 03242', 'amount': -98.0}
+{'date': '26.09.2022', 'text': 'Parkeringsautomat 03718', 'amount': -37.5}
+{'date': '26.09.2022', 'text': 'ØRESUNDSBROEN 59015', 'amount': -400.0}
+{'date': '26.09.2022', 'text': 'SuperB Solrød 34568', 'amount': -395.0}
+{'date': '27.09.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -32.89}
+{'date': '27.09.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.17}
+{'date': '28.09.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -34.5}
+{'date': '28.09.2022', 'text': 'McDonalds Solroed rest', 'amount': -244.0}
+{'date': '28.09.2022', 'text': 'KROGSGAARD JENSEN 54415', 'amount': -5114.05}
+{'date': '30.09.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.10.2022', 'text': 'Rente samlet indestående', 'amount': -3425.0}
+{'date': '02.07.2018', 'text': '9 210 Heimstaden Poseido', 'amount': -17050.0}
+{'date': '02.07.2018', 'text': 'MCDONALDS FISKETOR 08975', 'amount': -199.0}
+{'date': '02.07.2018', 'text': 'Ikea 121 ECO 07615', 'amount': -1935.0}
+{'date': '02.07.2018', 'text': 'JYSK Fisketorvet 43941', 'amount': -350.0}
+{'date': '02.07.2018', 'text': 'SILVAN 637 Fisketo 67188', 'amount': -289.9}
+{'date': '02.07.2018', 'text': 'Fisketorvet Føtex 96514', 'amount': -271.99}
+{'date': '03.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -107.0}
+{'date': '03.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '03.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': 219.0}
+{'date': '04.07.2018', 'text': 'Payment', 'amount': 274.94}
+{'date': '04.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -500.0}
+{'date': '04.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': 500.0}
+{'date': '04.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -165.0}
+{'date': '05.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -220.0}
+{'date': '06.07.2018', 'text': 'VDK DKK 449 00', 'amount': -449.0}
+{'date': '06.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '09.07.2018', 'text': 'Fisketorvet Føtex 44691', 'amount': -323.7}
+{'date': '09.07.2018', 'text': 'ZARA FISKETORVERT 85052', 'amount': -318.0}
+{'date': '09.07.2018', 'text': 'MCDONALDS FISKETOR 94753', 'amount': -181.0}
+{'date': '09.07.2018', 'text': 'Electricity bill', 'amount': -2279.54}
+{'date': '10.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '11.07.2018', 'text': 'WARPIGS BREWPUB 19917', 'amount': -160.0}
+{'date': '12.07.2018', 'text': 'WARPIGS BREWPUB 19973', 'amount': -160.0}
+{'date': '12.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '16.07.2018', 'text': 'MCDONALDS FISKETOR 16410', 'amount': -38.0}
+{'date': '16.07.2018', 'text': 'CINEMAXX FISKETORV 33091', 'amount': -224.0}
+{'date': '16.07.2018', 'text': 'Fisketorvet Føtex 48439', 'amount': -470.22}
+{'date': '17.07.2018', 'text': 'VDK DKK 1861 00', 'amount': -1861.0}
+{'date': '17.07.2018', 'text': 'SPORT MASTER Fiske 58543', 'amount': -199.0}
+{'date': '17.07.2018', 'text': 'Fisketorvet Føtex 68519', 'amount': -207.25}
+{'date': '18.07.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '18.07.2018', 'text': '19846', 'amount': -79.0}
+{'date': '19.07.2018', 'text': 'Fisketorvet Føtex 87453', 'amount': -149.36}
+{'date': '20.07.2018', 'text': 'Fisketorvet Føtex 43894', 'amount': -187.25}
+{'date': '23.07.2018', 'text': 'Fisketorvet Føtex 44654', 'amount': -212.85}
+{'date': '23.07.2018', 'text': 'PLINT 70403', 'amount': -65.85}
+{'date': '23.07.2018', 'text': 'Sportmaster Vimmel 86311', 'amount': -240.0}
+{'date': '23.07.2018', 'text': 'ACCORD A S 63692', 'amount': -30.0}
+{'date': '23.07.2018', 'text': 'Fisketorvet Føtex 06846', 'amount': -254.4}
+{'date': '23.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '24.07.2018', 'text': 'H M 811 00472', 'amount': -39.95}
+{'date': '24.07.2018', 'text': 'VDK DKK 127 00', 'amount': -127.0}
+{'date': '25.07.2018', 'text': 'VDK DKK 170 00', 'amount': -170.0}
+{'date': '25.07.2018', 'text': 'FoodMarket T2 30 97668', 'amount': -144.0}
+{'date': '26.07.2018', 'text': 'Transfer of salary', 'amount': 39671.75}
+{'date': '26.07.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '27.07.2018', 'text': 'VDK PLN 5 00', 'amount': -8.86}
+{'date': '27.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -90.0}
+{'date': '29.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -70.0}
+{'date': '30.07.2018', 'text': 'VDK PLN 8 00', 'amount': -14.24}
+{'date': '30.07.2018', 'text': 'MobilePay Caroline Boje', 'amount': -250.0}
+{'date': '01.08.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '01.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -107.0}
+{'date': '01.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '01.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '02.08.2018', 'text': '9 210 Heimstaden Poseido', 'amount': -16771.0}
+{'date': '02.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -90.0}
+{'date': '04.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -500.0}
+{'date': '06.08.2018', 'text': 'MCDONALDS FISKETOR 73877', 'amount': -197.0}
+{'date': '06.08.2018', 'text': 'LIDL 14609', 'amount': -19.95}
+{'date': '06.08.2018', 'text': 'Fisketorvet Føtex 24576', 'amount': -65.9}
+{'date': '06.08.2018', 'text': 'Fisketorvet Føtex 24578', 'amount': -5.95}
+{'date': '06.08.2018', 'text': 'CINEMAXX FISKETORV 05055', 'amount': -310.0}
+{'date': '06.08.2018', 'text': 'Fisketorvet Føtex 56563', 'amount': -289.75}
+{'date': '06.08.2018', 'text': 'Fitness dk nr 37 88342', 'amount': -279.0}
+{'date': '06.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '06.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -50.0}
+{'date': '07.08.2018', 'text': 'VDK DKK 126 39', 'amount': -126.39}
+{'date': '09.08.2018', 'text': '24070', 'amount': -274.0}
+{'date': '10.08.2018', 'text': 'VDK EUR 6 00', 'amount': -45.41}
+{'date': '21.08.2018', 'text': 'Taxi 4x27 24848', 'amount': -318.0}
+{'date': '21.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -400.0}
+{'date': '21.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': 113.0}
+{'date': '22.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -1200.0}
+{'date': '22.08.2018', 'text': 'Fisketorvet Føtex 30713', 'amount': -274.36}
+{'date': '23.08.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '23.08.2018', 'text': 'Normal Fisketorv 78186', 'amount': -30.0}
+{'date': '23.08.2018', 'text': 'Fisketorvet Føtex 30985', 'amount': -57.7}
+{'date': '24.08.2018', 'text': 'Transfer of salary', 'amount': 39671.75}
+{'date': '25.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -750.0}
+{'date': '27.08.2018', 'text': 'Fisketorvet Føtex 30385', 'amount': -88.75}
+{'date': '27.08.2018', 'text': 'Kim Q Hair design 04108', 'amount': -325.0}
+{'date': '27.08.2018', 'text': 'DSB 645 Vpt RKA 29101', 'amount': -100.0}
+{'date': '27.08.2018', 'text': 'Fisketorvet Føtex 62062', 'amount': -333.6}
+{'date': '28.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -750.0}
+{'date': '29.08.2018', 'text': 'Fisketorvet Føtex 33049', 'amount': -162.75}
+{'date': '30.08.2018', 'text': 'MobilePay Caroline Boje', 'amount': -600.0}
+{'date': '31.08.2018', 'text': 'MCDONALDS FISKETOR 31357', 'amount': -209.0}
+{'date': '02.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '02.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -108.0}
+{'date': '03.09.2018', 'text': '9 210 Heimstaden Poseido', 'amount': -17050.0}
+{'date': '03.09.2018', 'text': 'Fisketorvet Føtex 60966', 'amount': -595.95}
+{'date': '03.09.2018', 'text': 'SILVAN 637 Fisketo 31535', 'amount': -807.15}
+{'date': '03.09.2018', 'text': 'Ikea 121 ECO 48445', 'amount': -1309.0}
+{'date': '03.09.2018', 'text': 'Ikea 121 ECO 48537', 'amount': -519.0}
+{'date': '03.09.2018', 'text': 'Ikea 121 ECO 58200', 'amount': -429.0}
+{'date': '03.09.2018', 'text': 'SILVAN 637 Fisketo 32500', 'amount': -28.95}
+{'date': '03.09.2018', 'text': 'Fisketorvet Føtex 29788', 'amount': -96.95}
+{'date': '03.09.2018', 'text': 'SILVAN 637 Fisketo 32597', 'amount': -57.9}
+{'date': '03.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -250.0}
+{'date': '03.09.2018', 'text': 'Fitness dk nr 37 91356', 'amount': -279.0}
+{'date': '05.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '06.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -150.0}
+{'date': '07.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -400.0}
+{'date': '10.09.2018', 'text': 'VDK DKK 799 00', 'amount': -799.0}
+{'date': '10.09.2018', 'text': 'Ikea 121 ECO 58948', 'amount': -19.0}
+{'date': '10.09.2018', 'text': '61436', 'amount': -330.0}
+{'date': '10.09.2018', 'text': 'Restaurant Phønix 19502', 'amount': -556.0}
+{'date': '10.09.2018', 'text': 'Restaurant Phønix 55594', 'amount': -30.0}
+{'date': '10.09.2018', 'text': '50579', 'amount': -999.0}
+{'date': '10.09.2018', 'text': 'Design Burger 04134', 'amount': -120.0}
+{'date': '11.09.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '11.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -260.0}
+{'date': '12.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -270.0}
+{'date': '13.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -450.0}
+{'date': '13.09.2018', 'text': 'ZARA FISKETORVERT 82995', 'amount': -698.0}
+{'date': '13.09.2018', 'text': 'Fisketorvet Føtex 11606', 'amount': -55.0}
+{'date': '14.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -280.0}
+{'date': '17.09.2018', 'text': 'Fisketorvet Føtex 76720', 'amount': -260.9}
+{'date': '17.09.2018', 'text': 'Elgiganten 3016 69507', 'amount': -149.0}
+{'date': '17.09.2018', 'text': 'ACCORD A S', 'amount': -40.0}
+{'date': '17.09.2018', 'text': 'Fisketorvet Føtex 39293', 'amount': -225.8}
+{'date': '17.09.2018', 'text': 'Coffee Factory Swe 06345', 'amount': -82.0}
+{'date': '17.09.2018', 'text': 'Fitness dk nr 37 93020', 'amount': -279.0}
+{'date': '18.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -360.0}
+{'date': '20.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -180.0}
+{'date': '21.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -135.0}
+{'date': '21.09.2018', 'text': 'Fisketorvet Føtex 41361', 'amount': -57.4}
+{'date': '24.09.2018', 'text': 'FARAOS CIGARER 36872', 'amount': -148.0}
+{'date': '24.09.2018', 'text': 'Restaurant Phønix 57368', 'amount': -278.0}
+{'date': '24.09.2018', 'text': 'Fisketorvet Føtex 40526', 'amount': -90.85}
+{'date': '24.09.2018', 'text': 'ZARA FISKETORVERT 99581', 'amount': -1037.0}
+{'date': '24.09.2018', 'text': 'Fisketorvet Føtex 42358', 'amount': -346.85}
+{'date': '24.09.2018', 'text': 'BAHNE FISKETORVET 39994', 'amount': -249.95}
+{'date': '24.09.2018', 'text': 'Fisketorvet Føtex 41573', 'amount': -138.35}
+{'date': '24.09.2018', 'text': 'SPORT 24 FISKETORV 52774', 'amount': -100.0}
+{'date': '25.09.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '25.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '26.09.2018', 'text': 'Transfer of salary', 'amount': 39671.75}
+{'date': '27.09.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '01.10.2018', 'text': 'Total fees', 'amount': -60.0}
+{'date': '02.01.2020', 'text': '36763', 'amount': -228.0}
+{'date': '02.01.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -15058.22}
+{'date': '02.01.2020', 'text': 'Kbh s Borgerservi 44130', 'amount': -280.0}
+{'date': '02.01.2020', 'text': 'Fisketorvet Føtex 56133', 'amount': -262.35}
+{'date': '03.01.2020', 'text': 'PAYPAL BOOKING COM 35314369001', 'amount': -3613.03}
+{'date': '03.01.2020', 'text': 'EASYJET EASYJET', 'amount': -917.58}
+{'date': '03.01.2020', 'text': 'EASYJET EASYJET', 'amount': -366.58}
+{'date': '03.01.2020', 'text': 'EASYJET EASYJET', 'amount': -1638.66}
+{'date': '03.01.2020', 'text': 'Payment', 'amount': 1061.9}
+{'date': '06.01.2020', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -699.9}
+{'date': '06.01.2020', 'text': 'Schwarz Senge 08072', 'amount': -12000.0}
+{'date': '06.01.2020', 'text': 'SILVAN 637 Fisketo 38502', 'amount': -299.4}
+{'date': '06.01.2020', 'text': 'Ikea 121 ECO 61769', 'amount': -858.0}
+{'date': '06.01.2020', 'text': 'Electricity bill', 'amount': -1331.44}
+{'date': '07.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -56.0}
+{'date': '07.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -88.0}
+{'date': '07.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -96.0}
+{'date': '07.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -92.0}
+{'date': '07.01.2020', 'text': 'Fisketorvet Føtex 91070', 'amount': -104.85}
+{'date': '08.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -108.0}
+{'date': '10.01.2020', 'text': 'WHS T3 Airside 85 89595', 'amount': -299.4}
+{'date': '13.01.2020', 'text': 'PASILLA INC SAN FRANCISCO', 'amount': -75.25}
+{'date': '13.01.2020', 'text': 'CVS PHARMACY Æ10035 SAN', 'amount': -20.54}
+{'date': '14.01.2020', 'text': 'STARBUCKS STORE 09213 SAN', 'amount': -130.65}
+{'date': '14.01.2020', 'text': 'STARBUCKS STORE 10892 SAN', 'amount': -47.45}
+{'date': '14.01.2020', 'text': 'JOE THE JUICE SFO LLC San', 'amount': -152.66}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -122.95}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -21.07}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -56.17}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -110.52}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -180.32}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -54.42}
+{'date': '14.01.2020', 'text': 'ALEXANDER BOOK CO SAN FRANCISCO', 'amount': -769.22}
+{'date': '14.01.2020', 'text': 'SUSHI TAKA SAN FRANCISCO', 'amount': -122.68}
+{'date': '14.01.2020', 'text': 'TAXI RIDE USA COM 2 NEW HYDE', 'amount': -442.3}
+{'date': '14.01.2020', 'text': 'BOWWOW KITTY TOO SAN', 'amount': -99.85}
+{'date': '14.01.2020', 'text': '101 MONTGOMERY ST SAN FRANCISCO', 'amount': -364.47}
+{'date': '14.01.2020', 'text': 'MCDONALD S F3171 SAN FRANCISCO', 'amount': -119.18}
+{'date': '14.01.2020', 'text': 'STARBUCKS STORE 49304 SAN', 'amount': -57.76}
+{'date': '14.01.2020', 'text': 'THE BIRD SAN FRANCISCO SAN', 'amount': -75.85}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -91.35}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -213.53}
+{'date': '14.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -199.42}
+{'date': '14.01.2020', 'text': 'STARBUCKS STORE 09743 SAN', 'amount': -29.22}
+{'date': '14.01.2020', 'text': 'ALCATRAZ CRUISES SAN FRANCISCO', 'amount': -274.38}
+{'date': '15.01.2020', 'text': 'ATM Cash Withdrawal VISA Abroad', 'amount': -30.0}
+{'date': '15.01.2020', 'text': 'TST QUEEN S LOUISIANA PO SAN', 'amount': -148.18}
+{'date': '15.01.2020', 'text': 'ALCATRAZ CRUISES SAN FRANCISCO', 'amount': -71.06}
+{'date': '15.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -70.85}
+{'date': '15.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -553.66}
+{'date': '15.01.2020', 'text': 'STARBUCKS STORE 00603 SAN', 'amount': -39.44}
+{'date': '15.01.2020', 'text': 'STARBUCKS STORE 49749 SAN JOSE', 'amount': -30.53}
+{'date': '16.01.2020', 'text': 'CLUB QUARTERS SAN FRAN SAN', 'amount': -3527.25}
+{'date': '18.01.2020', 'text': 'MobilePay Caroline Boje', 'amount': -235.0}
+{'date': '18.01.2020', 'text': 'MobilePay Caroline Boje', 'amount': -180.0}
+{'date': '20.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -14.0}
+{'date': '20.01.2020', 'text': 'PAYPAL UBER 4029357733', 'amount': -122.36}
+{'date': '20.01.2020', 'text': 'Fisketorvet Føtex 46671', 'amount': -124.9}
+{'date': '21.01.2020', 'text': 'STARBUCKS EVE IAD DULLES', 'amount': -37.2}
+{'date': '21.01.2020', 'text': 'Fisketorvet Føtex 61673', 'amount': -165.85}
+{'date': '22.01.2020', 'text': 'AMZNMktplace amazon co uk', 'amount': -262.2}
+{'date': '24.01.2020', 'text': 'Transfer of salary', 'amount': 41595.63}
+{'date': '24.01.2020', 'text': 'Fisketorvet Føtex 48831', 'amount': -257.85}
+{'date': '25.01.2020', 'text': 'MobilePay Caroline Boje', 'amount': -180.0}
+{'date': '27.01.2020', 'text': 'ILLUM 08349', 'amount': 76.7}
+{'date': '27.01.2020', 'text': 'SILVAN 637 Fisketo 77565', 'amount': -290.45}
+{'date': '28.01.2020', 'text': 'Fisketorvet Føtex 86066', 'amount': -268.7}
+{'date': '29.01.2020', 'text': 'Storebæltsforbinde 74850', 'amount': -245.0}
+{'date': '29.01.2020', 'text': 'Storebæltsforbinde 14276', 'amount': -245.0}
+{'date': '31.01.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -140.0}
+{'date': '31.01.2020', 'text': 'Fisketorvet Føtex 69757', 'amount': -326.65}
+{'date': '03.02.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17391.94}
+{'date': '03.02.2020', 'text': 'If Skadeforsikring', 'amount': -390.25}
+{'date': '03.02.2020', 'text': 'SILVAN 637 Fisketo 83381', 'amount': -459.85}
+{'date': '04.02.2020', 'text': 'Fisketorvet Føtex 79501', 'amount': -249.1}
+{'date': '04.02.2020', 'text': 'MobilePay Caroline Boje', 'amount': -61.0}
+{'date': '05.02.2020', 'text': 'DINOFFENTLIGETRANSPORT VALBY', 'amount': -720.0}
+{'date': '07.02.2020', 'text': 'Schwarz Senge', 'amount': -12800.0}
+{'date': '07.02.2020', 'text': 'Fisketorvet Føtex 53680', 'amount': -290.1}
+{'date': '10.02.2020', 'text': 'ZARA FISKETORVERT 99898', 'amount': -249.0}
+{'date': '12.02.2020', 'text': 'Coffee Industri Sw 25710', 'amount': -120.0}
+{'date': '12.02.2020', 'text': 'MobilePay Caroline Boje', 'amount': -175.0}
+{'date': '13.02.2020', 'text': 'Fisketorvet Føtex 39372', 'amount': -234.85}
+{'date': '17.02.2020', 'text': 'SILVAN 637 Fisketo 96030', 'amount': -1112.64}
+{'date': '17.02.2020', 'text': 'SILVAN 637 Fisketo 96482', 'amount': -439.9}
+{'date': '17.02.2020', 'text': 'IKEA 121 HFB ECO 05890', 'amount': -1190.0}
+{'date': '18.02.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -88.0}
+{'date': '18.02.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -112.0}
+{'date': '18.02.2020', 'text': 'MobilePay Pernille K Weeke', 'amount': -75.0}
+{'date': '18.02.2020', 'text': 'Fisketorvet Føtex 41029', 'amount': -110.81}
+{'date': '19.02.2020', 'text': 'IMPROVCOMEDY EU KOBENHAVN K', 'amount': -190.0}
+{'date': '21.02.2020', 'text': 'Taxa 4 X 35 54749', 'amount': -117.0}
+{'date': '24.02.2020', 'text': 'SILVAN 637 Fisketo 41334', 'amount': -259.9}
+{'date': '24.02.2020', 'text': 'Kim Q Hair design 11478', 'amount': -325.0}
+{'date': '24.02.2020', 'text': 'Fisketorvet Føtex 59927', 'amount': -314.97}
+{'date': '25.02.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -40.0}
+{'date': '26.02.2020', 'text': 'Transfer of salary', 'amount': 41595.63}
+{'date': '26.02.2020', 'text': 'Fisketorvet Føtex 43357', 'amount': -263.7}
+{'date': '28.02.2020', 'text': 'MobilePay Caroline Boje', 'amount': -175.0}
+{'date': '02.03.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17391.95}
+{'date': '02.03.2020', 'text': 'ZARA FISKETORVERT 03562', 'amount': -299.0}
+{'date': '02.03.2020', 'text': 'Fisketorvet Føtex 62534', 'amount': -337.85}
+{'date': '03.03.2020', 'text': 'MobilePay Caroline Boje', 'amount': -170.0}
+{'date': '04.03.2020', 'text': 'Fisketorvet Føtex 63628', 'amount': -120.85}
+{'date': '06.03.2020', 'text': 'DINOFFENTLIGETRANSPORT VALBY', 'amount': -720.0}
+{'date': '06.03.2020', 'text': 'Fisketorvet Føtex 26857', 'amount': -29.9}
+{'date': '09.03.2020', 'text': 'Bryggens Dyreklini 26844', 'amount': -824.4}
+{'date': '09.03.2020', 'text': 'MobilePay Pasfoto HBG1', 'amount': -100.0}
+{'date': '12.03.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -88.0}
+{'date': '12.03.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -72.0}
+{'date': '12.03.2020', 'text': 'Fisketorvet Føtex 89810', 'amount': -795.2}
+{'date': '17.03.2020', 'text': 'Fisketorvet Føtex 90701', 'amount': -337.3}
+{'date': '19.03.2020', 'text': 'Fisketorvet Føtex 45685', 'amount': -293.7}
+{'date': '19.03.2020', 'text': 'MobilePay Caroline Boje', 'amount': -175.0}
+{'date': '23.03.2020', 'text': 'Fisketorvet Føtex 31835', 'amount': -151.75}
+{'date': '24.03.2020', 'text': 'Fisketorvet Føtex 69711', 'amount': -218.8}
+{'date': '25.03.2020', 'text': 'Bryggens Dyreklini 27383', 'amount': -2262.52}
+{'date': '26.03.2020', 'text': 'Transfer of salary', 'amount': 41595.63}
+{'date': '01.04.2020', 'text': 'Total fees', 'amount': -60.0}
+{'date': '01.04.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.04.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.04.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.04.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '04.04.2022', 'text': 'SuperB Solrød 28150', 'amount': -622.05}
+{'date': '04.04.2022', 'text': 'Google CLOUD 5UUZ36 Milan', 'amount': -53.25}
+{'date': '06.04.2022', 'text': 'bygmax dk', 'amount': -1488.0}
+{'date': '06.04.2022', 'text': 'P huset Gl Mønt 33547', 'amount': -50.0}
+{'date': '06.04.2022', 'text': 'Fisketorvet Føtex 78861', 'amount': -599.15}
+{'date': '07.04.2022', 'text': 'Bil tax', 'amount': -665.0}
+{'date': '07.04.2022', 'text': 'Q8 Service 8042 50202', 'amount': -619.42}
+{'date': '08.04.2022', 'text': 'P huset Gl Mønt 33681', 'amount': -50.0}
+{'date': '11.04.2022', 'text': 'MobilePay Farewell gift for UFNIS', 'amount': -100.0}
+{'date': '11.04.2022', 'text': 'P huset Gl Mønt 33912', 'amount': -100.0}
+{'date': '11.04.2022', 'text': 'Zalt ApS 86293', 'amount': -360.0}
+{'date': '11.04.2022', 'text': 'MobilePay Lorenzo Colone', 'amount': 200.0}
+{'date': '12.04.2022', 'text': 'SuitSupplyPOS_Copenhagen', 'amount': -909.0}
+{'date': '13.04.2022', 'text': 'BAUHAUS Ishøj 96389', 'amount': -647.55}
+{'date': '13.04.2022', 'text': 'Fisketorvet Føtex 82749', 'amount': -544.73}
+{'date': '19.04.2022', 'text': 'Fisketorvet 49228', 'amount': -60.0}
+{'date': '19.04.2022', 'text': 'Kim Q Hair design 16628', 'amount': -349.0}
+{'date': '19.04.2022', 'text': 'Fisketorvet Føtex 83342', 'amount': -957.1}
+{'date': '19.04.2022', 'text': 'SILVAN 637 Fisketo 30253', 'amount': -121.9}
+{'date': '19.04.2022', 'text': 'B Skat 20 04 2022', 'amount': -1069.0}
+{'date': '20.04.2022', 'text': 'ZooBiiDoo 32474', 'amount': -234.0}
+{'date': '25.04.2022', 'text': 'Solrød Tandklinik 75740', 'amount': -556.95}
+{'date': '25.04.2022', 'text': 'SuperB Solrød 39097', 'amount': -967.2}
+{'date': '26.04.2022', 'text': 'Lønoverførsel', 'amount': 42864.94}
+{'date': '26.04.2022', 'text': 'KLARNA STOCKHOLM', 'amount': -475.65}
+{'date': '27.04.2022', 'text': 'føtex food Kr Ber 54107', 'amount': -97.8}
+{'date': '28.04.2022', 'text': 'P huset Gl Mønt 35090', 'amount': -206.0}
+{'date': '28.04.2022', 'text': 'Q8 Service 8042 67191', 'amount': -648.99}
+{'date': '29.04.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '29.04.2022', 'text': 'SuperB Solrød 44055', 'amount': -403.5}
+{'date': '29.04.2022', 'text': 'Meny Solrød str 39752', 'amount': -29.95}
+{'date': '02.05.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.05.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '02.05.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '02.05.2022', 'text': '13537', 'amount': -215.0}
+{'date': '02.05.2022', 'text': 'LIDL 47832', 'amount': -753.53}
+{'date': '02.05.2022', 'text': 'EPass Norway', 'amount': -15.5}
+{'date': '02.05.2022', 'text': 'CPH Parkering A S 18171', 'amount': -704.0}
+{'date': '03.05.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '04.05.2022', 'text': 'RYANAIR PAYPAL COM', 'amount': -856.19}
+{'date': '05.05.2022', 'text': 'Elgiganten 3031 41162', 'amount': -699.0}
+{'date': '06.05.2022', 'text': 'Google CLOUD_01B4E4 C33D8 Milan', 'amount': -63.53}
+{'date': '09.05.2022', 'text': 'Fisketorvet 53824', 'amount': -45.0}
+{'date': '09.05.2022', 'text': 'BabySam A S HQ 00198', 'amount': -6078.4}
+{'date': '09.05.2022', 'text': 'Ønskebørn City2 10294', 'amount': -1299.0}
+{'date': '09.05.2022', 'text': 'Fisketorvet Føtex 66246', 'amount': -499.53}
+{'date': '11.05.2022', 'text': 'SuperB Solrød 53325', 'amount': -268.2}
+{'date': '11.05.2022', 'text': 'LIDL 58177', 'amount': -391.55}
+{'date': '16.05.2022', 'text': 'BAUHAUS Ishøj 26852', 'amount': -604.7}
+{'date': '16.05.2022', 'text': 'IKEA 094 HFB ECO 02983', 'amount': -468.0}
+{'date': '17.05.2022', 'text': 'Q8 Service 8042 83045', 'amount': -400.07}
+{'date': '18.05.2022', 'text': 'MDE SRL MILANO', 'amount': -264.43}
+{'date': '20.05.2022', 'text': 'BOGGI MILANO B02 MILANO', 'amount': -445.69}
+{'date': '20.05.2022', 'text': 'LIBRERIA FELTRINELLI 10 MILANO', 'amount': -517.07}
+{'date': '20.05.2022', 'text': 'ROADHOUSE MEATERY MILANO MILANO', 'amount': -1250.94}
+{'date': '23.05.2022', 'text': 'SuperB Solrød 60704', 'amount': -638.9}
+{'date': '25.05.2022', 'text': 'Lønoverførsel', 'amount': 54676.82}
+{'date': '30.05.2022', 'text': 'Fisketorvet 73840', 'amount': -45.0}
+{'date': '30.05.2022', 'text': 'bygmax dk', 'amount': -1878.0}
+{'date': '30.05.2022', 'text': 'LIDL 74726', 'amount': -788.95}
+{'date': '30.05.2022', 'text': 'SuperB Solrød 64674', 'amount': -516.79}
+{'date': '30.05.2022', 'text': 'EPass Norway', 'amount': -66.4}
+{'date': '30.05.2022', 'text': 'EPass Norway', 'amount': -352.3}
+{'date': '31.05.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.06.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.06.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.06.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.06.2022', 'text': 'MobilePay Caroline Boje', 'amount': -427.9}
+{'date': '01.06.2022', 'text': '72315', 'amount': -1979.0}
+{'date': '01.06.2022', 'text': 'B Skat 20 05 2022', 'amount': -1069.0}
+{'date': '03.06.2022', 'text': 'CIRCLE K KARLSLUND 39355', 'amount': -515.59}
+{'date': '03.06.2022', 'text': 'Google CLOUD_01B4E4 C33D8 Milan', 'amount': -68.8}
+{'date': '07.06.2022', 'text': 'SuperB Solrød 69194', 'amount': -685.46}
+{'date': '08.06.2022', 'text': 'PAYPAL BOOKING 35314369001', 'amount': -15863.69}
+{'date': '08.06.2022', 'text': 'AMZN Mktp DE 2G6HS5IE4 AMAZON DE', 'amount': -368.68}
+{'date': '08.06.2022', 'text': 'SuperB Solrød 70646', 'amount': -592.25}
+{'date': '10.06.2022', 'text': 'P huset Gl Mønt 38732', 'amount': -225.0}
+{'date': '10.06.2022', 'text': 'BASTARD CAFÉ 73879', 'amount': -458.0}
+{'date': '11.06.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '13.06.2022', 'text': 'LIDL 87942', 'amount': -608.4}
+{'date': '13.06.2022', 'text': 'SuperB Solrød 73483', 'amount': -450.4}
+{'date': '13.06.2022', 'text': 'Tax Return Faktura', 'amount': -10000.0}
+{'date': '13.06.2022', 'text': 'Bosch service', 'amount': -3470.84}
+{'date': '14.06.2022', 'text': 'ZooBiiDoo 14095', 'amount': -249.0}
+{'date': '15.06.2022', 'text': 'BAUHAUS Ishøj 52839', 'amount': -869.4}
+{'date': '15.06.2022', 'text': 'Karlslunde Dyrehos 26916', 'amount': -2673.9}
+{'date': '16.06.2022', 'text': 'PAYPAL ITUNESAPPST AP', 'amount': -46.44}
+{'date': '20.06.2022', 'text': 'BAUHAUS Ishøj 14912', 'amount': -42370.67}
+{'date': '20.06.2022', 'text': 'BAUHAUS Ishøj 10886', 'amount': -474.95}
+{'date': '20.06.2022', 'text': 'SuperB Solrød 78140', 'amount': -480.91}
+{'date': '20.06.2022', 'text': 'BAUHAUS Ishøj 55758', 'amount': -1188.6}
+{'date': '20.06.2022', 'text': 'Q8 Service 8042 10543', 'amount': -500.96}
+{'date': '22.06.2022', 'text': 'BAUHAUS Ishøj 58674', 'amount': -1935.94}
+{'date': '23.06.2022', 'text': 'Betal 3825 0128164620', 'amount': 1754661.87}
+{'date': '23.06.2022', 'text': 'BAUHAUS Ishøj 59455', 'amount': -1097.23}
+{'date': '24.06.2022', 'text': 'Lønoverførsel', 'amount': 42864.94}
+{'date': '27.06.2022', 'text': 'SuperB Solrød 83265', 'amount': -1053.79}
+{'date': '27.06.2022', 'text': 'Farewell gift for William', 'amount': -100.0}
+{'date': '27.06.2022', 'text': 'P huset Gl Mønt 40277', 'amount': -220.0}
+{'date': '29.06.2022', 'text': 'SLOTHS AUTO ApS 01584', 'amount': -850.0}
+{'date': '29.06.2022', 'text': 'BAUHAUS Ishøj 64074', 'amount': -756.65}
+{'date': '30.06.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.06.2022', 'text': 'Kim Q Hair design 17412', 'amount': -349.0}
+{'date': '30.06.2022', 'text': 'SuperB Solrød 86548', 'amount': -183.36}
+{'date': '01.07.2022', 'text': 'Rente samlet indestående', 'amount': -3919.19}
+{'date': '03.10.2022', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '03.10.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '03.10.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '03.10.2022', 'text': 'SuperB Solrød 38962', 'amount': -661.85}
+{'date': '03.10.2022', 'text': 'SuperB Solrød 38965', 'amount': -4.95}
+{'date': '03.10.2022', 'text': 'Q8 Service 8042 96109', 'amount': -620.44}
+{'date': '03.10.2022', 'text': 'Maxi Zoo Gentofte 31308', 'amount': -198.95}
+{'date': '04.10.2022', 'text': 'McDonalds Solroed rest', 'amount': -294.0}
+{'date': '04.10.2022', 'text': 'Google CLOUD LPWQM6 Milan', 'amount': -164.01}
+{'date': '04.10.2022', 'text': 'SuperB Solrød 06761', 'amount': -162.4}
+{'date': '06.10.2022', 'text': 'MobilePay Caroline Boje', 'amount': -328.0}
+{'date': '06.10.2022', 'text': '7 Eleven B477 48210', 'amount': -81.0}
+{'date': '07.10.2022', 'text': 'SECURITAS A S', 'amount': -210.0}
+{'date': '10.10.2022', 'text': 'Fisketorvet Føtex 20767', 'amount': -868.6}
+{'date': '10.10.2022', 'text': 'Fisketorvet Føtex 21631', 'amount': -599.65}
+{'date': '10.10.2022', 'text': 'P huset Gl Mønt 48275', 'amount': -425.0}
+{'date': '11.10.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -45.71}
+{'date': '11.10.2022', 'text': 'McDonalds Solroed rest', 'amount': -245.0}
+{'date': '11.10.2022', 'text': 'SuperB Solrød 45871', 'amount': -355.95}
+{'date': '12.10.2022', 'text': 'SuitSupply Copenhagen', 'amount': -3249.0}
+{'date': '13.10.2022', 'text': '4011320147', 'amount': -306589.32}
+{'date': '13.10.2022', 'text': 'SuperB Solrød 47519', 'amount': -224.4}
+{'date': '17.10.2022', 'text': 'SuperB Solrød 50290', 'amount': -631.7}
+{'date': '18.10.2022', 'text': 'McDonalds Solroed rest', 'amount': -272.0}
+{'date': '18.10.2022', 'text': 'PAYPAL UDEMY 35314369001', 'amount': -117.09}
+{'date': '20.10.2022', 'text': 'Børne og Ungeydelse', 'amount': 2327.0}
+{'date': '24.10.2022', 'text': 'SuperB Solrød 53410', 'amount': -164.9}
+{'date': '24.10.2022', 'text': 'MobilePay Caroline Boje', 'amount': -599.75}
+{'date': '25.10.2022', 'text': 'B Skat 20 10 2022', 'amount': -1069.0}
+{'date': '26.10.2022', 'text': 'Lønoverførsel', 'amount': 45708.31}
+{'date': '26.10.2022', 'text': 'McDonalds Solroed rest', 'amount': -289.0}
+{'date': '26.10.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.21}
+{'date': '26.10.2022', 'text': 'SuperB Solrød 56531', 'amount': -906.7}
+{'date': '27.10.2022', 'text': 'Q8 Service 8042 14485', 'amount': -648.17}
+{'date': '28.10.2022', 'text': 'MobilePay Mette Bigom Ryom Herold', 'amount': -100.0}
+{'date': '31.10.2022', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '01.11.2022', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.11.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.11.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.11.2022', 'text': 'APPLE COM BILL ITUNES COM', 'amount': -45.0}
+{'date': '01.11.2022', 'text': 'KLARNA KLARNA STOCKHOLM', 'amount': -598.0}
+{'date': '01.11.2022', 'text': 'McDonalds Solroed rest', 'amount': -266.0}
+{'date': '01.11.2022', 'text': 'MobilePay Collection for Nanna', 'amount': -50.0}
+{'date': '01.11.2022', 'text': 'Maxi Zoo Gentofte 37145', 'amount': -304.9}
+{'date': '01.11.2022', 'text': 'SuperB Solrød 60999', 'amount': -189.1}
+{'date': '02.11.2022', 'text': 'Kim Q Hair design 18619', 'amount': -349.0}
+{'date': '03.11.2022', 'text': 'Google CLOUD 84w88T Milan', 'amount': -189.69}
+{'date': '03.11.2022', 'text': 'MobilePay Pernille K Weeke', 'amount': -50.0}
+{'date': '03.11.2022', 'text': 'ZARA FISKETORVERT 67494', 'amount': -522.0}
+{'date': '04.11.2022', 'text': 'Fisketorvet Føtex 98870', 'amount': -559.42}
+{'date': '06.11.2022', 'text': 'MobilePay Caroline Boje', 'amount': -328.0}
+{'date': '06.11.2022', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '07.11.2022', 'text': 'SuperB Solrød 64247', 'amount': -600.9}
+{'date': '07.11.2022', 'text': 'Q8 Service 8042 22293', 'amount': -67.9}
+{'date': '07.11.2022', 'text': 'SuperB Solrød 64932', 'amount': -51.95}
+{'date': '08.11.2022', 'text': 'McDonalds Solroed rest', 'amount': -250.0}
+{'date': '08.11.2022', 'text': '4180 APCOA PARKING AS', 'amount': -30.0}
+{'date': '09.11.2022', 'text': 'Bigbio Nordhavn 72869', 'amount': -149.0}
+{'date': '10.11.2022', 'text': 'SuperB Solrød 67854', 'amount': -659.25}
+{'date': '14.11.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -29.2}
+{'date': '14.11.2022', 'text': 'SuperB Solrød 70914', 'amount': -657.05}
+{'date': '15.11.2022', 'text': 'McDonalds Solroed rest', 'amount': -256.0}
+{'date': '15.11.2022', 'text': 'VDK DKK 917 58', 'amount': 917.58}
+{'date': '16.11.2022', 'text': 'AMZN Mktp DE AMAZON DE', 'amount': -712.62}
+{'date': '17.11.2022', 'text': 'Q8 Service 8042 30657', 'amount': -619.63}
+{'date': '17.11.2022', 'text': 'Coffee Industri Sw 00405', 'amount': -154.0}
+{'date': '17.11.2022', 'text': 'Juventus Pizza 92377', 'amount': -110.0}
+{'date': '18.11.2022', 'text': '4061 APCOA PARKING AS KOBENHAVN', 'amount': -280.0}
+{'date': '21.11.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -74.31}
+{'date': '21.11.2022', 'text': 'SuperB Solrød 74861', 'amount': -369.25}
+{'date': '21.11.2022', 'text': 'Solar panel inverter', 'amount': -11234.63}
+{'date': '22.11.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -33.35}
+{'date': '22.11.2022', 'text': 'McDonalds Solroed rest', 'amount': -239.0}
+{'date': '22.11.2022', 'text': 'SKATTEFORVALTNINGEN', 'amount': -1879.0}
+{'date': '23.11.2022', 'text': 'SuperB Solrød 77745', 'amount': -342.05}
+{'date': '23.11.2022', 'text': 'SuperB Solrød 26013', 'amount': -45.0}
+{'date': '24.11.2022', 'text': 'MobilePay Caroline Boje', 'amount': -599.75}
+{'date': '25.11.2022', 'text': 'Lønoverførsel', 'amount': 45708.31}
+{'date': '25.11.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.19}
+{'date': '28.11.2022', 'text': 'SuperB Solrød 79946', 'amount': -912.45}
+{'date': '29.11.2022', 'text': 'JOE THE JUICE A S Kastrup', 'amount': -59.0}
+{'date': '29.11.2022', 'text': 'McDonalds Solroed rest', 'amount': -243.0}
+{'date': '30.11.2022', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '30.11.2022', 'text': 'APPLE COM BILL ITUNES COM', 'amount': -45.0}
+{'date': '01.12.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.12.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.12.2022', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '01.12.2022', 'text': 'The Writers Block Las Vegas', 'amount': -428.64}
+{'date': '01.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -6.43}
+{'date': '01.12.2022', 'text': 'GNC Æ005815 LAS VEGAS', 'amount': -156.0}
+{'date': '01.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -2.34}
+{'date': '02.12.2022', 'text': 'COCOLINI MANDALAY BAY LAS', 'amount': -37.76}
+{'date': '02.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.57}
+{'date': '02.12.2022', 'text': 'PAYPAL UBER 4029357733', 'amount': -90.61}
+{'date': '02.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.36}
+{'date': '02.12.2022', 'text': 'PAYPAL UBER 4029357733', 'amount': -90.61}
+{'date': '02.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.36}
+{'date': '02.12.2022', 'text': 'PAYPAL UBER 4029357733', 'amount': -75.12}
+{'date': '02.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.13}
+{'date': '02.12.2022', 'text': 'HGV LVBS FB LAS VEGAS', 'amount': -46.99}
+{'date': '02.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.7}
+{'date': '02.12.2022', 'text': 'MobilePay Caroline Boje', 'amount': -328.0}
+{'date': '02.12.2022', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '05.12.2022', 'text': 'Google CLOUD wL625x Milan', 'amount': -252.47}
+{'date': '06.12.2022', 'text': 'HGV LVBS FB LAS VEGAS', 'amount': -66.84}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.0}
+{'date': '06.12.2022', 'text': 'VENETIAN STARBUCKS I LAS VEGAS', 'amount': -104.68}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.57}
+{'date': '06.12.2022', 'text': 'EXPO CONV CTR LAS VEGAS', 'amount': -58.78}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.88}
+{'date': '06.12.2022', 'text': 'HGV LVBS FB LAS VEGAS', 'amount': -64.41}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.97}
+{'date': '06.12.2022', 'text': 'SKYWALK PHOTO PEACH SPRINGS', 'amount': -69.54}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.04}
+{'date': '06.12.2022', 'text': 'GCW TOUR TERMINAL PEACH SPRINGS', 'amount': -688.8}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -10.33}
+{'date': '06.12.2022', 'text': 'MCDONALD S F24108 LAS VEGAS', 'amount': -119.4}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.79}
+{'date': '06.12.2022', 'text': 'VENETIAN STARBUCKS I LAS VEGAS', 'amount': -131.46}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.97}
+{'date': '06.12.2022', 'text': 'SP PSYCHO BUNNY 151 43459146', 'amount': -502.42}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -7.54}
+{'date': '06.12.2022', 'text': 'SP KARMA LUCK 170 28681438', 'amount': -610.62}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -9.16}
+{'date': '06.12.2022', 'text': 'BARNES NOBLE Æ2128 LAS VEGAS', 'amount': -973.6}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -14.6}
+{'date': '06.12.2022', 'text': 'SQ SQUISHABLE COM Las Vegas', 'amount': -459.91}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -6.9}
+{'date': '06.12.2022', 'text': 'MCDONALD S M4327 OF NV LAS VEGAS', 'amount': -171.11}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -2.57}
+{'date': '06.12.2022', 'text': 'MACYS LAS VEGAS LAS VEGAS', 'amount': -294.65}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -4.42}
+{'date': '06.12.2022', 'text': 'HGV LVBS FB LAS VEGAS', 'amount': -142.87}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -2.14}
+{'date': '06.12.2022', 'text': 'BUDGET CAR AND TRUCK REN LAS', 'amount': -1165.47}
+{'date': '06.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -17.48}
+{'date': '06.12.2022', 'text': 'SuperB Solrød 62038', 'amount': -819.6}
+{'date': '07.12.2022', 'text': 'BATH AND BODY WORKS 3626 LAS', 'amount': -286.02}
+{'date': '07.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -4.29}
+{'date': '07.12.2022', 'text': 'HGV LVBS FB LAS VEGAS', 'amount': -100.36}
+{'date': '07.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.51}
+{'date': '07.12.2022', 'text': 'PAYPAL UBER 4029357733', 'amount': -66.04}
+{'date': '07.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.99}
+{'date': '07.12.2022', 'text': 'ARCO Æ42395 AMPM LAS VEGAS', 'amount': -193.4}
+{'date': '07.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -2.9}
+{'date': '08.12.2022', 'text': 'CHILI S D SW LAS LAS VEGAS', 'amount': -37.02}
+{'date': '08.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.56}
+{'date': '08.12.2022', 'text': 'METRO PIZZA D SW LAS LAS VEGAS', 'amount': -129.6}
+{'date': '08.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -1.94}
+{'date': '08.12.2022', 'text': 'TENTATION LAS VEGAS', 'amount': -46.29}
+{'date': '08.12.2022', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -0.69}
+{'date': '08.12.2022', 'text': 'SuperB Solrød 89223', 'amount': -80.95}
+{'date': '09.12.2022', 'text': 'ZooBiiDoo 79426', 'amount': -219.0}
+{'date': '09.12.2022', 'text': '32482', 'amount': -795.0}
+{'date': '12.12.2022', 'text': 'Depotgebyr 3033767048', 'amount': -30.18}
+{'date': '12.12.2022', 'text': 'www babysam dk', 'amount': -288.95}
+{'date': '13.12.2022', 'text': 'AMZN Mktp DE 1Z43R0JW4 AMAZON DE', 'amount': -905.81}
+{'date': '13.12.2022', 'text': 'Kamerahuset ApS 52178', 'amount': -298.0}
+{'date': '13.12.2022', 'text': '22107', 'amount': -10.0}
+{'date': '13.12.2022', 'text': 'www grejfreak dk 23194', 'amount': -298.0}
+{'date': '13.12.2022', 'text': 'matas dk', 'amount': -279.95}
+{'date': '13.12.2022', 'text': 'SAXO COM', 'amount': -144.9}
+{'date': '14.12.2022', 'text': 'BELIANI DK BAAR', 'amount': -949.0}
+{'date': '14.12.2022', 'text': '06774', 'amount': -478.0}
+{'date': '14.12.2022', 'text': 'a3096', 'amount': -1728.0}
+{'date': '15.12.2022', 'text': 'Q8 Service 8042 53119', 'amount': -400.22}
+{'date': '15.12.2022', 'text': '29779', 'amount': -1506.0}
+{'date': '16.12.2022', 'text': 'McDonalds Solroed rest', 'amount': -249.0}
+{'date': '19.12.2022', 'text': 'MobilePay Køge Dækcenter ApS', 'amount': -1171.25}
+{'date': '19.12.2022', 'text': 'SuperB Solrød 97055', 'amount': -613.55}
+{'date': '20.12.2022', 'text': 'PAYPAL ADIDASDANMA 75', 'amount': -129.0}
+{'date': '20.12.2022', 'text': 'KLARNA KLARNA STOCKHOLM', 'amount': -2088.0}
+{'date': '20.12.2022', 'text': 'PAYPAL SAALDIGITAL 35314369001', 'amount': -1549.0}
+{'date': '20.12.2022', 'text': 'SLOTHS AUTO ApS 01668', 'amount': -861.25}
+{'date': '20.12.2022', 'text': 'BAUHAUS Ishøj 97103', 'amount': -534.28}
+{'date': '22.12.2022', 'text': 'Fisketorvet Føtex 38694', 'amount': -427.0}
+{'date': '23.12.2022', 'text': 'Lønoverførsel', 'amount': 45708.31}
+{'date': '23.12.2022', 'text': 'Boghallen Arnold B 13923', 'amount': -444.9}
+{'date': '26.12.2022', 'text': 'MobilePay PostNord Danmark Online P', 'amount': -12.0}
+{'date': '27.12.2022', 'text': 'H M Home 501 23657', 'amount': -272.95}
+{'date': '27.12.2022', 'text': 'Fisketorvet Føtex 80078', 'amount': -980.4}
+{'date': '27.12.2022', 'text': 'Magasin Kgs Nytor 54766', 'amount': -579.0}
+{'date': '28.12.2022', 'text': 'AMZN Mktp DE 1N30G57X4 AMAZON DE', 'amount': -1102.17}
+{'date': '28.12.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -129.32}
+{'date': '28.12.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.19}
+{'date': '28.12.2022', 'text': 'DET GAMLE APOTEK KOBENHAVN K', 'amount': -131.6}
+{'date': '28.12.2022', 'text': 'McDonalds Solroed rest', 'amount': -252.0}
+{'date': '28.12.2022', 'text': 'MobilePay Caroline Boje', 'amount': -319.0}
+{'date': '28.12.2022', 'text': 'Elgiganten 3004 58068', 'amount': -1021.0}
+{'date': '28.12.2022', 'text': 'SuperB Solrød 01936', 'amount': -667.9}
+{'date': '29.12.2022', 'text': 'SuitSupply Copenhagen', 'amount': -759.0}
+{'date': '30.12.2022', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '30.12.2022', 'text': 'APPLE COM BILL ITUNES COM', 'amount': -45.0}
+{'date': '30.12.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -65.03}
+{'date': '30.12.2022', 'text': 'MobilePay Caroline Boje', 'amount': -599.75}
+{'date': '03.04.2018', 'text': 'If Skadeforsikring', 'amount': -359.92}
+{'date': '03.04.2018', 'text': 'MCDONALDS FISKETOR 15570', 'amount': -57.0}
+{'date': '03.04.2018', 'text': 'McDonald s Østerbr 94244', 'amount': -155.0}
+{'date': '03.04.2018', 'text': 'MCDONALDS FISKETOR 78644', 'amount': -184.0}
+{'date': '03.04.2018', 'text': 'MCDONALD S FAMILIE 39803', 'amount': -60.0}
+{'date': '03.04.2018', 'text': 'JYSK Fisketorvet 38656', 'amount': -198.0}
+{'date': '03.04.2018', 'text': 'Fisketorvet Føtex 91453', 'amount': -254.95}
+{'date': '03.04.2018', 'text': 'Ikea 121 ACO 14958', 'amount': -1363.0}
+{'date': '03.04.2018', 'text': 'MobilePay', 'amount': -50.0}
+{'date': '03.04.2018', 'text': 'Rental HH 04 2018', 'amount': -17050.0}
+{'date': '03.04.2018', 'text': 'MobilePay', 'amount': -365.0}
+{'date': '04.04.2018', 'text': 'VDK DKK 1059 00', 'amount': -1059.0}
+{'date': '05.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '09.04.2018', 'text': 'ZARA FISKETORVERT 63409', 'amount': -1247.0}
+{'date': '09.04.2018', 'text': 'Fisketorvet Føtex 41196', 'amount': -212.45}
+{'date': '09.04.2018', 'text': 'MCDONALDS FISKETOR 56060', 'amount': -140.0}
+{'date': '09.04.2018', 'text': 'Fisketorvet Føtex 77140', 'amount': -537.4}
+{'date': '11.04.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '12.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -180.0}
+{'date': '16.04.2018', 'text': 'BARBURRITO ApS 20158', 'amount': -470.0}
+{'date': '16.04.2018', 'text': 'Fisketorvet Føtex 31461', 'amount': -353.25}
+{'date': '17.04.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '17.04.2018', 'text': 'VDK DKK 700 00', 'amount': 700.0}
+{'date': '17.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -90.0}
+{'date': '17.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -120.0}
+{'date': '19.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -270.0}
+{'date': '23.04.2018', 'text': 'Fisketorvet Føtex 33516', 'amount': -749.31}
+{'date': '23.04.2018', 'text': 'Kødbyens Fiskebar 01781', 'amount': -305.0}
+{'date': '25.04.2018', 'text': 'MobilePay Caroline Boje', 'amount': -160.0}
+{'date': '26.04.2018', 'text': 'Transfer of salary', 'amount': 23814.75}
+{'date': '30.04.2018', 'text': 'MCDONALDS FISKETOR 69376', 'amount': -38.0}
+{'date': '30.04.2018', 'text': 'CINEMAXX FISKETORV 91052', 'amount': -272.0}
+{'date': '30.04.2018', 'text': 'Fisketorvet Føtex 13016', 'amount': -427.95}
+{'date': '30.04.2018', 'text': 'Fisketorvet Føtex 15194', 'amount': -62.95}
+{'date': '30.04.2018', 'text': 'Coffee Factory Swe 98924', 'amount': -124.0}
+{'date': '01.05.2018', 'text': 'Total fees', 'amount': -10.0}
+{'date': '01.05.2018', 'text': 'Payment', 'amount': 145.25}
+{'date': '03.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -1500.0}
+{'date': '03.05.2018', 'text': '19353', 'amount': -330.0}
+{'date': '04.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -301.46}
+{'date': '07.05.2018', 'text': 'TIVOLI Salgskiosk 72663', 'amount': -270.0}
+{'date': '07.05.2018', 'text': '56983', 'amount': -3349.0}
+{'date': '07.05.2018', 'text': 'Fisketorvet Føtex 36931', 'amount': -337.97}
+{'date': '07.05.2018', 'text': 'Fisketorvet Føtex 96252', 'amount': -84.5}
+{'date': '09.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -315.0}
+{'date': '09.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '10.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -80.0}
+{'date': '11.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -50.0}
+{'date': '11.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -510.0}
+{'date': '14.05.2018', 'text': 'Fisketorvet Føtex 73433', 'amount': -380.55}
+{'date': '14.05.2018', 'text': 'Fisketorvet Føtex 59164', 'amount': -175.9}
+{'date': '15.05.2018', 'text': 'Bertels Salon ApS 16243', 'amount': -94.0}
+{'date': '15.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '17.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -270.0}
+{'date': '18.05.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '20.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -550.0}
+{'date': '20.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -150.0}
+{'date': '22.05.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '22.05.2018', 'text': 'VDK DKK 727 09', 'amount': -727.09}
+{'date': '22.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -230.0}
+{'date': '23.05.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '23.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '24.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -146.0}
+{'date': '24.05.2018', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '25.05.2018', 'text': 'Transfer of salary', 'amount': 39671.75}
+{'date': '25.05.2018', 'text': 'VDK DKK 24 00', 'amount': -24.0}
+{'date': '28.05.2018', 'text': 'Fisketorvet Føtex 23402', 'amount': -499.65}
+{'date': '28.05.2018', 'text': 'MCDONALDS FISKETOR 41669', 'amount': -38.0}
+{'date': '28.05.2018', 'text': 'CINEMAXX FISKETORV 95220', 'amount': -244.0}
+{'date': '28.05.2018', 'text': 'BoConcept Københav 21966', 'amount': -3919.0}
+{'date': '28.05.2018', 'text': 'Fisketorvet Føtex 80637', 'amount': -121.8}
+{'date': '28.05.2018', 'text': 'Betaling af Bøde', 'amount': -1500.0}
+{'date': '28.05.2018', 'text': 'Coffee Factory Swe 44545', 'amount': -40.0}
+{'date': '28.05.2018', 'text': 'Fisketorvet Føtex 47776', 'amount': -143.0}
+{'date': '29.05.2018', 'text': 'MobilePay Mikael Zebbelin Poulsen', 'amount': -150.0}
+{'date': '29.05.2018', 'text': 'MobilePay Mikael Zebbelin Poulsen', 'amount': 100.0}
+{'date': '30.05.2018', 'text': 'Fisketorvet Føtex 42485', 'amount': -255.6}
+{'date': '01.06.2018', 'text': 'Total fees', 'amount': -10.0}
+{'date': '01.06.2018', 'text': '9 210 Heimstaden Poseido', 'amount': -17329.0}
+{'date': '01.06.2018', 'text': 'Fisketorvet Føtex 27032', 'amount': -697.45}
+{'date': '04.06.2018', 'text': 'MCDONALDS FISKETOR 98003', 'amount': -38.0}
+{'date': '04.06.2018', 'text': 'CINEMAXX FISKETORV 29247', 'amount': -244.0}
+{'date': '04.06.2018', 'text': 'k15 Café Restaur 33612', 'amount': -197.0}
+{'date': '04.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -700.0}
+{'date': '04.06.2018', 'text': 'Fisketorvet Føtex 05503', 'amount': -302.15}
+{'date': '06.06.2018', 'text': 'Fine Parkzone', 'amount': -750.0}
+{'date': '06.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -130.0}
+{'date': '08.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '11.06.2018', 'text': 'MCDONALDS FISKETOR 52121', 'amount': -38.0}
+{'date': '11.06.2018', 'text': 'CINEMAXX FISKETORV 20515', 'amount': -244.0}
+{'date': '11.06.2018', 'text': 'Fisketorvet Føtex 02602', 'amount': -382.5}
+{'date': '11.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -600.0}
+{'date': '13.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '13.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -2255.0}
+{'date': '15.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': 2255.0}
+{'date': '15.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '18.06.2018', 'text': 'NOTRE DAME', 'amount': -80.0}
+{'date': '18.06.2018', 'text': 'Flying Tiger Cph41 06211', 'amount': -80.0}
+{'date': '18.06.2018', 'text': 'Fisketorvet Føtex 91131', 'amount': -614.5}
+{'date': '18.06.2018', 'text': 'Fisketorvet Føtex 36358', 'amount': -86.0}
+{'date': '19.06.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '19.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -500.0}
+{'date': '21.06.2018', 'text': 'MobilePay Maria Barlev', 'amount': -100.0}
+{'date': '21.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '22.06.2018', 'text': 'MCDONALDS FISKETOR 07926', 'amount': -210.0}
+{'date': '25.06.2018', 'text': 'Fisketorvet Føtex 11191', 'amount': -359.45}
+{'date': '25.06.2018', 'text': 'MCDONALDS FISKETOR 85579', 'amount': -162.0}
+{'date': '25.06.2018', 'text': 'Kim Q Hair design 03322', 'amount': -325.0}
+{'date': '26.06.2018', 'text': 'Transfer of salary', 'amount': 23835.75}
+{'date': '26.06.2018', 'text': 'Nørrebro Apotek v 06383', 'amount': -71.3}
+{'date': '26.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -80.0}
+{'date': '26.06.2018', 'text': 'Heimstaden', 'amount': -17050.0}
+{'date': '27.06.2018', 'text': 'VDK DKK 2807 00', 'amount': -2807.0}
+{'date': '27.06.2018', 'text': 'VDK DKK 2807 00', 'amount': -2807.0}
+{'date': '27.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -156.0}
+{'date': '27.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -72.0}
+{'date': '27.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '28.06.2018', 'text': '27220', 'amount': -2598.0}
+{'date': '28.06.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '29.06.2018', 'text': 'Fisketorvet Føtex 12971', 'amount': -378.0}
+{'date': '01.07.2018', 'text': 'Total fees', 'amount': -70.0}
+{'date': '01.04.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '01.04.2020', 'text': 'Fisketorvet Føtex 23220', 'amount': -477.45}
+{'date': '07.04.2020', 'text': 'EASYJET EASYJET', 'amount': -419.78}
+{'date': '08.04.2020', 'text': 'Electricity bill', 'amount': -678.73}
+{'date': '08.04.2020', 'text': 'Fisketorvet Føtex 44505', 'amount': -641.48}
+{'date': '14.04.2020', 'text': 'Fisketorvet Føtex 85078', 'amount': -162.4}
+{'date': '14.04.2020', 'text': 'Fisketorvet Føtex 75814', 'amount': -337.3}
+{'date': '17.04.2020', 'text': 'Fisketorvet Føtex 94898', 'amount': -372.61}
+{'date': '21.04.2020', 'text': 'Fisketorvet Føtex 78198', 'amount': -364.91}
+{'date': '23.04.2020', 'text': 'Fisketorvet Føtex 99568', 'amount': -502.24}
+{'date': '24.04.2020', 'text': 'Transfer of salary', 'amount': 41820.63}
+{'date': '27.04.2020', 'text': 'TandDyreklinikken 05458', 'amount': -9829.2}
+{'date': '28.04.2020', 'text': 'AMZNMktplace amazon co uk', 'amount': -394.17}
+{'date': '28.04.2020', 'text': 'AMAZON DE AMAZON DE AMAZON DE', 'amount': -863.27}
+{'date': '29.04.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -595.0}
+{'date': '30.04.2020', 'text': 'Fisketorvet Føtex 98483', 'amount': -427.9}
+{'date': '01.05.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '05.05.2020', 'text': 'Fisketorvet Føtex 94071', 'amount': -475.0}
+{'date': '06.05.2020', 'text': 'PAYPAL COURSERAINC 3Z', 'amount': -348.27}
+{'date': '11.05.2020', 'text': 'Fisketorvet Føtex 46555', 'amount': -496.85}
+{'date': '14.05.2020', 'text': 'Fisketorvet Føtex 95839', 'amount': -286.15}
+{'date': '19.05.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -68.0}
+{'date': '20.05.2020', 'text': 'Fisketorvet Føtex 51351', 'amount': -355.2}
+{'date': '25.05.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '25.05.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '25.05.2020', 'text': 'Kim Q Hair design 11996', 'amount': -325.0}
+{'date': '26.05.2020', 'text': 'Transfer of salary', 'amount': 41583.63}
+{'date': '26.05.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -60.0}
+{'date': '26.05.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -48.0}
+{'date': '26.05.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '26.05.2020', 'text': 'Fisketorvet Føtex 33119', 'amount': -595.57}
+{'date': '27.05.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '27.05.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -36.0}
+{'date': '02.06.2020', 'text': '9 210 Heimstaden Poseido', 'amount': -17283.14}
+{'date': '02.06.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '02.06.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -48.0}
+{'date': '02.06.2020', 'text': 'Fisketorvet Føtex 56665', 'amount': -339.5}
+{'date': '03.06.2020', 'text': 'MobilePay Martin Buus Østergaard', 'amount': -50.0}
+{'date': '04.06.2020', 'text': 'DOT APP NETCOMPANY TAASTRUP', 'amount': -720.0}
+{'date': '08.06.2020', 'text': 'EUROPCAR DK', 'amount': -2500.0}
+{'date': '09.06.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -48.0}
+{'date': '09.06.2020', 'text': 'Fisketorvet Føtex 11615', 'amount': -277.05}
+{'date': '10.06.2020', 'text': 'EUROPCAR DK', 'amount': 2975.09}
+{'date': '10.06.2020', 'text': '21306', 'amount': -1359.0}
+{'date': '12.06.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '12.06.2020', 'text': 'DOT DIN OFFENTLIGE TRAN', 'amount': -68.0}
+{'date': '12.06.2020', 'text': 'Payment 3825 0086492674', 'amount': 74421.0}
+{'date': '12.06.2020', 'text': 'Payment 3825 0086492676', 'amount': 148842.0}
+{'date': '12.06.2020', 'text': 'Payment 3825 0086492680', 'amount': 74421.0}
+{'date': '15.06.2020', 'text': '87418', 'amount': -1459.0}
+{'date': '16.06.2020', 'text': 'GREENMOBILITY A S KBENHAVN K', 'amount': -112.0}
+{'date': '16.06.2020', 'text': 'Fisketorvet Føtex 63277', 'amount': -500.2}
+{'date': '19.06.2020', 'text': 'Til køberkonto', 'amount': -500000.0}
+{'date': '26.06.2020', 'text': 'Transfer of salary', 'amount': 42760.48}
+{'date': '29.06.2020', 'text': 'Bauhaus Valby 69144', 'amount': -359.85}
+{'date': '29.06.2020', 'text': 'SILVAN 637 Fisketo 68196', 'amount': -932.7}
+{'date': '29.06.2020', 'text': 'Fisketorvet Føtex 14346', 'amount': -282.25}
+{'date': '01.07.2020', 'text': 'Total fees', 'amount': -60.0}
+{'date': '01.10.2020', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.10.2020', 'text': 'Gjensidige Forsikring', 'amount': -1136.44}
+{'date': '01.10.2020', 'text': 'HK Handels og Kontorf', 'amount': -505.0}
+{'date': '05.10.2020', 'text': '18522', 'amount': -1495.0}
+{'date': '07.10.2020', 'text': 'AMZN Mktp IT 3B3QE5WP5 AMAZON IT', 'amount': -516.13}
+{'date': '07.10.2020', 'text': 'Fisketorvet Føtex 70627', 'amount': -264.3}
+{'date': '07.10.2020', 'text': 'SILVAN 637 Fisketo 71026', 'amount': -200.85}
+{'date': '07.10.2020', 'text': 'Kim Q Hair design 13034', 'amount': -325.0}
+{'date': '08.10.2020', 'text': 'AMZN Mktp DE KC86C62N5 AMAZON DE', 'amount': -305.02}
+{'date': '12.10.2020', 'text': 'BAUHAUS Ishøj 81104', 'amount': -2263.85}
+{'date': '13.10.2020', 'text': 'BAUHAUS Ishøj 75188', 'amount': -199.9}
+{'date': '14.10.2020', 'text': 'Meny Solrød str 08335', 'amount': -107.25}
+{'date': '14.10.2020', 'text': 'Solrød Apotek 56030', 'amount': -199.95}
+{'date': '15.10.2020', 'text': 'CPH Parkering A S 00743', 'amount': -499.0}
+{'date': '15.10.2020', 'text': 'BAUHAUS Ishøj 82780', 'amount': -99.95}
+{'date': '16.10.2020', 'text': 'Q8 Service 8042 43469', 'amount': -346.77}
+{'date': '20.10.2020', 'text': 'JOE THE JUICE A S Kastrup', 'amount': -84.0}
+{'date': '20.10.2020', 'text': 'MALPENSA FERNO', 'amount': -98.23}
+{'date': '20.10.2020', 'text': 'BAUHAUS Ishøj 80389', 'amount': -649.95}
+{'date': '21.10.2020', 'text': 'SS 2 PIOLTELLO PIOLTELLO', 'amount': -98.23}
+{'date': '22.10.2020', 'text': 'BAUHAUS Ishøj 81603', 'amount': -649.95}
+{'date': '26.10.2020', 'text': 'Lønoverførsel', 'amount': 42635.44}
+{'date': '26.10.2020', 'text': 'AMZN Mktp DE AMAZON DE', 'amount': 305.02}
+{'date': '26.10.2020', 'text': 'BAUHAUS Ishøj 11542', 'amount': -8479.38}
+{'date': '29.10.2020', 'text': 'BAUHAUS Ishøj 87073', 'amount': -119.95}
+{'date': '30.10.2020', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.10.2020', 'text': 'AMZN Mktp IT MC1I08K14 AMAZON IT', 'amount': -794.18}
+{'date': '02.11.2020', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.11.2020', 'text': 'HK Handels og Kontorf', 'amount': -505.0}
+{'date': '02.11.2020', 'text': 'Gjensidige Forsikring', 'amount': -481.84}
+{'date': '02.11.2020', 'text': 'BAUHAUS Ishøj 88712', 'amount': -2599.55}
+{'date': '02.11.2020', 'text': 'Fisketorvet Føtex 58022', 'amount': -253.0}
+{'date': '02.11.2020', 'text': 'Maxi Zoo Gentofte 79513', 'amount': -159.9}
+{'date': '02.11.2020', 'text': 'Bahne Fisketorvet 98436', 'amount': -499.9}
+{'date': '04.11.2020', 'text': 'BAUHAUS Ishøj 91499', 'amount': -339.85}
+{'date': '06.11.2020', 'text': 'AMZN Mktp IT M75DH6L74 AMAZON IT', 'amount': -475.39}
+{'date': '09.11.2020', 'text': 'Overførsel', 'amount': 926.3}
+{'date': '09.11.2020', 'text': 'BAUHAUS Ishøj 45203', 'amount': -2543.55}
+{'date': '09.11.2020', 'text': 'Bil grøn ejerafgift', 'amount': -564.44}
+{'date': '10.11.2020', 'text': 'BAUHAUS Ishøj 91777', 'amount': -1399.9}
+{'date': '11.11.2020', 'text': 'Solrød Dyreklinik 38784', 'amount': -2296.26}
+{'date': '11.11.2020', 'text': 'Solrød Apotek 33158', 'amount': -163.7}
+{'date': '12.11.2020', 'text': 'Meny Solrød str 20258', 'amount': -216.25}
+{'date': '16.11.2020', 'text': 'BAUHAUS Ishøj 99762', 'amount': -409.8}
+{'date': '16.11.2020', 'text': 'Q8 Service 8042 64007', 'amount': -402.62}
+{'date': '16.11.2020', 'text': 'Zara Home DK KOBMA 62285', 'amount': -237.0}
+{'date': '16.11.2020', 'text': 'billet kglteaterdk 35726', 'amount': -690.0}
+{'date': '18.11.2020', 'text': 'MobilePay Pernille K Weeke', 'amount': -100.0}
+{'date': '19.11.2020', 'text': 'Solrød Dyreklinik 38948', 'amount': -345.0}
+{'date': '23.11.2020', 'text': 'BAUHAUS Ishøj 03616', 'amount': -219.9}
+{'date': '23.11.2020', 'text': 'SILVAN 638 Tårnby 00041', 'amount': -523.8}
+{'date': '26.11.2020', 'text': 'Lønoverførsel', 'amount': 42645.48}
+{'date': '26.11.2020', 'text': 'Overført', 'amount': 8184.92}
+{'date': '27.11.2020', 'text': 'AMZN Mktp IT MY6SS6TV4 AMAZON IT', 'amount': -838.07}
+{'date': '28.11.2020', 'text': 'MobilePay Caroline Boje', 'amount': -500.0}
+{'date': '30.11.2020', 'text': 'BAUHAUS Ishøj 98840', 'amount': -729.87}
+{'date': '30.11.2020', 'text': 'Meny Solrød str 27441', 'amount': -202.85}
+{'date': '30.11.2020', 'text': 'PANDORA Amagertorv 75727', 'amount': -1038.4}
+{'date': '30.11.2020', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.11.2020', 'text': 'Elgiganten 3004 52158', 'amount': -1000.5}
+{'date': '01.12.2020', 'text': 'HK Handels og Kontorf', 'amount': -505.0}
+{'date': '01.12.2020', 'text': 'Gjensidige Forsikring', 'amount': -481.84}
+{'date': '01.12.2020', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.12.2020', 'text': 'AMZNMktplace amazon co uk', 'amount': -472.77}
+{'date': '02.12.2020', 'text': 'BAUHAUS Ishøj 12137', 'amount': -1398.9}
+{'date': '02.12.2020', 'text': 'Fitness World 246 21603', 'amount': -47.42}
+{'date': '04.12.2020', 'text': 'MobilePay Caroline Boje', 'amount': -179.0}
+{'date': '07.12.2020', 'text': 'SILVAN 637 Fisketo 37809', 'amount': -94.9}
+{'date': '07.12.2020', 'text': 'Nespresso Københav 05645', 'amount': -599.0}
+{'date': '08.12.2020', 'text': 'DET GAMLE APOTEK KOBENHAVN K', 'amount': -263.0}
+{'date': '08.12.2020', 'text': 'Q8 Service 8042 79398', 'amount': -427.11}
+{'date': '09.12.2020', 'text': '85125', 'amount': -1695.0}
+{'date': '14.12.2020', 'text': 'Politikens Boghal 04450', 'amount': -217.95}
+{'date': '14.12.2020', 'text': 'SILVAN 637 Fisketo 46577', 'amount': -829.55}
+{'date': '14.12.2020', 'text': 'Khorn Aps 32256', 'amount': -40.0}
+{'date': '14.12.2020', 'text': 'H M 811 36019', 'amount': -380.0}
+{'date': '14.12.2020', 'text': 'MobilePay Caroline Boje', 'amount': -438.0}
+{'date': '18.12.2020', 'text': 'Overførsel 4011320120', 'amount': -22.72}
+{'date': '21.12.2020', 'text': 'Meny Solrød str 23603', 'amount': -373.55}
+{'date': '21.12.2020', 'text': 'BAUHAUS Web Shop 12147', 'amount': -130.85}
+{'date': '21.12.2020', 'text': 'BAUHAUS Web Shop 13468', 'amount': -130.85}
+{'date': '21.12.2020', 'text': 'Gavekortet dk A S 77002', 'amount': -2041.0}
+{'date': '21.12.2020', 'text': 'BAUHAUS Web Shop 32324', 'amount': -109.5}
+{'date': '23.12.2020', 'text': 'Lønoverførsel', 'amount': 52719.48}
+{'date': '23.12.2020', 'text': 'Meny Solrød str 71078', 'amount': -313.85}
+{'date': '25.12.2020', 'text': 'MobilePay Caroline Boje', 'amount': -2000.0}
+{'date': '28.12.2020', 'text': 'BAUHAUS Web Shop 14856', 'amount': -269.8}
+{'date': '28.12.2020', 'text': 'AMZN Mktp IT MS60C5YD4 AMAZON IT', 'amount': -1359.95}
+{'date': '28.12.2020', 'text': 'Indbetaling', 'amount': 1090.84}
+{'date': '28.12.2020', 'text': 'BAUHAUS Web Shop 31258', 'amount': -379.8}
+{'date': '30.12.2020', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '03.01.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '03.01.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '03.01.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '03.01.2022', 'text': 'LIM RIDE COST DUBLIN', 'amount': -42.43}
+{'date': '03.01.2022', 'text': 'LIM RIDE COST DUBLIN', 'amount': -35.78}
+{'date': '03.01.2022', 'text': 'LIM RIDE COST DUBLIN', 'amount': -14.19}
+{'date': '04.01.2022', 'text': 'SANSEVERIA BRUGGE', 'amount': -158.55}
+{'date': '04.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -20.84}
+{'date': '04.01.2022', 'text': 'STATION AVIA 62ST LEGER855', 'amount': -364.51}
+{'date': '04.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -25.82}
+{'date': '04.01.2022', 'text': 'PNVT DEPLA CHOCOLATIER BRUGGE', 'amount': -66.43}
+{'date': '04.01.2022', 'text': 'DE MOLENPOORT BRUGGE', 'amount': -309.54}
+{'date': '04.01.2022', 'text': 'SANSEVERIA BRUGGE', 'amount': -128.34}
+{'date': '04.01.2022', 'text': 'JELLY JAZZ BRUGGE BRUGGE', 'amount': -24.53}
+{'date': '04.01.2022', 'text': 'GOOGLE CLOUD L7FQEX', 'amount': -52.63}
+{'date': '04.01.2022', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -97.79}
+{'date': '05.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -22.5}
+{'date': '05.01.2022', 'text': 'LIBERTE PARIS', 'amount': -52.09}
+{'date': '05.01.2022', 'text': 'SANEF AUTOROUTE 60304 SENLIS', 'amount': -127.6}
+{'date': '05.01.2022', 'text': 'DELIVEROO PARIS 09', 'amount': -286.22}
+{'date': '05.01.2022', 'text': 'STARBUCKS PARIS', 'amount': -127.22}
+{'date': '06.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -42.44}
+{'date': '06.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -37.45}
+{'date': '06.01.2022', 'text': 'CARREFOUR CITY 75PARIS', 'amount': -48.62}
+{'date': '06.01.2022', 'text': 'LIBERTE PARIS', 'amount': -30.96}
+{'date': '06.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -29.14}
+{'date': '06.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -37.45}
+{'date': '07.01.2022', 'text': 'LIM RIDE COST PARIS', 'amount': -34.12}
+{'date': '09.01.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '10.01.2022', 'text': 'Storebæltsforbinde 41978', 'amount': -250.0}
+{'date': '10.01.2022', 'text': 'Q8 Service 8100 78763', 'amount': -345.2}
+{'date': '10.01.2022', 'text': 'SuperB Solrød 71717', 'amount': -1051.55}
+{'date': '10.01.2022', 'text': 'Property tax Jan22', 'amount': -12011.79}
+{'date': '11.01.2022', 'text': 'ZooBiiDoo 73732', 'amount': -199.0}
+{'date': '11.01.2022', 'text': 'LA HUNESTGERMAIN PARIS 6', 'amount': -604.12}
+{'date': '11.01.2022', 'text': 'CITADINES 75PARIS 6', 'amount': -1193.29}
+{'date': '11.01.2022', 'text': 'CITADINES SC 75PARIS 6', 'amount': -119.03}
+{'date': '14.01.2022', 'text': 'MobilePay Gift for Sunes newborn so', 'amount': -100.0}
+{'date': '19.01.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -378.05}
+{'date': '24.01.2022', 'text': 'Hotel at Booking com Amsterdam', 'amount': -3096.94}
+{'date': '25.01.2022', 'text': 'FISKETORVET KABENHAVN V', 'amount': -105.0}
+{'date': '25.01.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -778.8}
+{'date': '25.01.2022', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -70.07}
+{'date': '25.01.2022', 'text': 'SPORT24 OUTLET ISHOEJ ISHOEJ', 'amount': -1100.0}
+{'date': '25.01.2022', 'text': 'CINEMAXX DANMARK A S KOEBENHAVN', 'amount': -148.0}
+{'date': '25.01.2022', 'text': 'AMZN Mktp DE AD8YN2C15 AMAZON DE', 'amount': -492.22}
+{'date': '26.01.2022', 'text': 'Lønoverførsel', 'amount': 43199.94}
+{'date': '27.01.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -76.0}
+{'date': '27.01.2022', 'text': 'Karlslunde Dyrehos 49371', 'amount': -779.58}
+{'date': '28.01.2022', 'text': 'Øresundsbroen m SE 18961', 'amount': -400.0}
+{'date': '31.01.2022', 'text': 'CIRCLE K KYSTVEJEN 02016', 'amount': -37.5}
+{'date': '31.01.2022', 'text': 'ZOOBIIDOO SOLROED STRAN', 'amount': -199.0}
+{'date': '31.01.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.02.2022', 'text': 'Gebyrer i alt', 'amount': -10.0}
+{'date': '01.02.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.02.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.02.2022', 'text': 'Gjensidige Forsikring', 'amount': -531.92}
+{'date': '01.02.2022', 'text': 'ESSO LAERDAL LAERDAL', 'amount': -57.68}
+{'date': '01.02.2022', 'text': 'JOKER GUDVANGEN GUDVANGEN', 'amount': -242.78}
+{'date': '01.02.2022', 'text': 'JOKER GUDVANGEN GUDVANGEN', 'amount': -291.83}
+{'date': '01.02.2022', 'text': 'JOKER GUDVANGEN GUDVANGEN', 'amount': -21.25}
+{'date': '01.02.2022', 'text': 'SHELL LJUNGSKIL LJUNGSKILE', 'amount': -92.19}
+{'date': '01.02.2022', 'text': 'COOP MARKED FLAM 827717 FLAAM', 'amount': -438.58}
+{'date': '01.02.2022', 'text': 'CIRCLE K KYSTVEJEN KASTRUP', 'amount': -16.0}
+{'date': '03.02.2022', 'text': '1 2 3 AURLAND AURLAND', 'amount': -276.19}
+{'date': '03.02.2022', 'text': 'OERESUNDSBROEN MOD DK KOBENHAVN', 'amount': -400.0}
+{'date': '03.02.2022', 'text': 'GOOGLE CLOUD 7J84AA', 'amount': -52.43}
+{'date': '03.02.2022', 'text': 'YX VANG I VALDRES 0067 VANG', 'amount': -177.2}
+{'date': '03.02.2022', 'text': 'CIRCLE K MOSSEPORTEN MOSS', 'amount': -61.34}
+{'date': '03.02.2022', 'text': 'SHELL FJARAAS FJARAAS', 'amount': -95.56}
+{'date': '03.02.2022', 'text': 'JOKER GUDVANGEN GUDVANGEN', 'amount': -62.84}
+{'date': '03.02.2022', 'text': 'Q8 Service 8042 02651', 'amount': -403.57}
+{'date': '04.02.2022', 'text': 'Google Dublin', 'amount': -99.65}
+{'date': '05.02.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '07.02.2022', 'text': 'Electricity 2021', 'amount': -15420.85}
+{'date': '08.02.2022', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -895.55}
+{'date': '10.02.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -928.45}
+{'date': '10.02.2022', 'text': 'AMZN Mktp DE 2L4WR2NI4 AMAZON DE', 'amount': -547.45}
+{'date': '11.02.2022', 'text': 'Elgiganten Gentofte Gentofte', 'amount': -499.0}
+{'date': '11.02.2022', 'text': 'AMZN Mktp DE AMAZON DE', 'amount': -341.8}
+{'date': '11.02.2022', 'text': 'B Skat 20 01 2022', 'amount': -1069.0}
+{'date': '11.02.2022', 'text': 'B Skat 20 02 2022', 'amount': -1069.0}
+{'date': '15.02.2022', 'text': '06959', 'amount': -1260.0}
+{'date': '15.02.2022', 'text': 'IKEA 094 HFB ECO TAASTRUP', 'amount': -243.0}
+{'date': '15.02.2022', 'text': 'BAUHAUS ISHOEJ ISHOEJ', 'amount': -1027.34}
+{'date': '16.02.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -851.0}
+{'date': '16.02.2022', 'text': '75918', 'amount': -5518.0}
+{'date': '17.02.2022', 'text': '56101', 'amount': -592.25}
+{'date': '18.02.2022', 'text': 'KIM Q HAIR DESIGN KOEBENHAVN V', 'amount': -349.0}
+{'date': '21.02.2022', 'text': 'Betal 3825 0120285382', 'amount': 201699.55}
+{'date': '22.02.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -241.15}
+{'date': '23.02.2022', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -70.03}
+{'date': '23.02.2022', 'text': 'Betal 3825 0120442848', 'amount': 1745257.74}
+{'date': '23.02.2022', 'text': 'MobilePay Caroline Boje', 'amount': -261.0}
+{'date': '25.02.2022', 'text': 'Lønoverførsel', 'amount': 43039.94}
+{'date': '25.02.2022', 'text': 'EPASS24 Stockholm', 'amount': -15.5}
+{'date': '25.02.2022', 'text': 'JOE THE JUICE A S Koebenhavn K', 'amount': -118.0}
+{'date': '28.02.2022', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -34.12}
+{'date': '28.02.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.03.2022', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.03.2022', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '01.03.2022', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.03.2022', 'text': '267 LAGKAGHUSET SOLROED', 'amount': -245.7}
+{'date': '01.03.2022', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.98}
+{'date': '01.03.2022', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -838.99}
+{'date': '03.03.2022', 'text': 'EPASS24 Stockholm', 'amount': -66.35}
+{'date': '03.03.2022', 'text': 'EPASS24 Stockholm', 'amount': -515.38}
+{'date': '04.03.2022', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -98.15}
+{'date': '07.03.2022', 'text': 'GOOGLE CLOUD XVMSRA', 'amount': -48.79}
+{'date': '07.03.2022', 'text': '47575', 'amount': -196.0}
+{'date': '07.03.2022', 'text': 'Magasin Kgs Nytor 75537', 'amount': -1998.0}
+{'date': '07.03.2022', 'text': 'P huset Gl Mønt 31334', 'amount': -100.0}
+{'date': '07.03.2022', 'text': 'BAUHAUS Ishøj 70934', 'amount': -524.8}
+{'date': '07.03.2022', 'text': 'Q8 Service 8042 25817', 'amount': -542.89}
+{'date': '07.03.2022', 'text': 'SuperB Solrød 08311', 'amount': -826.1}
+{'date': '08.03.2022', 'text': 'SuitSupplyPOS_Copenhagen', 'amount': -3659.0}
+{'date': '08.03.2022', 'text': 'MobilePay Caroline Boje', 'amount': -327.0}
+{'date': '14.03.2022', 'text': 'SuperB Solrød 12076', 'amount': -603.65}
+{'date': '14.03.2022', 'text': 'BAUHAUS Ishøj 76230', 'amount': -488.9}
+{'date': '14.03.2022', 'text': 'SuperB Solrød 13669', 'amount': -535.15}
+{'date': '15.03.2022', 'text': 'KLARNA STOCKHOLM', 'amount': -558.0}
+{'date': '17.03.2022', 'text': 'Q8 Service 8042 33476', 'amount': -546.53}
+{'date': '18.03.2022', 'text': 'Solrød Apotek 92403', 'amount': -23.25}
+{'date': '18.03.2022', 'text': 'SuperB Solrød 16879', 'amount': -258.6}
+{'date': '21.03.2022', 'text': 'Fisketorvet Føtex 70312', 'amount': -750.4}
+{'date': '21.03.2022', 'text': 'BAUHAUS Ishøj 81462', 'amount': -968.6}
+{'date': '21.03.2022', 'text': 'B Skat 20 03 2022', 'amount': -1069.0}
+{'date': '24.03.2022', 'text': 'MobilePay Hugo Roth Cardoso', 'amount': 80.0}
+{'date': '25.03.2022', 'text': 'Lønoverførsel', 'amount': 45811.37}
+{'date': '25.03.2022', 'text': 'BASTARD CAFÉ 67250', 'amount': -307.0}
+{'date': '28.03.2022', 'text': 'CPH Parkering A S 43277', 'amount': -648.0}
+{'date': '28.03.2022', 'text': 'SuperB Solrød 22877', 'amount': -767.35}
+{'date': '31.03.2022', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '01.04.2022', 'text': 'Rente samlet indestående', 'amount': -1589.97}
+{'date': '26.01.2018', 'text': 'Transfer of salary', 'amount': 38680.75}
+{'date': '05.02.2018', 'text': 'MobilePay', 'amount': -200.0}
+{'date': '06.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '09.02.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '10.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -300.0}
+{'date': '14.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -150.0}
+{'date': '14.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -350.0}
+{'date': '17.02.2018', 'text': 'MobilePay RODEO Østerbro', 'amount': -499.0}
+{'date': '23.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -174.0}
+{'date': '23.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -75.0}
+{'date': '26.02.2018', 'text': 'Transfer of salary', 'amount': 22844.75}
+{'date': '27.02.2018', 'text': 'MobilePay Caroline Boje', 'amount': -90.0}
+{'date': '01.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -100.0}
+{'date': '03.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -150.0}
+{'date': '04.03.2018', 'text': 'MobilePay McDonald s Nybrovej', 'amount': -93.0}
+{'date': '06.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -120.0}
+{'date': '08.03.2018', 'text': 'VDK DKK 89 00', 'amount': -89.0}
+{'date': '10.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -80.0}
+{'date': '10.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -220.0}
+{'date': '11.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -80.0}
+{'date': '13.03.2018', 'text': 'VDK DKK 700 00', 'amount': -700.0}
+{'date': '15.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -200.0}
+{'date': '16.03.2018', 'text': 'McDonald s Østerbr 86396', 'amount': -195.0}
+{'date': '17.03.2018', 'text': 'MobilePay Sport24 Fisketorvet', 'amount': -280.0}
+{'date': '17.03.2018', 'text': 'MobilePay McDonald s Nybrovej', 'amount': -60.0}
+{'date': '19.03.2018', 'text': 'Maxi Zoo Denmark A 28872', 'amount': -139.9}
+{'date': '19.03.2018', 'text': 'Ikea 121 ECO 27205', 'amount': -585.46}
+{'date': '19.03.2018', 'text': 'Netto 736 91655', 'amount': -134.3}
+{'date': '19.03.2018', 'text': 'Coffee Factory Swe 52720', 'amount': -117.0}
+{'date': '19.03.2018', 'text': 'Coffee Factory Swe 61924', 'amount': -80.0}
+{'date': '20.03.2018', 'text': 'Netto 736', 'amount': -201.7}
+{'date': '23.03.2018', 'text': 'Steffs T3 Pier C 65666', 'amount': -81.5}
+{'date': '23.03.2018', 'text': 'MobilePay Caroline Boje', 'amount': -750.0}
+{'date': '25.03.2018', 'text': 'Furniture MIL CPH', 'amount': -12000.0}
+{'date': '26.03.2018', 'text': 'Transfer of salary', 'amount': 38650.75}
+{'date': '27.03.2018', 'text': 'Ikea 121 ECO 17795', 'amount': -1362.0}
+{'date': '27.03.2018', 'text': '01639', 'amount': -7897.0}
+{'date': '27.03.2018', 'text': 'SILVAN 637 Fisketo 34724', 'amount': -1229.95}
+{'date': '27.03.2018', 'text': 'Netto 736 06400', 'amount': -106.9}
+{'date': '28.03.2018', 'text': '07973', 'amount': -262.3}
+{'date': '01.04.2018', 'text': 'Total fees', 'amount': -50.0}
+{'date': '01.07.2021', 'text': 'Gjensidige Forsikring', 'amount': -481.84}
+{'date': '01.07.2021', 'text': 'HK Handels og Kontorf', 'amount': -514.0}
+{'date': '01.07.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.07.2021', 'text': '267 Lagkagehuset S 98527', 'amount': -224.0}
+{'date': '01.07.2021', 'text': 'Meny Solrød str 18514', 'amount': -270.35}
+{'date': '02.07.2021', 'text': 'FITNESSUDSALG DK KOEBNHAVN V', 'amount': -806.0}
+{'date': '04.07.2021', 'text': 'MobilePay Caroline Boje', 'amount': -274.0}
+{'date': '05.07.2021', 'text': 'GOOGLE CLOUD_01B4E4 C', 'amount': -47.41}
+{'date': '05.07.2021', 'text': 'Fisketorvet Føtex 81841', 'amount': -607.4}
+{'date': '05.07.2021', 'text': 'SILVAN 637 Fisketo 52335', 'amount': -249.95}
+{'date': '05.07.2021', 'text': 'Kim Q Hair design 14279', 'amount': -325.0}
+{'date': '05.07.2021', 'text': 'B skat 20 07 2021', 'amount': -1262.0}
+{'date': '05.07.2021', 'text': 'Ejendomskat 07 2021', 'amount': -11698.04}
+{'date': '05.07.2021', 'text': 'CPH Parkering A S 79224', 'amount': -1420.0}
+{'date': '06.07.2021', 'text': 'Klarna Bodystore dk Solna', 'amount': -499.0}
+{'date': '06.07.2021', 'text': 'EUROWINGS DUSSELDORF', 'amount': 3637.35}
+{'date': '06.07.2021', 'text': 'Amazon it 209410T94', 'amount': -565.29}
+{'date': '06.07.2021', 'text': 'KLM AIRLINE MYAFKY PAYPAL COM', 'amount': -4796.0}
+{'date': '06.07.2021', 'text': 'SuperB Solrød 47820', 'amount': -530.65}
+{'date': '08.07.2021', 'text': 'Q8 Service 8042 34307', 'amount': -300.11}
+{'date': '08.07.2021', 'text': 'SuperB Solrød 11043', 'amount': -29.25}
+{'date': '12.07.2021', 'text': 'Slagelse Homes 4 A 16263', 'amount': -5.0}
+{'date': '12.07.2021', 'text': 'Storebæltsforbinde 09661', 'amount': -245.0}
+{'date': '12.07.2021', 'text': 'Egeskov Slot 06215', 'amount': -747.0}
+{'date': '12.07.2021', 'text': 'Storebæltsforbinde 65348', 'amount': -245.0}
+{'date': '12.07.2021', 'text': 'SuperB Solrød 51109', 'amount': -186.65}
+{'date': '12.07.2021', 'text': 'CIRCLE K TRAFIKCEN 72354', 'amount': -197.35}
+{'date': '12.07.2021', 'text': 'CIRCLE K TRAFIKCEN 70302', 'amount': -450.1}
+{'date': '12.07.2021', 'text': 'SuperB Solrød 51676', 'amount': -28.95}
+{'date': '13.07.2021', 'text': 'EGESKOV SLOT KVAERNDRUP', 'amount': -334.0}
+{'date': '13.07.2021', 'text': 'MobilePay Selecta 97015389 C', 'amount': -20.0}
+{'date': '15.07.2021', 'text': 'Overførsel', 'amount': 230.5}
+{'date': '16.07.2021', 'text': 'SN4799000025556660 MILANO', 'amount': -25.75}
+{'date': '16.07.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -46.41}
+{'date': '16.07.2021', 'text': 'SN4799000025556949 MILANO', 'amount': -36.93}
+{'date': '16.07.2021', 'text': 'SN4799000025555191 MILANO', 'amount': -66.37}
+{'date': '19.07.2021', 'text': 'SN4799000025565244 MILANO', 'amount': -28.24}
+{'date': '19.07.2021', 'text': 'SN4799000025565537 MILANO', 'amount': -15.33}
+{'date': '20.07.2021', 'text': 'SN4799000025602591 MILANO', 'amount': -31.03}
+{'date': '20.07.2021', 'text': 'SN4799000025598511 MILANO', 'amount': -42.81}
+{'date': '20.07.2021', 'text': 'SN4799000025600839 MILANO', 'amount': -41.6}
+{'date': '20.07.2021', 'text': 'SN4799000025601455 MILANO', 'amount': -33.98}
+{'date': '20.07.2021', 'text': 'SN4799000025576369 MILANO', 'amount': -28.09}
+{'date': '20.07.2021', 'text': 'SN4799000025577074 MILANO', 'amount': -21.89}
+{'date': '20.07.2021', 'text': 'SN4799000025591815 MILANO', 'amount': -43.8}
+{'date': '21.07.2021', 'text': 'Antica Fonte San Pantaleo', 'amount': -10381.8}
+{'date': '21.07.2021', 'text': 'SN4799000025606394 MILANO', 'amount': -45.53}
+{'date': '23.07.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.66}
+{'date': '26.07.2021', 'text': 'Lønoverførsel', 'amount': 42980.44}
+{'date': '27.07.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -78.54}
+{'date': '28.07.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.55}
+{'date': '30.07.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.07.2021', 'text': 'PAYPAL EASYPARK AS 35314369001', 'amount': -70.6}
+{'date': '02.08.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '02.08.2021', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '02.08.2021', 'text': 'HK Handels og Kontorf', 'amount': -514.0}
+{'date': '02.08.2021', 'text': 'SuperB Solrød 64583', 'amount': -979.35}
+{'date': '03.08.2021', 'text': 'GOOGLE CLOUD 01B4E4 C3 INTERNET', 'amount': -49.92}
+{'date': '03.08.2021', 'text': 'HMS Host International Amsterdam', 'amount': -174.31}
+{'date': '03.08.2021', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -83.55}
+{'date': '04.08.2021', 'text': 'SuperB Solrød 65974', 'amount': -397.9}
+{'date': '05.08.2021', 'text': 'SuperB Solrød 66624', 'amount': -47.95}
+{'date': '06.08.2021', 'text': 'SuperB Solrød 67247', 'amount': -19.95}
+{'date': '08.08.2021', 'text': 'MobilePay eRecycling dk', 'amount': -1659.0}
+{'date': '09.08.2021', 'text': 'SuperB Solrød 68702', 'amount': -614.55}
+{'date': '09.08.2021', 'text': 'Q8 Service 8042 64144', 'amount': -400.3}
+{'date': '12.08.2021', 'text': 'SuperB Solrød 71169', 'amount': -96.85}
+{'date': '16.08.2021', 'text': 'Bahne Fisketorvet 84294', 'amount': -353.95}
+{'date': '16.08.2021', 'text': 'H M 809', 'amount': -139.9}
+{'date': '16.08.2021', 'text': 'Car tax', 'amount': -580.0}
+{'date': '16.08.2021', 'text': 'MobilePay Lin M Gasbee', 'amount': -2000.0}
+{'date': '17.08.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -46.41}
+{'date': '17.08.2021', 'text': '14215', 'amount': -325.0}
+{'date': '18.08.2021', 'text': 'Automatudbetaling Solrød Afdeling', 'amount': -4000.0}
+{'date': '19.08.2021', 'text': 'Automatudbetaling Solrød Afdeling', 'amount': -4000.0}
+{'date': '19.08.2021', 'text': '7 Eleven B 442 58901', 'amount': -300.0}
+{'date': '19.08.2021', 'text': 'Anne s Dyrecenter 06516', 'amount': -1034.0}
+{'date': '19.08.2021', 'text': 'SuperB Solrød 75770', 'amount': -411.35}
+{'date': '20.08.2021', 'text': 'Automatudbetaling 2786 2456', 'amount': -2000.0}
+{'date': '20.08.2021', 'text': 'Klarna jollyroom dk Hisings', 'amount': -388.0}
+{'date': '20.08.2021', 'text': 'MobilePay Hugo Roth Cardoso', 'amount': 125.0}
+{'date': '20.08.2021', 'text': 'MobilePay Emilie Rubek Vitoft', 'amount': 125.0}
+{'date': '20.08.2021', 'text': 'MobilePay Yuliya Nikiforova', 'amount': 65.0}
+{'date': '20.08.2021', 'text': 'MobilePay Peter Larsen', 'amount': 100.0}
+{'date': '20.08.2021', 'text': 'MobilePay Emilie Rubek Vitoft', 'amount': 752.0}
+{'date': '20.08.2021', 'text': 'MobilePay Peter Larsen', 'amount': 167.5}
+{'date': '20.08.2021', 'text': 'MobilePay Hugo Roth Cardoso', 'amount': 812.0}
+{'date': '20.08.2021', 'text': 'MobilePay William Bjerager', 'amount': 752.0}
+{'date': '20.08.2021', 'text': 'MobilePay Yuliya Nikiforova', 'amount': 670.0}
+{'date': '20.08.2021', 'text': 'MobilePay Jennes', 'amount': 276.0}
+{'date': '23.08.2021', 'text': 'The Market Asian 98640', 'amount': -5046.0}
+{'date': '23.08.2021', 'text': 'PS BAR GRILL A S 40743', 'amount': -450.0}
+{'date': '23.08.2021', 'text': 'P huset Gl Mønt 13486', 'amount': -129.6}
+{'date': '23.08.2021', 'text': 'SuperB Solrød 78051', 'amount': -657.0}
+{'date': '23.08.2021', 'text': 'B Skat 20 08 2021', 'amount': -1262.0}
+{'date': '23.08.2021', 'text': 'Q8 Service 8042 76636', 'amount': -350.04}
+{'date': '24.08.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.64}
+{'date': '25.08.2021', 'text': 'AMZN Mktp IT 5G20F21J5 AMAZON IT', 'amount': -312.96}
+{'date': '25.08.2021', 'text': 'AMZN Mktp IT WD5HR4T95 AMAZON IT', 'amount': -279.59}
+{'date': '26.08.2021', 'text': 'Lønoverførsel', 'amount': 46917.05}
+{'date': '27.08.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.53}
+{'date': '27.08.2021', 'text': 'SuperB Solrød 81939', 'amount': -838.35}
+{'date': '31.08.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '31.08.2021', 'text': 'SuperB Solrød 16562', 'amount': -240.8}
+{'date': '01.09.2021', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.09.2021', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.09.2021', 'text': 'Gjensidige Forsikring', 'amount': -491.92}
+{'date': '02.09.2021', 'text': 'APPLE COM IT 848 789 424', 'amount': -747.33}
+{'date': '02.09.2021', 'text': 'SuperB Solrød 86092', 'amount': -329.7}
+{'date': '04.09.2021', 'text': 'MobilePay Apcoa Parking A S AXEL', 'amount': -160.0}
+{'date': '05.09.2021', 'text': 'MobilePay Caroline Boje', 'amount': -504.0}
+{'date': '06.09.2021', 'text': 'Google Cloud EMEA Limited Dublin', 'amount': -88.78}
+{'date': '06.09.2021', 'text': 'KLARNA STOCKHOLM', 'amount': -399.2}
+{'date': '06.09.2021', 'text': 'GOOGLE CLOUD_01B4E4 C', 'amount': -50.5}
+{'date': '07.09.2021', 'text': '267 LAGKAGHUSET SOLROED', 'amount': -84.0}
+{'date': '07.09.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -539.7}
+{'date': '08.09.2021', 'text': 'Karlslunde Dyrehos 45215', 'amount': -3800.74}
+{'date': '09.09.2021', 'text': 'Q8 Service 8042 90850', 'amount': -450.3}
+{'date': '13.09.2021', 'text': 'SOLROED APOTEK SOLROED STRAN', 'amount': -50.8}
+{'date': '14.09.2021', 'text': '4180 APCOA PARKING AS', 'amount': -80.0}
+{'date': '14.09.2021', 'text': 'FOETEX FISKETOR KOEBENHAVN V', 'amount': -524.3}
+{'date': '14.09.2021', 'text': 'ZOOBIIDOO SOLROED STRAN', 'amount': -398.0}
+{'date': '15.09.2021', 'text': 'KIM Q HAIR DESIGN KOEBENHAVN V', 'amount': -325.0}
+{'date': '15.09.2021', 'text': 'KROGSGAARD JENSEN 48569', 'amount': -3570.35}
+{'date': '16.09.2021', 'text': 'PAYPAL APPLE COM BILL', 'amount': -46.16}
+{'date': '16.09.2021', 'text': 'SOLROED FDB SUPERBRUGSEN', 'amount': -456.05}
+{'date': '17.09.2021', 'text': 'Q8 Service 8042 97997', 'amount': -473.09}
+{'date': '17.09.2021', 'text': 'MobilePay Caroline Boje', 'amount': 2800.0}
+{'date': '18.09.2021', 'text': 'MobilePay Apcoa Parking A S AXEL', 'amount': -280.0}
+{'date': '20.09.2021', 'text': 'SuperB Solrød 97855', 'amount': -666.75}
+{'date': '20.09.2021', 'text': 'B Skat 20 09 2021', 'amount': -1262.0}
+{'date': '20.09.2021', 'text': 'Fine', 'amount': -1500.0}
+{'date': '20.09.2021', 'text': 'Karlslunde Dyrehos 45532', 'amount': -1074.94}
+{'date': '21.09.2021', 'text': 'PAYPAL ALTRAVIA 35314369001', 'amount': -93.47}
+{'date': '22.09.2021', 'text': 'AMZN Mktp DE OZ0G03H35', 'amount': -1268.68}
+{'date': '23.09.2021', 'text': 'PAYPAL CONTABO 35314369001', 'amount': -69.28}
+{'date': '23.09.2021', 'text': 'Fisketorvet 68822', 'amount': -120.0}
+{'date': '23.09.2021', 'text': 'SuperB Solrød 00765', 'amount': -187.7}
+{'date': '24.09.2021', 'text': 'Lønoverførsel', 'amount': 42867.94}
+{'date': '27.09.2021', 'text': 'MATAS 14427 93020', 'amount': -599.95}
+{'date': '27.09.2021', 'text': 'P huset Gl Mønt 17977', 'amount': -48.0}
+{'date': '27.09.2021', 'text': 'Pizza Bro 92463', 'amount': -220.0}
+{'date': '28.09.2021', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -75.21}
+{'date': '30.09.2021', 'text': 'Transfer to budget', 'amount': -9000.0}
+{'date': '30.09.2021', 'text': 'Q8 Service 8042 08042', 'amount': -450.43}
+{'date': '30.09.2021', 'text': 'SuperB Solrød 05537', 'amount': -620.9}
+{'date': '01.10.2021', 'text': 'Rente samlet indestående', 'amount': -140.25}
+{'date': '01.07.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '01.07.2019', 'text': 'ZARA FISKETORVERT 55117', 'amount': -497.0}
+{'date': '01.07.2019', 'text': 'Fisketorvet Føtex 78987', 'amount': -41.2}
+{'date': '01.07.2019', 'text': '37165', 'amount': -6106.0}
+{'date': '01.07.2019', 'text': 'Fisketorvet 03986', 'amount': -279.0}
+{'date': '02.07.2019', 'text': 'DESIGN FLOWER KOBENHAVN', 'amount': -75.0}
+{'date': '04.07.2019', 'text': 'Fisketorvet Føtex 19685', 'amount': -260.6}
+{'date': '08.07.2019', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -699.9}
+{'date': '09.07.2019', 'text': 'PAYPAL BOOKING COM 35314369001', 'amount': -2042.71}
+{'date': '09.07.2019', 'text': 'PAYPAL BOOKING COM 35314369001', 'amount': -4612.6}
+{'date': '09.07.2019', 'text': 'Ørsted', 'amount': -931.38}
+{'date': '11.07.2019', 'text': 'Fisketorvet Føtex 50000', 'amount': -339.2}
+{'date': '15.07.2019', 'text': 'MobilePay Caroline Boje', 'amount': 1500.0}
+{'date': '15.07.2019', 'text': 'Fisketorvet Føtex 97903', 'amount': -160.5}
+{'date': '17.07.2019', 'text': 'RYANAIR PAYPAL COM', 'amount': -172.0}
+{'date': '17.07.2019', 'text': 'RYANAIR PAYPAL COM', 'amount': -172.0}
+{'date': '18.07.2019', 'text': 'MobilePay Sune Enevoldsen', 'amount': 160.0}
+{'date': '18.07.2019', 'text': 'MobilePay Yuliya Nikiforova', 'amount': 160.0}
+{'date': '18.07.2019', 'text': 'MobilePay Rui Miguel Matos Gomes', 'amount': 160.0}
+{'date': '18.07.2019', 'text': 'WARPIGS BREWPUB 99063', 'amount': -131.0}
+{'date': '18.07.2019', 'text': 'WARPIGS BREWPUB 07424', 'amount': -228.0}
+{'date': '19.07.2019', 'text': 'OVERSKYDENDE SKAT', 'amount': 6092.0}
+{'date': '19.07.2019', 'text': 'Espresso House7124 41025', 'amount': -26.0}
+{'date': '19.07.2019', 'text': 'Fisketorvet Føtex 51024', 'amount': -110.8}
+{'date': '22.07.2019', 'text': 'WOK SHOP APS LYNGBY', 'amount': -667.0}
+{'date': '23.07.2019', 'text': 'Kindle Svcs MH2YH1JH4', 'amount': -79.91}
+{'date': '23.07.2019', 'text': 'AMZN Mktp IT MH4NY2JF4 AMAZON IT', 'amount': -168.33}
+{'date': '23.07.2019', 'text': 'Kindle Svcs 353 12477631', 'amount': 79.76}
+{'date': '23.07.2019', 'text': 'Fisketorvet Føtex 95921', 'amount': -110.8}
+{'date': '24.07.2019', 'text': 'AMZN Mktp IT MH7AM6T54 AMAZON IT', 'amount': -334.41}
+{'date': '26.07.2019', 'text': 'Transfer of salary', 'amount': 40588.37}
+{'date': '29.07.2019', 'text': 'RYANAIR PAYPAL COM', 'amount': -96.0}
+{'date': '29.07.2019', 'text': 'Lufthavnsboulevarden 6 Kastrup', 'amount': -200.0}
+{'date': '29.07.2019', 'text': 'MobilePay Cherif', 'amount': -250.0}
+{'date': '30.07.2019', 'text': 'ATM Cash Withdrawal VISA Domestic', 'amount': -30.0}
+{'date': '30.07.2019', 'text': 'RYANAIR DUBLIN', 'amount': -440.0}
+{'date': '30.07.2019', 'text': 'Fisketorvet Føtex 53140', 'amount': -351.9}
+{'date': '30.07.2019', 'text': '36180', 'amount': -279.0}
+{'date': '31.07.2019', 'text': 'MCDONALDS FISKETORVET Koebenhavn', 'amount': -203.0}
+{'date': '01.08.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '01.08.2019', 'text': 'Fisketorvet Føtex 33987', 'amount': -106.85}
+{'date': '06.08.2019', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -136.0}
+{'date': '06.08.2019', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -68.0}
+{'date': '06.08.2019', 'text': 'Fisketorvet Føtex 36497', 'amount': -84.45}
+{'date': '07.08.2019', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -699.9}
+{'date': '10.08.2019', 'text': 'MobilePay Caroline Boje', 'amount': 182.0}
+{'date': '12.08.2019', 'text': 'DSB København AUT 22418', 'amount': -182.0}
+{'date': '12.08.2019', 'text': 'Fisketorvet Føtex 38468', 'amount': -238.8}
+{'date': '13.08.2019', 'text': 'OERESUNDSBROEN MOD SE KOBENHAVN', 'amount': -450.0}
+{'date': '13.08.2019', 'text': 'OERESUNDSBROEN MOD DK KOBENHAVN', 'amount': -450.0}
+{'date': '13.08.2019', 'text': 'XL ZOO BROMMA', 'amount': -69.63}
+{'date': '14.08.2019', 'text': 'BOOTS APOTEK SOLLI 142 OSLO', 'amount': -82.46}
+{'date': '14.08.2019', 'text': 'MILLA BOUTIQUE OSLO', 'amount': -916.32}
+{'date': '14.08.2019', 'text': 'BOELGEN MOI TJUVHOLMEN A OSLO', 'amount': -335.5}
+{'date': '14.08.2019', 'text': 'EUROPCAR SWEDEN ARSTA', 'amount': -8724.52}
+{'date': '14.08.2019', 'text': 'OKQ8 STROMSTAD', 'amount': -410.21}
+{'date': '16.08.2019', 'text': 'SPAR RJUKAN RJUKAN', 'amount': -560.9}
+{'date': '16.08.2019', 'text': 'GAUSTATOPPEN SKIEN', 'amount': -87.95}
+{'date': '20.08.2019', 'text': 'UNO X GEILO 0370 GEILO', 'amount': -400.54}
+{'date': '20.08.2019', 'text': 'BEITOSTØLEN RES BEITOSTØLEN', 'amount': -2642.68}
+{'date': '20.08.2019', 'text': 'REMA 1000 GEILO GEILO', 'amount': -248.92}
+{'date': '20.08.2019', 'text': 'PAYPAL BOOKING COM 35314369001', 'amount': -3869.69}
+{'date': '21.08.2019', 'text': 'HIGHLAND LODGE AS GEILO', 'amount': -107.36}
+{'date': '21.08.2019', 'text': 'SPAR BEITOSTOELEN BEITOSTOELEN', 'amount': -256.92}
+{'date': '22.08.2019', 'text': 'SPAR BEITOSTOELEN BEITOSTOELEN', 'amount': -53.84}
+{'date': '26.08.2019', 'text': 'Transfer of salary', 'amount': 40588.37}
+{'date': '26.08.2019', 'text': 'JULEHUSET BERGEN', 'amount': -190.23}
+{'date': '26.08.2019', 'text': 'MAT TRADISJON A LODDEFJORD', 'amount': -72.57}
+{'date': '26.08.2019', 'text': 'Fisketorvet Føtex 08241', 'amount': -378.0}
+{'date': '26.08.2019', 'text': '71927', 'amount': -411.22}
+{'date': '26.08.2019', 'text': 'Kim Q Hair design 09231', 'amount': -325.0}
+{'date': '27.08.2019', 'text': '3514TGI FRIDAY BERGEN', 'amount': -684.47}
+{'date': '27.08.2019', 'text': 'POPINA DICKENS BERGEN', 'amount': -320.49}
+{'date': '27.08.2019', 'text': 'SPAR ODDA ODDA', 'amount': -121.36}
+{'date': '27.08.2019', 'text': 'OERESUNDSBROEN MOD DK KOBENHAVN', 'amount': -450.0}
+{'date': '27.08.2019', 'text': 'NO135 CC OLEANA BERGEN', 'amount': -190.77}
+{'date': '27.08.2019', 'text': 'NO135 CC OLEANA BERGEN', 'amount': -721.86}
+{'date': '27.08.2019', 'text': 'SKANETRAFIKEN MALMO C', 'amount': -85.18}
+{'date': '27.08.2019', 'text': 'SKANETRAFIKEN MALMO C', 'amount': -85.18}
+{'date': '27.08.2019', 'text': 'MobilePay Qian Li', 'amount': -50.0}
+{'date': '29.08.2019', 'text': 'Fisketorvet Føtex 08662', 'amount': -230.45}
+{'date': '29.08.2019', 'text': '95326', 'amount': -210.0}
+{'date': '02.09.2019', 'text': '9 210 Heimstaden Poseido', 'amount': -17174.34}
+{'date': '04.09.2019', 'text': 'Fisketorvet Føtex 59789', 'amount': -59.15}
+{'date': '05.09.2019', 'text': 'Taxa 4 X 35 06658', 'amount': -284.0}
+{'date': '06.09.2019', 'text': 'Dantaxi 4x48 37047', 'amount': -284.0}
+{'date': '06.09.2019', 'text': 'Fisketorvet Føtex 10934', 'amount': -100.35}
+{'date': '09.09.2019', 'text': 'SS 2 MALPENSA AEROPORTO FERNO', 'amount': -98.46}
+{'date': '09.09.2019', 'text': 'ZARA FISKETORVERT 13832', 'amount': -498.0}
+{'date': '09.09.2019', 'text': 'SILVAN 637 Fisketo 49459', 'amount': -49.95}
+{'date': '10.09.2019', 'text': 'ZARA DANMARK AS COPENHAGUEN', 'amount': -449.0}
+{'date': '10.09.2019', 'text': 'DOT APP PENDLER KORT VALBY', 'amount': -699.9}
+{'date': '13.09.2019', 'text': 'Fisketorvet Føtex 62282', 'amount': -280.25}
+{'date': '16.09.2019', 'text': 'Taxes rata 1', 'amount': -2038.0}
+{'date': '16.09.2019', 'text': 'Fisketorvet Føtex 16189', 'amount': -8.0}
+{'date': '18.09.2019', 'text': 'DagliBrugsen Skærb 68602', 'amount': -113.8}
+{'date': '19.09.2019', 'text': 'Fisketorvet Føtex 54313', 'amount': -31.95}
+{'date': '24.09.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -49.0}
+{'date': '24.09.2019', 'text': 'Green Mobility A S Copenhagen', 'amount': -212.0}
+{'date': '24.09.2019', 'text': 'Dantaxi 4x48 61399', 'amount': -246.0}
+{'date': '25.09.2019', 'text': 'MobilePay Gift for Christian', 'amount': -50.0}
+{'date': '25.09.2019', 'text': 'Fisketorvet Føtex 65452', 'amount': -238.4}
+{'date': '26.09.2019', 'text': 'Transfer of salary', 'amount': 40588.37}
+{'date': '28.09.2019', 'text': 'MobilePay Sune Enevoldsen', 'amount': -250.0}
+{'date': '30.09.2019', 'text': 'Fisketorvet Føtex 20709', 'amount': -118.35}
+{'date': '30.09.2019', 'text': 'Fisketorvet 42079', 'amount': -279.0}
+{'date': '01.10.2019', 'text': 'Total fees', 'amount': -60.0}
+{'date': '03.07.2023', 'text': 'Overført til MasterCard', 'amount': -21959.12}
+{'date': '03.07.2023', 'text': 'Gjensidige Forsikring D', 'amount': -494.42}
+{'date': '03.07.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '03.07.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '03.07.2023', 'text': 'Autoroutes Du S', 'amount': -8.93}
+{'date': '03.07.2023', 'text': 'Autoroutes Du S', 'amount': -159.4}
+{'date': '03.07.2023', 'text': '', 'amount': -13.4}
+{'date': '03.07.2023', 'text': '', 'amount': -239.85}
+{'date': '03.07.2023', 'text': '', 'amount': -186.21}
+{'date': '03.07.2023', 'text': '', 'amount': -29.05}
+{'date': '04.07.2023', 'text': '', 'amount': -249.81}
+{'date': '04.07.2023', 'text': 'Google CLOUD 5XMFMQ Milan', 'amount': -237.89}
+{'date': '06.07.2023', 'text': 'Liberte Aut', 'amount': -32.02}
+{'date': '06.07.2023', 'text': 'Lileris', 'amount': -87.89}
+{'date': '06.07.2023', 'text': '', 'amount': -289.37}
+{'date': '06.07.2023', 'text': '', 'amount': -213.02}
+{'date': '06.07.2023', 'text': '', 'amount': -165.35}
+{'date': '07.07.2023', 'text': '', 'amount': -108.97}
+{'date': '07.07.2023', 'text': '', 'amount': -137.79}
+{'date': '07.07.2023', 'text': 'PAYPAL HELPCOURSER 2I', 'amount': -352.24}
+{'date': '10.07.2023', 'text': 'Lido Di Alghero', 'amount': -148.98}
+{'date': '10.07.2023', 'text': 'Lido Di Alghero', 'amount': -149.05}
+{'date': '10.07.2023', 'text': 'Ejendomskat 07 2023', 'amount': -12012.32}
+{'date': '11.07.2023', 'text': 'ENI PV 07729', 'amount': -305.69}
+{'date': '12.07.2023', 'text': 'ABACO SPA COMUNE D', 'amount': -59.63}
+{'date': '12.07.2023', 'text': 'CRAI EXTRA PULA AU', 'amount': -346.6}
+{'date': '13.07.2023', 'text': 'CRAI EXTRA PULA AU', 'amount': -186.24}
+{'date': '14.07.2023', 'text': 'MobilePay Caroline Boje', 'amount': -124.0}
+{'date': '17.07.2023', 'text': 'APCOA PARCHEGGIO CAG', 'amount': -38.01}
+{'date': '18.07.2023', 'text': 'NERO CARBONE GIOVI', 'amount': -196.76}
+{'date': '18.07.2023', 'text': 'Parco Metri Villasim', 'amount': -22.35}
+{'date': '18.07.2023', 'text': 'Zettle_ Doppio Malto', 'amount': -444.95}
+{'date': '18.07.2023', 'text': 'APPLE COM BILL CORK', 'amount': -42.0}
+{'date': '19.07.2023', 'text': '', 'amount': -149.05}
+{'date': '19.07.2023', 'text': '', 'amount': -147.56}
+{'date': '19.07.2023', 'text': 'Libreria Bookshop He', 'amount': -186.32}
+{'date': '20.07.2023', 'text': 'Børne og Ungeydelse', 'amount': 2373.0}
+{'date': '25.07.2023', 'text': 'BERNA SERVICE SRL CHIAVARI', 'amount': -447.29}
+{'date': '25.07.2023', 'text': 'MC DONALD S OLBIA', 'amount': -67.12}
+{'date': '25.07.2023', 'text': 'POSTO PISA', 'amount': -57.42}
+{'date': '25.07.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -16.0}
+{'date': '25.07.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.39}
+{'date': '25.07.2023', 'text': 'PRIMO PASTA STREET FO PISA', 'amount': -152.88}
+{'date': '25.07.2023', 'text': 'ASPIT PISA NORD RAPALLO', 'amount': -105.15}
+{'date': '25.07.2023', 'text': 'CONAD OLBIA', 'amount': -98.44}
+{'date': '25.07.2023', 'text': 'PET STORE CONAD OLBIA', 'amount': -62.64}
+{'date': '25.07.2023', 'text': 'M N MOBY VINCI VENEZIA', 'amount': -88.74}
+{'date': '25.07.2023', 'text': 'APPLE COM BILL CORK', 'amount': -59.0}
+{'date': '26.07.2023', 'text': 'Lønoverførsel', 'amount': 47968.26}
+{'date': '26.07.2023', 'text': 'FRATELLI MUSSINI SANTA MARGHER', 'amount': -671.17}
+{'date': '26.07.2023', 'text': 'DOLCE PISA PISA', 'amount': -164.06}
+{'date': '26.07.2023', 'text': 'Hotel Splendido Spa SPM_G', 'amount': -96.95}
+{'date': '26.07.2023', 'text': 'NUOVA DAMA SNC SANTA MARGHER', 'amount': -22.37}
+{'date': '26.07.2023', 'text': 'RISTORANTE DA PALMA AC3 SANTA', 'amount': -436.26}
+{'date': '27.07.2023', 'text': 'ADS CASTELNUOVO SCRIVIA', 'amount': -201.89}
+{'date': '27.07.2023', 'text': 'ALBERGO IOLANDA SANTA MARGHER', 'amount': -417.35}
+{'date': '27.07.2023', 'text': 'AUTOPARK PORTOFINO PORTOFINO', 'amount': -119.32}
+{'date': '27.07.2023', 'text': 'AUTOPARK PORTOFINO PORTOFINO', 'amount': -149.15}
+{'date': '27.07.2023', 'text': 'DUOMO DAL 1952 MILANO', 'amount': -25.34}
+{'date': '27.07.2023', 'text': 'ADS CASTELNUOVO SCRIVIA', 'amount': -37.26}
+{'date': '27.07.2023', 'text': 'ESSELUNGA LOSANNA MILANO', 'amount': -169.7}
+{'date': '27.07.2023', 'text': 'MISER RAPALLO MILANO OVEST', 'amount': -97.63}
+{'date': '28.07.2023', 'text': 'ESSELUNGA LOSANNA MILANO', 'amount': -17.14}
+{'date': '28.07.2023', 'text': 'TEMAKINHO MILANO BRERA MILANO', 'amount': -503.01}
+{'date': '31.07.2023', 'text': 'BAR DISTRIBUTORE L ALTURA', 'amount': -78.26}
+{'date': '31.07.2023', 'text': 'FELTRINELLI LIBRERIE MILANO', 'amount': -604.45}
+{'date': '31.07.2023', 'text': 'CARLSBERG OL MILANO', 'amount': -372.64}
+{'date': '31.07.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '01.08.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.08.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.08.2023', 'text': 'Overført til MasterCard', 'amount': -29541.28}
+{'date': '01.08.2023', 'text': 'MAM MAM BURGER BAMBERG', 'amount': -361.53}
+{'date': '01.08.2023', 'text': 'Rastanlage Fuerholzen Ost', 'amount': -7.45}
+{'date': '01.08.2023', 'text': 'ALDI S R L BRUNICO', 'amount': -137.16}
+{'date': '01.08.2023', 'text': 'OMV 5536 Seefeld', 'amount': -502.26}
+{'date': '01.08.2023', 'text': 'PLONER JOSEF PARKPLAT PRAGS', 'amount': -52.18}
+{'date': '01.08.2023', 'text': 'BRESSANONE VARNA', 'amount': -95.4}
+{'date': '01.08.2023', 'text': 'BSPDV MILANO EST PESCHIERA', 'amount': -73.04}
+{'date': '01.08.2023', 'text': 'AUTOGRILL 0128 DESENZANO DEL', 'amount': -69.31}
+{'date': '01.08.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '01.08.2023', 'text': 'AUTOGRILL 0128 DESENZANO DEL', 'amount': -18.63}
+{'date': '01.08.2023', 'text': 'PV0988 OSIO SOPRA', 'amount': -591.55}
+{'date': '01.08.2023', 'text': 'CLESS TICKET ATM MILANO MILANO', 'amount': -16.4}
+{'date': '01.08.2023', 'text': 'ADS PLOSE EST VARNA', 'amount': -129.39}
+{'date': '01.08.2023', 'text': 'LIDL 1105 BRUNICO', 'amount': -109.34}
+{'date': '02.08.2023', 'text': 'Hotel Residenzschlos', 'amount': -1673.77}
+{'date': '02.08.2023', 'text': 'MAUTSTELLE SCHOENBERG SCHOENBERG', 'amount': -82.0}
+{'date': '02.08.2023', 'text': 'Marc OPolo Einzelhandels', 'amount': -894.13}
+{'date': '02.08.2023', 'text': 'H M Dresden 1DE0684 Dresden', 'amount': -297.94}
+{'date': '02.08.2023', 'text': 'Burgerei Die Manufaktur', 'amount': -388.36}
+{'date': '03.08.2023', 'text': 'GOOGLE CLOUD J7FSJT CC', 'amount': -239.77}
+{'date': '03.08.2023', 'text': 'Aral Station 270788102 Oelsnitz', 'amount': -541.92}
+{'date': '03.08.2023', 'text': 'BM Weihnachtsland K Dresden', 'amount': -993.47}
+{'date': '03.08.2023', 'text': 'Dresden For You Dresden', 'amount': -37.28}
+{'date': '04.08.2023', 'text': 'TG FRAUENK DD 11940 DRESDEN', 'amount': -74.53}
+{'date': '04.08.2023', 'text': 'TG FRAUENK DD 11940 DRESDEN', 'amount': -417.38}
+{'date': '04.08.2023', 'text': 'Moonday Chausseestrasse Berlin', 'amount': -1931.88}
+{'date': '04.08.2023', 'text': 'Muddastadt GmbH Filiale Berlin', 'amount': -148.99}
+{'date': '04.08.2023', 'text': 'Parkautomat Lohmen', 'amount': -52.17}
+{'date': '04.08.2023', 'text': 'HNGAFLBX 1 Berlin', 'amount': -149.21}
+{'date': '04.08.2023', 'text': 'B Skat 20 07 2023', 'amount': -1697.0}
+{'date': '04.08.2023', 'text': 'Tax Consultant 2023', 'amount': -8750.0}
+{'date': '07.08.2023', 'text': 'SKAT Restskat', 'amount': -9257.0}
+{'date': '07.08.2023', 'text': 'LIDL 31712', 'amount': -493.5}
+{'date': '07.08.2023', 'text': 'PSD BANK NORD EG LUEBECK 1', 'amount': -372.61}
+{'date': '07.08.2023', 'text': 'Moonday Chaussee Parkhaus Berlin', 'amount': -186.31}
+{'date': '07.08.2023', 'text': 'TOTAL DEUTSCHLAND GMBH STOLPE', 'amount': -573.67}
+{'date': '07.08.2023', 'text': 'SuperB Solrød 38293', 'amount': -710.33}
+{'date': '07.08.2023', 'text': 'Vuggestue 08 2023', 'amount': -4243.0}
+{'date': '07.08.2023', 'text': 'LIDL 33188', 'amount': -105.95}
+{'date': '07.08.2023', 'text': 'Atlantic Hotel Luebe', 'amount': -2587.57}
+{'date': '08.08.2023', 'text': 'ATM UDBET VISA UDL', 'amount': -30.0}
+{'date': '08.08.2023', 'text': 'PAYPAL HELPCOURSER 2I', 'amount': -350.54}
+{'date': '08.08.2023', 'text': 'Hochgarage Klingenberg Lubeck', 'amount': -89.44}
+{'date': '08.08.2023', 'text': 'AMZN Mktp DE 1V5F84G94 AMAZON DE', 'amount': -2136.73}
+{'date': '08.08.2023', 'text': 'CYKEL CENTRET 07896', 'amount': -1544.0}
+{'date': '08.08.2023', 'text': 'SuperB Solrød 39975', 'amount': -761.39}
+{'date': '09.08.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -235.0}
+{'date': '10.08.2023', 'text': 'Kim Q Hair design 21210', 'amount': -369.0}
+{'date': '10.08.2023', 'text': 'P huset Gl Mønt 73602', 'amount': -60.0}
+{'date': '11.08.2023', 'text': 'Fisketorvet Føtex 90090', 'amount': -443.6}
+{'date': '14.08.2023', 'text': 'BabySam Taastrup 86680', 'amount': -1078.0}
+{'date': '14.08.2023', 'text': 'LIDL 37054', 'amount': -313.65}
+{'date': '15.08.2023', 'text': 'PAYPAL ARTLIST 4029357733', 'amount': -937.86}
+{'date': '15.08.2023', 'text': 'Udl kortbetaling 1 50 af DKK', 'amount': -14.07}
+{'date': '16.08.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -238.0}
+{'date': '17.08.2023', 'text': 'APPLE COM BILL CORK', 'amount': -42.0}
+{'date': '17.08.2023', 'text': 'Q8 Service 8042 86430', 'amount': -613.36}
+{'date': '18.08.2023', 'text': 'Solrød Tandklinik 69222', 'amount': -449.01}
+{'date': '18.08.2023', 'text': 'B Skat 20 08 2023', 'amount': -1697.0}
+{'date': '18.08.2023', 'text': 'Car tax', 'amount': -640.0}
+{'date': '21.08.2023', 'text': 'SuperB Solrød 48128', 'amount': -629.7}
+{'date': '21.08.2023', 'text': 'SuperB Solrød 49085', 'amount': -239.45}
+{'date': '23.08.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -59.0}
+{'date': '23.08.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -244.0}
+{'date': '23.08.2023', 'text': 'SuperB Solrød 50672', 'amount': -290.85}
+{'date': '25.08.2023', 'text': 'Lønoverførsel', 'amount': 52397.22}
+{'date': '25.08.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -16.0}
+{'date': '25.08.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.39}
+{'date': '28.08.2023', 'text': 'SuperB Solrød 53476', 'amount': -769.65}
+{'date': '29.08.2023', 'text': 'APPLE COM BILL CORK', 'amount': -49.0}
+{'date': '30.08.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -45.0}
+{'date': '30.08.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -273.0}
+{'date': '30.08.2023', 'text': 'Akut VVS', 'amount': -8023.75}
+{'date': '31.08.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '01.09.2023', 'text': 'Gjensidige Forsikring D', 'amount': -1214.89}
+{'date': '01.09.2023', 'text': 'Krogsgaard Finans', 'amount': -2474.0}
+{'date': '01.09.2023', 'text': 'HK Handels og Kontorf', 'amount': -517.0}
+{'date': '01.09.2023', 'text': 'Overført til MasterCard', 'amount': -1945.2}
+{'date': '04.09.2023', 'text': 'Apotek Fisketorvet 41304', 'amount': -130.0}
+{'date': '04.09.2023', 'text': 'Fisketorvet Føtex 00768', 'amount': -732.15}
+{'date': '04.09.2023', 'text': 'Fine hostpital', 'amount': -650.0}
+{'date': '04.09.2023', 'text': 'Vuggestue 09 2023', 'amount': -4243.0}
+{'date': '04.09.2023', 'text': 'SuperB Solrød 58751', 'amount': -336.5}
+{'date': '05.09.2023', 'text': 'MobilePay EASY PARK A S', 'amount': -316.1}
+{'date': '05.09.2023', 'text': 'GOOGLE CLOUD R2GXZL CC', 'amount': -238.02}
+{'date': '06.09.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -279.0}
+{'date': '06.09.2023', 'text': 'Q8 Service 8042 04087', 'amount': -636.52}
+{'date': '07.09.2023', 'text': 'PAYPAL HELPCOURSER 2I', 'amount': -355.97}
+{'date': '07.09.2023', 'text': 'Varmepumpe Tranche 1', 'amount': -92120.36}
+{'date': '07.09.2023', 'text': 'Hovmand intervento', 'amount': -2776.62}
+{'date': '07.09.2023', 'text': 'Solrød Apotek 07462', 'amount': -25.75}
+{'date': '08.09.2023', 'text': 'MobilePay Caroline Boje', 'amount': -62.0}
+{'date': '08.09.2023', 'text': 'SuperB Solrød 61360', 'amount': -69.5}
+{'date': '08.09.2023', 'text': 'Waterfront Apotek 68389', 'amount': -109.35}
+{'date': '08.09.2023', 'text': 'LIDL 48010', 'amount': -506.9}
+{'date': '10.09.2023', 'text': 'MobilePay Caroline Boje', 'amount': -263.0}
+{'date': '11.09.2023', 'text': 'SuperB Solrød 62285', 'amount': -340.35}
+{'date': '11.09.2023', 'text': 'SuperB Solrød 14680', 'amount': -40.0}
+{'date': '11.09.2023', 'text': 'Solrød Apotek 17681', 'amount': -56.9}
+{'date': '11.09.2023', 'text': 'SuperB Solrød 40242', 'amount': -686.72}
+{'date': '11.09.2023', 'text': 'SKATTEFORVALTNINGEN', 'amount': -1697.0}
+{'date': '12.09.2023', 'text': 'Solrød Apotek 75020', 'amount': -49.9}
+{'date': '13.09.2023', 'text': 'LIDL 49297', 'amount': -140.15}
+{'date': '18.09.2023', 'text': 'McDonalds 52 Koege', 'amount': -261.0}
+{'date': '18.09.2023', 'text': 'Plantorama Taastru 14474', 'amount': -1020.8}
+{'date': '18.09.2023', 'text': 'Solrød Apotek 64052', 'amount': -89.5}
+{'date': '20.09.2023', 'text': 'McDonalds 52 Koege', 'amount': -264.0}
+{'date': '20.09.2023', 'text': 'Varmepumpe Tranche 2', 'amount': -92120.36}
+{'date': '20.09.2023', 'text': 'Varmepumpe extra', 'amount': -3000.0}
+{'date': '25.09.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -59.0}
+{'date': '25.09.2023', 'text': 'SuperB Solrød 73314', 'amount': -538.07}
+{'date': '26.09.2023', 'text': 'Lønoverførsel', 'amount': 47823.26}
+{'date': '26.09.2023', 'text': 'PAYPAL ADOBESYSTEM 35314369001', 'amount': -95.44}
+{'date': '26.09.2023', 'text': 'APPLE COM BILL 80249625', 'amount': -16.0}
+{'date': '27.09.2023', 'text': 'MobilePay EASY PARK A S', 'amount': -50.22}
+{'date': '27.09.2023', 'text': 'McDonalds 107 Karlslunde', 'amount': -233.0}
+{'date': '27.09.2023', 'text': 'Q8 Service 8042 21962', 'amount': -643.57}
+{'date': '29.09.2023', 'text': 'Transfer to budget', 'amount': -7300.0}
+{'date': '29.09.2023', 'text': 'MobilePay Pernille K Weeke', 'amount': -70.0}
+{'date': '01.10.2023', 'text': 'Gebyrer i alt', 'amount': -20.0}

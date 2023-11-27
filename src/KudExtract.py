@@ -9,21 +9,27 @@ nltk.download('punkt')
 
 class KudExtract:
 
-    number_pattern = re.compile(r'^(\d{1,3}(?:\.\d{3})*(?:,\d{2})?)\s?([+-]?)$')
+    number_pattern = re.compile(r'^(\d{1,3}(?:[.,]\d{3})*(?:[.,]\d{2})?)\s?([+-]?)$')
     useless_tokens_pattern = re.compile(r'^\s*\+\s*$')
     tokenizer = RegexpTokenizer(r'\w+')
     date_pattern = re.compile(r'\d{2}\.\d{2}\s*$')
 
-    def __init__(self):
-        pass
+    def __init__(self, year, decimal_separator = ',', thousands_separator = '.'):
+        self.year = year
+        self.decimal_separator = decimal_separator
+        self.thousands_separator = thousands_separator
 
     def process_pdf(self, filepath): 
+
+        print(f"Processing Kontoudskrift {filepath} for year {self.year}")
 
         # Load PDF and generate XML
         self.__load_pdf_contents(filepath)
 
         # Extract lines
         lines = self.__extract_lines("kud.xml")
+
+        print(f"Extracted {len(lines)} lines")
 
         # Clean up lines
         lines = self.__clean_lines(lines)
@@ -33,6 +39,8 @@ class KudExtract:
 
         # Remove tokens that are not needed
         lines = self.__filter_tokens(lines)
+
+        print(f"Final lines retained: {len(lines)}")
 
         # Create the final list
         data = self.__transform_to_json(lines)
@@ -95,11 +103,17 @@ class KudExtract:
 
         for token in line: 
 
+            date_match = self.date_pattern.match(token.strip())
+
+            if date_match:
+                clean_line.append(token)
+                continue
+
             match = self.number_pattern.match(token.strip())
 
             if match:
                 numeric_part, sign = match.groups()
-                numeric_part = numeric_part.replace('.', '').replace(',', '.')  # Replace comma with period for decimal part
+                numeric_part = numeric_part.replace(' ', '').replace(self.thousands_separator, '').replace(self.decimal_separator, '.')  # Replace comma with period for decimal part
                 number = float(numeric_part)
                 if sign == '-':
                     number = -number
@@ -280,20 +294,28 @@ class KudExtract:
 
         for line in lines.values(): 
 
-            json = {}
+            amount = 0
+            date = '??.??'
+            text = 'TBD'
             
             for token in line: 
 
                 if isinstance(token, (int, float)): 
-                    json["amount"] = token
+                    amount = token
                     continue
 
                 if self.date_pattern.match(token):
-                    json["date"] = token
+                    date = token + "." + str(self.year)
                     continue
 
-                json["text"] = token
+                text = token
             
+            json = {
+                "date": date, 
+                "text": text, 
+                "amount": amount
+            }
+
             data.append(json)
         
         return data

@@ -1,0 +1,1874 @@
+type,kud_date,kud_text,kud_amount,toto_date,toto_text,toto_amount,label
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,11.04.2022,Gift Uffe,100.0,0
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,11.04.2022,Parcheggio,100.0,0
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,29.04.2019,Cleaning lady ,100.0,0
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,23.04.2019,Cleaning lady,100.0,0
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,14.04.2019,Cleaning lady ,100.0,0
+onetomany,11.04.2019,MobilePay Caroline Boje,-100.0,11.04.2019,Cleaning lady,100.0,1
+onetomany,29.04.2019,TIVOLI Salgskiosk 56626,-180.0,28.04.2019,Tivoli,180.0,1
+onetomany,29.04.2019,TIVOLI Salgskiosk 56626,-180.0,01.04.2019,Green mob,180.0,0
+onetomany,29.04.2019,TIVOLI Salgskiosk 56626,-180.0,12.04.2018,Fotex,180.0,0
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,17.04.2023,Present for Heidi,50.0,0
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,16.04.2023,Cancer research,50.0,0
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,08.04.2022,Parcheggio ,50.0,0
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,06.04.2022,Prking suitsupply,50.0,0
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,30.04.2019,Visa russia photo,50.0,1
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,30.04.2019,Visa photo russia,50.0,1
+onetomany,30.04.2019,MobilePay Pasfoto HBG1,-50.0,03.04.2018,Mobile pay,50.0,0
+onetomany,15.05.2019,DSB 858 Cph RKA 27532,-200.0,14.05.2019,Top up rejsekort sandro,200.0,1
+onetomany,15.05.2019,DSB 858 Cph RKA 27532,-200.0,09.05.2018,Mc donald,200.0,0
+onetomany,04.06.2019,IZ BRUS APS KOBENHAVN N,-60.0,28.06.2019,Bank fees,60.0,0
+onetomany,04.06.2019,IZ BRUS APS KOBENHAVN N,-60.0,25.06.2019,Green mob,60.0,0
+onetomany,04.06.2019,IZ BRUS APS KOBENHAVN N,-60.0,04.06.2019,IZ *BRUS APS\ \KOBENHAVN N  \,60.0,1
+onetomany,04.06.2019,IZ BRUS APS KOBENHAVN N,-60.0,20.06.2018,Agos,60.0,0
+onetomany,06.06.2019,MOBILPERIODKORT TAASTRUP,-700.0,03.06.2019,Pendlekort ,700.0,1
+onetomany,06.06.2019,MOBILPERIODKORT TAASTRUP,-700.0,02.06.2019,Julia wedding gift ,700.0,0
+onetomany,06.06.2019,MOBILPERIODKORT TAASTRUP,-700.0,15.06.2018,Train pendlekort,700.0,0
+onetomany,06.06.2019,MOBILPERIODKORT TAASTRUP,-700.0,04.06.2018,Ago vet,700.0,0
+onetomany,13.06.2019,MOSMETRO RU APARTIZANS MOSCOW,-5.75,13.06.2019,MOSMETRO.RU ASMOLENSKA\ \MO...,5.75,1
+onetomany,13.06.2019,MOSMETRO RU APARTIZANS MOSCOW,-5.75,13.06.2019,MOSMETRO.RU ASMOLENSKA\ \MO...,5.75,1
+onetomany,13.06.2019,MOSMETRO RU APARTIZANS MOSCOW,-5.75,13.06.2019,MOSMETRO.RU APARTIZANS\ \MO...,5.75,1
+onetomany,14.06.2019,Green Mobility A S Copenhagen,-188.0,14.06.2019,Green Mobility A/S\ \Copenh...,188.0,1
+onetomany,14.06.2019,Green Mobility A S Copenhagen,-188.0,02.06.2019,Berthel cheesecake ,188.0,0
+onetomany,17.06.2019,Kim Q Hair design 08221,-325.0,17.06.2019,Hair cut,325.0,1
+onetomany,17.06.2019,Kim Q Hair design 08221,-325.0,23.06.2018,Hair cut,325.0,0
+onetomany,25.01.2021,MobilePay Sune Enevoldsen,-100.0,14.01.2022,Gift Sune ,100.0,1
+onetomany,25.01.2021,MobilePay Sune Enevoldsen,-100.0,25.01.2021,Regalo Tiago,100.0,0
+onetomany,25.01.2021,MobilePay Sune Enevoldsen,-100.0,25.01.2021,Regalo Anders,100.0,0
+onetomany,25.01.2021,MobilePay Sune Enevoldsen,-100.0,24.01.2019,Parking Ørsted kick off,100.0,0
+onetomany,30.01.2021,MobilePay Yuliya Nikiforova,-150.0,02.01.2023,Jaheb present,150.0,0
+onetomany,30.01.2021,MobilePay Yuliya Nikiforova,-150.0,30.01.2021,Ostriche,150.0,1
+onetomany,01.02.2021,Krogsgaard Finans,-2474.0,01.02.2023,Car Loan,2474.0,1
+onetomany,01.02.2021,Krogsgaard Finans,-2474.0,01.02.2021,Finanziamento auto,2474.0,1
+onetomany,15.02.2021,B Skat 2021 20 01,-1262.0,15.02.2021,B Skat 02.2021,1262.0,1
+onetomany,15.02.2021,B Skat 2021 20 01,-1262.0,15.02.2021,B Skat 01.2021,1262.0,1
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,17.04.2023,Present for Heidi,50.0,0
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,16.04.2023,Cancer research,50.0,1
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,08.04.2022,Parcheggio ,50.0,0
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,06.04.2022,Prking suitsupply,50.0,0
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,30.04.2019,Visa russia photo,50.0,0
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,30.04.2019,Visa photo russia,50.0,0
+onetomany,16.04.2023,MobilePay Landsindsamling Solrød,-50.0,03.04.2018,Mobile pay,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,17.04.2023,Present for Heidi,50.0,1
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,16.04.2023,Cancer research,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,08.04.2022,Parcheggio ,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,06.04.2022,Prking suitsupply,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,30.04.2019,Visa russia photo,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,30.04.2019,Visa photo russia,50.0,0
+onetomany,17.04.2023,MobilePay 6238AK,-50.0,03.04.2018,Mobile pay,50.0,0
+onetomany,24.04.2023,Fitness Vitality 36463,-150.0,24.04.2023,Massage,150.0,1
+onetomany,24.04.2023,Fitness Vitality 36463,-150.0,14.04.2023,Massage,150.0,0
+onetomany,01.05.2023,Krogsgaard Finans,-2474.0,01.05.2023,Mazda loan,2474.0,1
+onetomany,01.05.2023,Krogsgaard Finans,-2474.0,03.05.2021,Car loan,2474.0,0
+onetomany,03.05.2023,P huset Gl Mønt 65128,-92.0,03.05.2023,Parking ,92.0,1
+onetomany,03.05.2023,P huset Gl Mønt 65128,-92.0,15.05.2019,Sweedish cafe sandro,92.0,0
+onetomany,08.05.2023,Magasin Kgs Nytor 33474,-1299.0,07.05.2023,Apple Tv,1299.0,1
+onetomany,08.05.2023,Magasin Kgs Nytor 33474,-1299.0,08.05.2022,Baby car chair,1299.0,0
+onetomany,24.05.2023,McDonalds 107 Karlslunde,-270.0,21.05.2023,Mc Donald ,270.0,1
+onetomany,24.05.2023,McDonalds 107 Karlslunde,-270.0,17.05.2018,Fotex,270.0,0
+onetomany,24.05.2023,McDonalds 107 Karlslunde,-270.0,04.05.2018,Tivoli airplanes,270.0,0
+onetomany,20.06.2023,Mairie De Saint Malo,-93.15,21.06.2023,Saint Malo,93.15,0
+onetomany,20.06.2023,Mairie De Saint Malo,-93.15,20.06.2023,Saint Malo,93.15,1
+onetomany,21.06.2023,Mairie De Saint Malo,-93.15,21.06.2023,Saint Malo,93.15,1
+onetomany,21.06.2023,Mairie De Saint Malo,-93.15,20.06.2023,Saint Malo,93.15,0
+onetomany,22.06.2023,Mairie De Saint Malo,-29.8,26.06.2023,Verdun,29.8,0
+onetomany,22.06.2023,Mairie De Saint Malo,-29.8,22.06.2023,Saint Malo,29.8,1
+onetomany,26.06.2023,Le Verdun,-29.8,26.06.2023,Verdun,29.8,1
+onetomany,26.06.2023,Le Verdun,-29.8,22.06.2023,Saint Malo,29.8,0
+onetomany,16.01.2019,10490,-245.0,29.01.2020,Bridge esk,245.0,0
+onetomany,16.01.2019,10490,-245.0,29.01.2020,Bridge fyn,245.0,0
+onetomany,23.01.2019,MobilePay Caroline Boje,-105.0,22.01.2019,Supermarket: Føtex,105.0,0
+onetomany,23.01.2019,MobilePay Caroline Boje,-105.0,09.01.2019,Supermarket: Føtex,105.0,0
+onetomany,24.01.2019,Parkeringsautomate 42698,-100.0,14.01.2022,Gift Sune ,100.0,0
+onetomany,24.01.2019,Parkeringsautomate 42698,-100.0,25.01.2021,Regalo Tiago,100.0,0
+onetomany,24.01.2019,Parkeringsautomate 42698,-100.0,25.01.2021,Regalo Anders,100.0,0
+onetomany,24.01.2019,Parkeringsautomate 42698,-100.0,24.01.2019,Parking Ørsted kick off,100.0,1
+onetomany,30.01.2019,ATM Cash Withdrawal VISA Abroad,-30.0,13.01.2020,San Francisco,30.0,0
+onetomany,30.01.2019,ATM Cash Withdrawal VISA Abroad,-30.0,30.01.2019,Commissione prelievo estero,30.0,1
+onetomany,04.02.2019,Zara Home DK KOBMA 86545,-118.0,24.02.2022,Joe & the Juice,118.0,0
+onetomany,04.02.2019,Zara Home DK KOBMA 86545,-118.0,03.02.2019,Zara Agomas Caro,118.0,1
+onetomany,05.02.2019,VDK DKK 700 00,-700.0,01.02.2019,Pendlekort,700.0,0
+onetomany,05.02.2019,VDK DKK 700 00,-700.0,07.02.2018,Abbonamento treno,700.0,1
+onetomany,11.02.2019,MobilePay Caroline Boje,-100.0,25.02.2021,Regalo Luca Casarini,100.0,0
+onetomany,11.02.2019,MobilePay Caroline Boje,-100.0,18.02.2019,Cleaning lady,100.0,0
+onetomany,11.02.2019,MobilePay Caroline Boje,-100.0,11.02.2019,Cleaning lady,100.0,1
+onetomany,11.02.2019,MobilePay Caroline Boje,-100.0,04.02.2019,Cleanin lady,100.0,0
+onetomany,26.02.2019,MobilePay Maria Barlev,-50.0,22.02.2023,Maternity present Rune,50.0,0
+onetomany,26.02.2019,MobilePay Maria Barlev,-50.0,26.02.2019,Umid gift,50.0,1
+onetomany,05.03.2019,VDK DKK 188 00,-188.0,20.03.2019,Green mob,188.0,0
+onetomany,05.03.2019,VDK DKK 188 00,-188.0,03.03.2019,Cheesecake Berthel,188.0,0
+onetomany,05.03.2019,VDK DKK 700 00,-700.0,05.03.2019,Pendlekort,700.0,1
+onetomany,05.03.2019,VDK DKK 700 00,-700.0,09.03.2018,Abbonamento treno,700.0,0
+onetomany,17.03.2019,MobilePay Caroline Boje,-100.0,09.03.2020,Photos consulat,100.0,0
+onetomany,17.03.2019,MobilePay Caroline Boje,-100.0,31.03.2019,Cleaning lady,100.0,0
+onetomany,17.03.2019,MobilePay Caroline Boje,-100.0,22.03.2019,Cleaning lady,100.0,0
+onetomany,17.03.2019,MobilePay Caroline Boje,-100.0,17.03.2019,Cleaning lady,100.0,1
+onetomany,17.03.2019,MobilePay Caroline Boje,-100.0,01.03.2018,Netto,100.0,0
+onetomany,20.03.2019,VDK DKK 188 00,-188.0,20.03.2019,Green mob,188.0,0
+onetomany,20.03.2019,VDK DKK 188 00,-188.0,03.03.2019,Cheesecake Berthel,188.0,0
+onetomany,27.03.2019,09734,-248.0,20.03.2023,Dog stuff,248.0,0
+onetomany,27.03.2019,09734,-248.0,27.03.2019,Taxi airport Milan,248.0,1
+onetomany,18.10.2021,MobilePay Farewell gift to Emilie,-150.0,18.10.2021,Gift Emilie,150.0,1
+onetomany,18.10.2021,MobilePay Farewell gift to Emilie,-150.0,04.10.2018,Føtex,150.0,0
+onetomany,29.10.2021,campadventure dk 54064,-350.0,30.10.2021,Camp adv,350.0,1
+onetomany,29.10.2021,campadventure dk 54064,-350.0,02.10.2018,Gym,350.0,0
+onetomany,23.11.2021,McDonalds Solroed rest,-256.0,13.11.2022,Mc Donald ,256.0,0
+onetomany,23.11.2021,McDonalds Solroed rest,-256.0,21.11.2021,Mc donald,256.0,1
+onetomany,30.11.2021,KIM Q HAIR DESIGN KOEBENHAVN V,-349.0,02.11.2022,Haircut,349.0,0
+onetomany,30.11.2021,KIM Q HAIR DESIGN KOEBENHAVN V,-349.0,02.11.2022,Haircut,349.0,0
+onetomany,30.11.2021,KIM Q HAIR DESIGN KOEBENHAVN V,-349.0,27.11.2021,Haircut ,349.0,1
+onetomany,02.01.2023,Krogsgaard Finans,-2474.0,01.01.2023,Car Loan,2474.0,1
+onetomany,02.01.2023,Krogsgaard Finans,-2474.0,04.01.2021,Finanz auto,2474.0,0
+onetomany,06.02.2023,B Skat 20 02 2023,-1697.0,04.02.2023,B-Skat 01.2023,1697.0,1
+onetomany,06.02.2023,B Skat 20 02 2023,-1697.0,04.02.2023,B-Skat 02.2023,1697.0,0
+onetomany,06.02.2023,B Skat 20 01 2023,-1697.0,04.02.2023,B-Skat 01.2023,1697.0,0
+onetomany,06.02.2023,B Skat 20 01 2023,-1697.0,04.02.2023,B-Skat 02.2023,1697.0,0
+onetomany,22.02.2023,MobilePay Maternity present for RUN,-50.0,22.02.2023,Maternity present Rune,50.0,1
+onetomany,22.02.2023,MobilePay Maternity present for RUN,-50.0,26.02.2019,Umid gift,50.0,0
+onetomany,01.03.2023,Krogsgaard Finans,-2474.0,01.03.2023,Car loan,2474.0,1
+onetomany,01.03.2023,Krogsgaard Finans,-2474.0,01.03.2021,Finanziamento auto,2474.0,0
+onetomany,30.03.2023,APPLE COM BILL 80249625,-45.0,30.03.2023,Apple app,45.0,1
+onetomany,30.03.2023,APPLE COM BILL 80249625,-45.0,01.03.2023,Apple gym app,45.0,0
+onetomany,04.09.2020,GREENMOBILITY A S KBENHAVN K,-20.0,30.09.2023,Bank expenses,20.0,0
+onetomany,04.09.2020,GREENMOBILITY A S KBENHAVN K,-20.0,02.09.2020,Green mobility ,20.0,1
+onetomany,23.09.2020,Richards 59868,-40.0,11.09.2023,Supermarket ,40.0,0
+onetomany,23.09.2020,Richards 59868,-40.0,16.09.2018,Dvd,40.0,0
+onetomany,01.08.2022,Krogsgaard Finans,-2474.0,01.08.2023,Car loan,2474.0,0
+onetomany,01.08.2022,Krogsgaard Finans,-2474.0,01.08.2021,Car loan,2474.0,0
+onetomany,01.09.2022,Krogsgaard Finans,-2474.0,01.09.2023,Car loan,2474.0,0
+onetomany,01.09.2022,Krogsgaard Finans,-2474.0,01.09.2021,Car loan,2474.0,0
+onetomany,22.09.2022,SuperB Solrød 31927,-16.0,23.09.2023,Adobe,16.0,0
+onetomany,22.09.2022,SuperB Solrød 31927,-16.0,02.09.2020,Green mobility ,16.0,0
+onetomany,02.07.2018,JYSK Fisketorvet 43941,-350.0,23.07.2018,Fotex,350.0,0
+onetomany,02.07.2018,JYSK Fisketorvet 43941,-350.0,10.07.2018,Fotex,350.0,0
+onetomany,02.07.2018,JYSK Fisketorvet 43941,-350.0,06.07.2018,Caroline night out,350.0,0
+onetomany,02.07.2018,JYSK Fisketorvet 43941,-350.0,01.07.2018,Jysk blanket,350.0,1
+onetomany,06.07.2018,MobilePay Caroline Boje,-350.0,23.07.2018,Fotex,350.0,0
+onetomany,06.07.2018,MobilePay Caroline Boje,-350.0,10.07.2018,Fotex,350.0,0
+onetomany,06.07.2018,MobilePay Caroline Boje,-350.0,06.07.2018,Caroline night out,350.0,1
+onetomany,06.07.2018,MobilePay Caroline Boje,-350.0,01.07.2018,Jysk blanket,350.0,0
+onetomany,11.07.2018,WARPIGS BREWPUB 19917,-160.0,11.07.2018,Warpigs,160.0,1
+onetomany,11.07.2018,WARPIGS BREWPUB 19917,-160.0,11.07.2018,Warpigs,160.0,1
+onetomany,16.07.2018,CINEMAXX FISKETORV 33091,-224.0,01.07.2021,Cake,224.0,0
+onetomany,16.07.2018,CINEMAXX FISKETORV 33091,-224.0,14.07.2018,Cinema (Antman),224.0,1
+onetomany,23.07.2018,ACCORD A S 63692,-30.0,30.07.2019,ATM Cash Withdrawal VISA - ...,30.0,0
+onetomany,23.07.2018,ACCORD A S 63692,-30.0,28.07.2019,Dinner,30.0,0
+onetomany,23.07.2018,ACCORD A S 63692,-30.0,22.07.2018,Movies,30.0,1
+onetomany,23.07.2018,MobilePay Caroline Boje,-350.0,23.07.2018,Fotex,350.0,0
+onetomany,23.07.2018,MobilePay Caroline Boje,-350.0,10.07.2018,Fotex,350.0,0
+onetomany,23.07.2018,MobilePay Caroline Boje,-350.0,06.07.2018,Caroline night out,350.0,0
+onetomany,23.07.2018,MobilePay Caroline Boje,-350.0,01.07.2018,Jysk blanket,350.0,0
+onetomany,01.08.2018,MobilePay Caroline Boje,-350.0,01.08.2018,Fitness DK,350.0,0
+onetomany,01.08.2018,MobilePay Caroline Boje,-350.0,01.08.2018,Føtex,350.0,0
+onetomany,06.08.2018,MobilePay Caroline Boje,-300.0,19.08.2021,Qualcosa,300.0,0
+onetomany,06.08.2018,MobilePay Caroline Boje,-300.0,06.08.2018,Føtex,300.0,0
+onetomany,27.08.2018,Kim Q Hair design 04108,-325.0,18.08.2021,Barrier dog,325.0,0
+onetomany,27.08.2018,Kim Q Hair design 04108,-325.0,26.08.2019,Hair cut,325.0,0
+onetomany,27.08.2018,Kim Q Hair design 04108,-325.0,25.08.2018,Frisør,325.0,1
+onetomany,03.09.2018,MobilePay Caroline Boje,-250.0,28.09.2019,MobilePay Sune Enevoldsen,250.0,0
+onetomany,03.09.2018,MobilePay Caroline Boje,-250.0,03.09.2018,Føtex,250.0,0
+onetomany,05.09.2018,MobilePay Caroline Boje,-200.0,25.09.2018,Føtex,200.0,0
+onetomany,05.09.2018,MobilePay Caroline Boje,-200.0,05.09.2018,Føtex,200.0,0
+onetomany,17.09.2018,Fitness dk nr 37 93020,-279.0,03.09.2023,Mc Donald ,279.0,0
+onetomany,17.09.2018,Fitness dk nr 37 93020,-279.0,30.09.2019,Fisketorvet )))) 42079,279.0,0
+onetomany,17.09.2018,Fitness dk nr 37 93020,-279.0,28.09.2018,Protein,279.0,0
+onetomany,17.09.2018,Fitness dk nr 37 93020,-279.0,03.09.2018,Protein powder,279.0,0
+onetomany,25.09.2018,MobilePay Caroline Boje,-200.0,25.09.2018,Føtex,200.0,0
+onetomany,25.09.2018,MobilePay Caroline Boje,-200.0,05.09.2018,Føtex,200.0,0
+onetomany,27.09.2018,MobilePay Caroline Boje,-350.0,27.09.2018,Føtex,350.0,0
+onetomany,27.09.2018,MobilePay Caroline Boje,-350.0,02.09.2018,Fitness dk,350.0,0
+onetomany,02.01.2020,36763,-228.0,02.01.2020,Taxi,228.0,1
+onetomany,02.01.2020,36763,-228.0,31.01.2019,Taxi KL,228.0,0
+onetomany,10.01.2020,WHS T3 Airside 85 89595,-299.4,09.01.2020,Travel stuff,299.4,1
+onetomany,10.01.2020,WHS T3 Airside 85 89595,-299.4,06.01.2020,Silvan,299.4,0
+onetomany,18.01.2020,MobilePay Caroline Boje,-180.0,25.01.2020,Cleaning lady ,180.0,0
+onetomany,18.01.2020,MobilePay Caroline Boje,-180.0,18.01.2020,Cleaning lady ,180.0,1
+onetomany,29.01.2020,Storebæltsforbinde 14276,-245.0,29.01.2020,Bridge esk,245.0,1
+onetomany,29.01.2020,Storebæltsforbinde 14276,-245.0,29.01.2020,Bridge fyn,245.0,1
+onetomany,18.02.2020,MobilePay Pernille K Weeke,-75.0,18.02.2020,Cadeau collega,75.0,1
+onetomany,18.02.2020,MobilePay Pernille K Weeke,-75.0,23.02.2018,Dog food,75.0,0
+onetomany,28.02.2020,MobilePay Caroline Boje,-175.0,28.02.2020,Protein powder ,175.0,0
+onetomany,28.02.2020,MobilePay Caroline Boje,-175.0,12.02.2020,Protein powder ,175.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,17.04.2023,Present for Heidi,50.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,16.04.2023,Cancer research,50.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,08.04.2022,Parcheggio ,50.0,1
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,06.04.2022,Prking suitsupply,50.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,30.04.2019,Visa russia photo,50.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,30.04.2019,Visa photo russia,50.0,0
+onetomany,06.04.2022,P huset Gl Mønt 33547,-50.0,03.04.2018,Mobile pay,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,17.04.2023,Present for Heidi,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,16.04.2023,Cancer research,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,08.04.2022,Parcheggio ,50.0,1
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,06.04.2022,Prking suitsupply,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,30.04.2019,Visa russia photo,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,30.04.2019,Visa photo russia,50.0,0
+onetomany,08.04.2022,P huset Gl Mønt 33681,-50.0,03.04.2018,Mobile pay,50.0,0
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,11.04.2022,Gift Uffe,100.0,0
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,11.04.2022,Parcheggio,100.0,1
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,29.04.2019,Cleaning lady ,100.0,0
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,23.04.2019,Cleaning lady,100.0,0
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,14.04.2019,Cleaning lady ,100.0,0
+onetomany,11.04.2022,P huset Gl Mønt 33912,-100.0,11.04.2019,Cleaning lady,100.0,0
+onetomany,02.05.2022,Krogsgaard Finans,-2474.0,01.05.2023,Mazda loan,2474.0,0
+onetomany,02.05.2022,Krogsgaard Finans,-2474.0,03.05.2021,Car loan,2474.0,0
+onetomany,30.05.2022,Fisketorvet 73840,-45.0,31.05.2023,App,45.0,0
+onetomany,30.05.2022,Fisketorvet 73840,-45.0,02.05.2023,App gym,45.0,0
+onetomany,30.05.2022,Fisketorvet 73840,-45.0,26.05.2022,Cinema park,45.0,1
+onetomany,30.05.2022,Fisketorvet 73840,-45.0,07.05.2022,Park,45.0,0
+onetomany,27.06.2022,Farewell gift for William,-100.0,20.06.2021,Parking airport Sandro,100.0,0
+onetomany,27.06.2022,Farewell gift for William,-100.0,21.06.2018,Regalo lars bo,100.0,0
+onetomany,01.11.2022,MobilePay Collection for Nanna,-50.0,03.11.2022,Present Thomas,50.0,0
+onetomany,01.11.2022,MobilePay Collection for Nanna,-50.0,01.11.2022,Present Nanna,50.0,1
+onetomany,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.36,02.12.2022,Currency,1.36,1
+onetomany,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.36,02.12.2022,Currency,1.36,1
+onetomany,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.36,02.12.2022,Currency,1.36,1
+onetomany,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.36,02.12.2022,Currency,1.36,1
+onetomany,09.12.2022,ZooBiiDoo 79426,-219.0,08.12.2022,Pappa Loki,219.0,1
+onetomany,09.12.2022,ZooBiiDoo 79426,-219.0,27.12.2018,Taxi airport to Milan,219.0,0
+onetomany,11.04.2018,VDK DKK 700 00,-700.0,03.04.2019,Train,700.0,0
+onetomany,11.04.2018,VDK DKK 700 00,-700.0,11.04.2018,Pendlekort,700.0,1
+onetomany,17.04.2018,VDK DKK 700 00,-700.0,03.04.2019,Train,700.0,0
+onetomany,17.04.2018,VDK DKK 700 00,-700.0,11.04.2018,Pendlekort,700.0,0
+onetomany,19.04.2018,MobilePay Caroline Boje,-270.0,28.04.2019,Tivoli,270.0,0
+onetomany,19.04.2018,MobilePay Caroline Boje,-270.0,19.04.2018,Fotex,270.0,0
+onetomany,03.05.2018,MobilePay Caroline Boje,-1500.0,28.05.2018,Police fine january,1500.0,0
+onetomany,03.05.2018,MobilePay Caroline Boje,-1500.0,03.05.2018,Caroline’s bike,1500.0,1
+onetomany,09.05.2018,MobilePay Caroline Boje,-200.0,14.05.2019,Top up rejsekort sandro,200.0,0
+onetomany,09.05.2018,MobilePay Caroline Boje,-200.0,09.05.2018,Mc donald,200.0,0
+onetomany,17.05.2018,MobilePay Caroline Boje,-270.0,21.05.2023,Mc Donald ,270.0,0
+onetomany,17.05.2018,MobilePay Caroline Boje,-270.0,17.05.2018,Fotex,270.0,0
+onetomany,17.05.2018,MobilePay Caroline Boje,-270.0,04.05.2018,Tivoli airplanes,270.0,0
+onetomany,22.05.2018,VDK DKK 24 00,-24.0,14.05.2019,Metro sandro,24.0,0
+onetomany,22.05.2018,VDK DKK 24 00,-24.0,25.05.2018,Airport train,24.0,0
+onetomany,22.05.2018,VDK DKK 24 00,-24.0,23.05.2018,Biglietto aerop,24.0,1
+onetomany,22.05.2018,VDK DKK 24 00,-24.0,17.05.2018,Train to airport,24.0,0
+onetomany,23.05.2018,MobilePay Caroline Boje,-100.0,24.05.2018,Fotex,100.0,0
+onetomany,23.05.2018,MobilePay Caroline Boje,-100.0,23.05.2018,Boh to caroline,100.0,1
+onetomany,24.05.2018,MobilePay Caroline Boje,-100.0,24.05.2018,Fotex,100.0,0
+onetomany,24.05.2018,MobilePay Caroline Boje,-100.0,23.05.2018,Boh to caroline,100.0,1
+onetomany,25.05.2018,VDK DKK 24 00,-24.0,14.05.2019,Metro sandro,24.0,0
+onetomany,25.05.2018,VDK DKK 24 00,-24.0,25.05.2018,Airport train,24.0,1
+onetomany,25.05.2018,VDK DKK 24 00,-24.0,23.05.2018,Biglietto aerop,24.0,0
+onetomany,25.05.2018,VDK DKK 24 00,-24.0,17.05.2018,Train to airport,24.0,0
+onetomany,28.05.2018,MCDONALDS FISKETOR 41669,-38.0,12.05.2023,Supermarket ,38.0,0
+onetomany,28.05.2018,MCDONALDS FISKETOR 41669,-38.0,26.05.2018,Mc nuggets,38.0,1
+onetomany,28.05.2018,Betaling af Bøde,-1500.0,28.05.2018,Police fine january,1500.0,1
+onetomany,28.05.2018,Betaling af Bøde,-1500.0,03.05.2018,Caroline’s bike,1500.0,0
+onetomany,29.05.2018,MobilePay Mikael Zebbelin Poulsen,100.0,24.05.2018,Fotex,100.0,0
+onetomany,29.05.2018,MobilePay Mikael Zebbelin Poulsen,100.0,23.05.2018,Boh to caroline,100.0,0
+onetomany,04.06.2018,CINEMAXX FISKETORV 29247,-244.0,09.06.2018,Cinema,244.0,0
+onetomany,04.06.2018,CINEMAXX FISKETORV 29247,-244.0,02.06.2018,Cinema (Solo),244.0,1
+onetomany,04.06.2018,MobilePay Caroline Boje,-700.0,03.06.2019,Pendlekort ,700.0,0
+onetomany,04.06.2018,MobilePay Caroline Boje,-700.0,02.06.2019,Julia wedding gift ,700.0,0
+onetomany,04.06.2018,MobilePay Caroline Boje,-700.0,15.06.2018,Train pendlekort,700.0,0
+onetomany,04.06.2018,MobilePay Caroline Boje,-700.0,04.06.2018,Ago vet,700.0,0
+onetomany,08.06.2018,MobilePay Caroline Boje,-200.0,18.06.2021,Drinks,200.0,0
+onetomany,08.06.2018,MobilePay Caroline Boje,-200.0,21.06.2018,Fotex,200.0,0
+onetomany,08.06.2018,MobilePay Caroline Boje,-200.0,15.06.2018,Mc Donald,200.0,0
+onetomany,08.06.2018,MobilePay Caroline Boje,-200.0,08.06.2018,Mc Donald,200.0,1
+onetomany,11.06.2018,CINEMAXX FISKETORV 20515,-244.0,09.06.2018,Cinema,244.0,1
+onetomany,11.06.2018,CINEMAXX FISKETORV 20515,-244.0,02.06.2018,Cinema (Solo),244.0,0
+onetomany,15.06.2018,MobilePay Caroline Boje,-200.0,18.06.2021,Drinks,200.0,0
+onetomany,15.06.2018,MobilePay Caroline Boje,-200.0,21.06.2018,Fotex,200.0,0
+onetomany,15.06.2018,MobilePay Caroline Boje,-200.0,15.06.2018,Mc Donald,200.0,1
+onetomany,15.06.2018,MobilePay Caroline Boje,-200.0,08.06.2018,Mc Donald,200.0,0
+onetomany,18.06.2018,Flying Tiger Cph41 06211,-80.0,26.06.2018,Fotex,80.0,0
+onetomany,18.06.2018,Flying Tiger Cph41 06211,-80.0,18.06.2018,French furniture notre dame,80.0,0
+onetomany,18.06.2018,Flying Tiger Cph41 06211,-80.0,18.06.2018,Furniture tiger,80.0,1
+onetomany,21.06.2018,MobilePay Caroline Boje,-200.0,18.06.2021,Drinks,200.0,0
+onetomany,21.06.2018,MobilePay Caroline Boje,-200.0,21.06.2018,Fotex,200.0,1
+onetomany,21.06.2018,MobilePay Caroline Boje,-200.0,15.06.2018,Mc Donald,200.0,0
+onetomany,21.06.2018,MobilePay Caroline Boje,-200.0,08.06.2018,Mc Donald,200.0,0
+onetomany,25.06.2018,Kim Q Hair design 03322,-325.0,17.06.2019,Hair cut,325.0,0
+onetomany,25.06.2018,Kim Q Hair design 03322,-325.0,23.06.2018,Hair cut,325.0,1
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,28.05.2020,Train,48.0,0
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,28.05.2020,Train ticket,48.0,0
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,25.05.2020,Train ticket,48.0,1
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,24.05.2020,Green mobility ,48.0,0
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,19.05.2020,Train ticket ,48.0,0
+onetomany,25.05.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,19.05.2020,Train ticket ,48.0,0
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,28.05.2020,Train,48.0,0
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,28.05.2020,Train ticket,48.0,0
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,25.05.2020,Train ticket,48.0,0
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,24.05.2020,Green mobility ,48.0,1
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,19.05.2020,Train ticket ,48.0,0
+onetomany,26.05.2020,GREENMOBILITY A S KBENHAVN K,-48.0,19.05.2020,Train ticket ,48.0,0
+onetomany,12.06.2020,DOT DIN OFFENTLIGE TRAN,-68.0,10.06.2020,Train ticket,68.0,1
+onetomany,12.06.2020,DOT DIN OFFENTLIGE TRAN,-68.0,10.06.2020,Trainticket,68.0,1
+onetomany,14.01.2022,MobilePay Gift for Sunes newborn so,-100.0,14.01.2022,Gift Sune ,100.0,1
+onetomany,14.01.2022,MobilePay Gift for Sunes newborn so,-100.0,25.01.2021,Regalo Tiago,100.0,0
+onetomany,14.01.2022,MobilePay Gift for Sunes newborn so,-100.0,25.01.2021,Regalo Anders,100.0,0
+onetomany,14.01.2022,MobilePay Gift for Sunes newborn so,-100.0,24.01.2019,Parking Ørsted kick off,100.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,15.02.2018,TIM Caroline,10.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,05.02.2018,Parking CPH,10.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,05.02.2018,Parking CPH,10.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,02.02.2018,Parking CPH,10.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,02.02.2018,Parking CPH,10.0,0
+onetomany,01.02.2022,Gebyrer i alt,-10.0,01.02.2018,Parcheggio,10.0,0
+onetomany,11.02.2022,B Skat 20 02 2022,-1069.0,11.02.2022,B skat 01.2022,1069.0,0
+onetomany,11.02.2022,B Skat 20 02 2022,-1069.0,11.02.2022,B skar 02.2022,1069.0,1
+onetomany,01.03.2022,Krogsgaard Finans,-2474.0,01.03.2023,Car loan,2474.0,0
+onetomany,01.03.2022,Krogsgaard Finans,-2474.0,01.03.2021,Finanziamento auto,2474.0,0
+onetomany,07.03.2022,P huset Gl Mønt 31334,-100.0,09.03.2020,Photos consulat,100.0,0
+onetomany,07.03.2022,P huset Gl Mønt 31334,-100.0,31.03.2019,Cleaning lady,100.0,0
+onetomany,07.03.2022,P huset Gl Mønt 31334,-100.0,22.03.2019,Cleaning lady,100.0,0
+onetomany,07.03.2022,P huset Gl Mønt 31334,-100.0,17.03.2019,Cleaning lady,100.0,0
+onetomany,07.03.2022,P huset Gl Mønt 31334,-100.0,01.03.2018,Netto,100.0,0
+onetomany,24.03.2022,MobilePay Hugo Roth Cardoso,80.0,18.03.2018,Coffee place,80.0,0
+onetomany,24.03.2022,MobilePay Hugo Roth Cardoso,80.0,11.03.2018,Coffee place relax,80.0,0
+onetomany,24.03.2022,MobilePay Hugo Roth Cardoso,80.0,10.03.2018,Netto,80.0,0
+onetomany,05.02.2018,MobilePay,-200.0,07.02.2018,Caroline mobile pay supermarket,200.0,0
+onetomany,05.02.2018,MobilePay,-200.0,06.02.2018,Cibo Ago mobile pay Caroline,200.0,1
+onetomany,09.02.2018,VDK DKK 700 00,-700.0,01.02.2019,Pendlekort,700.0,0
+onetomany,09.02.2018,VDK DKK 700 00,-700.0,07.02.2018,Abbonamento treno,700.0,1
+onetomany,14.02.2018,MobilePay Caroline Boje,-150.0,03.02.2019,Moccio,150.0,0
+onetomany,14.02.2018,MobilePay Caroline Boje,-150.0,14.02.2018,Dog food to Caroline,150.0,1
+onetomany,17.02.2018,MobilePay RODEO Østerbro,-499.0,09.02.2022,Blender,499.0,0
+onetomany,17.02.2018,MobilePay RODEO Østerbro,-499.0,17.02.2018,Hair,499.0,1
+onetomany,23.02.2018,MobilePay Caroline Boje,-75.0,18.02.2020,Cadeau collega,75.0,0
+onetomany,23.02.2018,MobilePay Caroline Boje,-75.0,23.02.2018,Dog food,75.0,1
+onetomany,03.03.2018,MobilePay Caroline Boje,-150.0,10.03.2019,Cleanong lady,150.0,0
+onetomany,03.03.2018,MobilePay Caroline Boje,-150.0,03.03.2018,Fitness World,150.0,0
+onetomany,10.03.2018,MobilePay Caroline Boje,-80.0,18.03.2018,Coffee place,80.0,0
+onetomany,10.03.2018,MobilePay Caroline Boje,-80.0,11.03.2018,Coffee place relax,80.0,0
+onetomany,10.03.2018,MobilePay Caroline Boje,-80.0,10.03.2018,Netto,80.0,1
+onetomany,11.03.2018,MobilePay Caroline Boje,-80.0,18.03.2018,Coffee place,80.0,0
+onetomany,11.03.2018,MobilePay Caroline Boje,-80.0,11.03.2018,Coffee place relax,80.0,1
+onetomany,11.03.2018,MobilePay Caroline Boje,-80.0,10.03.2018,Netto,80.0,0
+onetomany,15.03.2018,MobilePay Caroline Boje,-200.0,24.03.2022,Game place,200.0,0
+onetomany,15.03.2018,MobilePay Caroline Boje,-200.0,25.03.2019,Visita barra,200.0,0
+onetomany,15.03.2018,MobilePay Caroline Boje,-200.0,15.03.2018,Netto,200.0,1
+onetomany,19.03.2018,Coffee Factory Swe 61924,-80.0,18.03.2018,Coffee place,80.0,1
+onetomany,19.03.2018,Coffee Factory Swe 61924,-80.0,11.03.2018,Coffee place relax,80.0,0
+onetomany,19.03.2018,Coffee Factory Swe 61924,-80.0,10.03.2018,Netto,80.0,0
+onetomany,01.07.2021,Krogsgaard Finans,-2474.0,01.07.2023,Car loan,2474.0,0
+onetomany,01.07.2021,Krogsgaard Finans,-2474.0,01.07.2021,Car loan,2474.0,1
+onetomany,12.07.2021,Storebæltsforbinde 09661,-245.0,16.07.2022,Storb broen,245.0,0
+onetomany,12.07.2021,Storebæltsforbinde 09661,-245.0,12.07.2021,Bridge fyn,245.0,1
+onetomany,12.07.2021,Storebæltsforbinde 09661,-245.0,12.07.2021,Bridge fyn,245.0,1
+onetomany,12.07.2021,Storebæltsforbinde 65348,-245.0,16.07.2022,Storb broen,245.0,0
+onetomany,12.07.2021,Storebæltsforbinde 65348,-245.0,12.07.2021,Bridge fyn,245.0,1
+onetomany,12.07.2021,Storebæltsforbinde 65348,-245.0,12.07.2021,Bridge fyn,245.0,1
+onetomany,13.07.2021,MobilePay Selecta 97015389 C,-20.0,13.07.2021,Water airport ,20.0,1
+onetomany,13.07.2021,MobilePay Selecta 97015389 C,-20.0,29.07.2019,Prelievo,20.0,0
+onetomany,17.08.2021,14215,-325.0,18.08.2021,Barrier dog,325.0,0
+onetomany,17.08.2021,14215,-325.0,26.08.2019,Hair cut,325.0,0
+onetomany,17.08.2021,14215,-325.0,25.08.2018,Frisør,325.0,0
+onetomany,01.09.2021,Krogsgaard Finans,-2474.0,01.09.2023,Car loan,2474.0,0
+onetomany,01.09.2021,Krogsgaard Finans,-2474.0,01.09.2021,Car loan,2474.0,1
+onetomany,17.07.2019,RYANAIR PAYPAL COM,-172.0,17.07.2019,Trip Milan,172.0,1
+onetomany,17.07.2019,RYANAIR PAYPAL COM,-172.0,14.07.2019,Aereo Milano,172.0,0
+onetomany,18.07.2019,MobilePay Yuliya Nikiforova,160.0,11.07.2018,Warpigs,160.0,0
+onetomany,18.07.2019,MobilePay Yuliya Nikiforova,160.0,11.07.2018,Warpigs,160.0,0
+onetomany,19.07.2019,Fisketorvet Føtex 51024,-110.8,23.07.2019,Føtex ,110.8,0
+onetomany,19.07.2019,Fisketorvet Føtex 51024,-110.8,19.07.2019,Supermarket: Føtex,110.8,1
+onetomany,29.07.2019,MobilePay Cherif,-250.0,29.07.2019,Taxi Milan,250.0,1
+onetomany,29.07.2019,MobilePay Cherif,-250.0,30.07.2018,Føtex,250.0,0
+onetomany,30.07.2019,36180,-279.0,30.07.2019,Protein powder ,279.0,1
+onetomany,30.07.2019,36180,-279.0,01.07.2019,Protein powder ,279.0,0
+onetomany,13.08.2019,OERESUNDSBROEN MOD DK KOBENHAVN,-450.0,23.08.2021,Food,450.0,0
+onetomany,13.08.2019,OERESUNDSBROEN MOD DK KOBENHAVN,-450.0,27.08.2019,OERESUNDSBROEN MOD DK\ \KOB...,450.0,1
+onetomany,27.08.2019,SKANETRAFIKEN MALMO C,-85.18,27.08.2019,SKANETRAFIKEN\ \MALMO C\,85.18,1
+onetomany,27.08.2019,SKANETRAFIKEN MALMO C,-85.18,27.08.2019,SKANETRAFIKEN\ \MALMO C\,85.18,1
+onetomany,27.08.2019,MobilePay Qian Li,-50.0,27.08.2019,Present for Dan,50.0,1
+onetomany,27.08.2019,MobilePay Qian Li,-50.0,06.08.2018,Føtex,50.0,0
+onetomany,06.09.2019,Dantaxi 4x48 37047,-284.0,06.09.2019,Dantaxi 4x48 )))) 37047,284.0,1
+onetomany,06.09.2019,Dantaxi 4x48 37047,-284.0,04.09.2019,Taxi,284.0,0
+onetomany,28.09.2019,MobilePay Sune Enevoldsen,-250.0,28.09.2019,MobilePay Sune Enevoldsen,250.0,1
+onetomany,28.09.2019,MobilePay Sune Enevoldsen,-250.0,03.09.2018,Føtex,250.0,0
+onetomany,30.09.2019,Fisketorvet 42079,-279.0,03.09.2023,Mc Donald ,279.0,0
+onetomany,30.09.2019,Fisketorvet 42079,-279.0,30.09.2019,Fisketorvet )))) 42079,279.0,1
+onetomany,30.09.2019,Fisketorvet 42079,-279.0,28.09.2018,Protein,279.0,0
+onetomany,30.09.2019,Fisketorvet 42079,-279.0,03.09.2018,Protein powder,279.0,0
+onetomany,03.07.2023,Krogsgaard Finans,-2474.0,01.07.2023,Car loan,2474.0,1
+onetomany,03.07.2023,Krogsgaard Finans,-2474.0,01.07.2021,Car loan,2474.0,0
+onetomany,04.08.2023,B Skat 20 07 2023,-1697.0,18.08.2023,B-SKAT 08.2023,1697.0,0
+onetomany,04.08.2023,B Skat 20 07 2023,-1697.0,04.08.2023,B-skat 20.07,1697.0,1
+onetomany,23.08.2023,McDonalds 107 Karlslunde,-244.0,20.08.2023,Mc donald,244.0,1
+onetomany,23.08.2023,McDonalds 107 Karlslunde,-244.0,28.08.2022,Mc Donald ,244.0,0
+onetomany,01.09.2023,Krogsgaard Finans,-2474.0,01.09.2023,Car loan,2474.0,1
+onetomany,01.09.2023,Krogsgaard Finans,-2474.0,01.09.2021,Car loan,2474.0,0
+onetomany,06.09.2023,McDonalds 107 Karlslunde,-279.0,03.09.2023,Mc Donald ,279.0,1
+onetomany,06.09.2023,McDonalds 107 Karlslunde,-279.0,30.09.2019,Fisketorvet )))) 42079,279.0,0
+onetomany,06.09.2023,McDonalds 107 Karlslunde,-279.0,28.09.2018,Protein,279.0,0
+onetomany,06.09.2023,McDonalds 107 Karlslunde,-279.0,03.09.2018,Protein powder,279.0,0
+onetomany,11.09.2023,SuperB Solrød 14680,-40.0,11.09.2023,Supermarket ,40.0,1
+onetomany,11.09.2023,SuperB Solrød 14680,-40.0,16.09.2018,Dvd,40.0,0
+onetomany,20.09.2023,Varmepumpe Tranche 2,-92120.36,20.09.2023,Heatpump part 2,92120.36,1
+onetomany,20.09.2023,Varmepumpe Tranche 2,-92120.36,07.09.2023,Hovmand heatpump tranche 1,92120.36,0
+onetomany,26.09.2023,APPLE COM BILL 80249625,-16.0,23.09.2023,Adobe,16.0,1
+onetomany,26.09.2023,APPLE COM BILL 80249625,-16.0,02.09.2020,Green mobility ,16.0,0
+reconciled,03.04.2019,Fisketorvet Føtex 70212,-193.85,03.04.2019,Supermarket: Føtex,193.85,1
+reconciled,08.04.2019,Orsted bill,-919.39,07.04.2019,Electric bill,919.39,1
+reconciled,09.04.2019,VDK DKK 299 00,-299.0,07.04.2019,Pants Zara,299.0,1
+reconciled,11.04.2019,Fisketorvet Føtex 73215,-195.95,11.04.2019,Supermarket,195.95,1
+reconciled,15.04.2019,Fisketorvet Føtex 75349,-85.0,13.04.2019,Classifiers Føtex,85.0,1
+reconciled,23.04.2019,Jysk D082,-1347.0,20.04.2019,Jusk garden stuff,1347.0,1
+reconciled,23.04.2019,Ikea 121 ECO 63440,-208.0,20.04.2019,Ikea plants,208.0,1
+reconciled,23.04.2019,Taxa 4 X 35,-224.0,23.04.2019,Taxi Poland,224.0,1
+reconciled,25.04.2019,Fisketorvet Føtex 63073,-341.1,25.04.2019,Føtex ,341.1,1
+reconciled,26.04.2019,WARPIGS BREWPUB 18100,-356.0,26.04.2019,Warpigs,356.0,1
+reconciled,29.04.2019,Fisketorvet Føtex 78176,-249.2,27.04.2019,Føtex Friends visit,249.2,1
+reconciled,29.04.2019,Tivoli A S F B 89802,-310.0,28.04.2019,Food Tivoli,310.0,1
+reconciled,30.04.2019,Green Mobility A S Copenhagen,-72.0,30.04.2019,Green mob,72.0,1
+reconciled,02.05.2019,99208,-457.98,02.05.2019,Europe insurance,457.98,1
+reconciled,03.05.2019,Autocent Gentofte 19125,-3181.09,03.05.2019,Battery BMW,3181.09,1
+reconciled,07.05.2019,MCDONALDS FISKETORVET Koebenhavn,-194.0,05.05.2019,Mc Donald ,194.0,1
+reconciled,07.05.2019,JD SPORTS DENMARK COPENHAGEN,-750.0,04.05.2019,Adidas Stan Smith,750.0,1
+reconciled,10.05.2019,VF SERVICES DENMARK APS,-950.0,08.05.2019,Visa Russia,950.0,1
+reconciled,13.05.2019,SILVAN 637 Fisketo 68253,-179.8,11.05.2019,Silvan gardening ,179.8,1
+reconciled,15.05.2019,WARPIGS BREWPUB 56462,-688.0,15.05.2019,Warpigs,688.0,1
+reconciled,16.05.2019,01125,-355.0,15.05.2019,Food out sandro,355.0,1
+reconciled,16.05.2019,Fisketorvet Føtex 95824,-140.95,16.05.2019,Føtex,140.95,1
+reconciled,20.05.2019,Café G 11973,-322.0,20.05.2019,Cafe,322.0,1
+reconciled,20.05.2019,INGO VASBYG 4,-401.5,17.05.2019,Benzina,401.5,1
+reconciled,21.05.2019,Taxa 4 X 35 14198,-233.0,21.05.2019,Taxi aeroporto ,233.0,1
+reconciled,27.05.2019,Fisketorvet Føtex 18057,-378.95,25.05.2019,Føtex ,378.95,1
+reconciled,27.05.2019,SILVAN 637 Fisketo 81648,-74.9,26.05.2019,Lampadine e pile,74.9,1
+reconciled,28.05.2019,Green Mobility A S Copenhagen,-368.0,26.05.2019,Greeb mobility Ago vet,368.0,1
+reconciled,29.05.2019,Green Mobility A S Copenhagen,-168.0,29.05.2019,Green mobility ,168.0,1
+reconciled,03.06.2019,Fisketorvet Føtex 19552,-19.95,01.06.2019,Føtex,19.95,1
+reconciled,03.06.2019,Ikea 121 ECO 34246,-1338.0,01.06.2019,Ikea big boxes,1338.0,1
+reconciled,04.06.2019,Green Mobility A S Copenhagen,-240.0,04.06.2019,Green Mobility A/S\ \Copenh...,240.0,1
+reconciled,06.06.2019,Fisketorvet Føtex 81660,-283.65,06.06.2019,Supermarket: Føtex,283.65,1
+reconciled,11.06.2019,Green Mobility A S Copenhagen,-316.0,06.06.2019,Green mob car to Caro mom,316.0,1
+reconciled,12.06.2019,STARBUCKS COFFEE HOUSE MOSKVA,-37.67,12.06.2019,STARBUCKS COFFEE HOUSE\ \MO...,37.67,1
+reconciled,12.06.2019,OOO MOTZTZA MOSCOW,-349.99,12.06.2019,OOO MOTZTZA\ \MOSCOW\,349.99,1
+reconciled,12.06.2019,RESTAURANT GRILL VINE MOSKVA,-292.96,12.06.2019,RESTAURANT GRILL&VINE\ \MOS...,292.96,1
+reconciled,12.06.2019,PRM TER H KOSMO 455 PERM,-837.05,12.06.2019,"PRM,TER.H.KOSMO,455\ \PERM\",837.05,1
+reconciled,12.06.2019,VDK RUB 8840 00,-924.21,12.06.2019,VDK RUB  8840.00,924.21,1
+reconciled,12.06.2019,Taxa 4 X 35 38688,-223.0,12.06.2019,Taxa 4 X 35 )))) 38688,223.0,1
+reconciled,13.06.2019,ATM Cash Withdrawal VISA Abroad,-30.0,13.06.2019,ATM Cash Withdrawal VISA - ...,30.0,1
+reconciled,13.06.2019,THE BEST KEBAB MOSKVA,-85.37,13.06.2019,THE BEST KEBAB\ \MOSKVA\,85.37,1
+reconciled,13.06.2019,MOSMETRO RU ANOVOKUZNE MOSCOW,-11.51,13.06.2019,MOSMETRO.RU ANOVOKUZNE\ \MO...,11.51,1
+reconciled,13.06.2019,HOTEL SADOVNICHESKAYA MOSKVA,-512.66,13.06.2019,HOTEL SADOVNICHESKAYA\ \MOS...,512.66,1
+reconciled,13.06.2019,MUZEI KREMLYA AS 2 MOSKVA,-146.47,13.06.2019,MUZEI KREMLYA AS 2\ \MOSKVA\,146.47,1
+reconciled,14.06.2019,MUZEI MOSKOVSKOGO KREM MOSKVA,-393.03,14.06.2019,MUZEI MOSKOVSKOGO KREM\ \MO...,393.03,1
+reconciled,20.06.2019,Fisketorvet Føtex 86527,-244.85,20.06.2019,Supermarket: Føtex,244.85,1
+reconciled,27.06.2019,Fisketorvet Føtex 70269,-142.85,27.06.2019,Supermarket: Føtex,142.85,1
+reconciled,01.07.2019,Total fees,-60.0,27.07.2019,Prelievo mercato,60.0,1
+reconciled,04.01.2021,HK Handels og Kontorf,-514.0,04.01.2021,A Kasse,514.0,1
+reconciled,04.01.2021,Meny Solrød str 73647,-342.02,04.01.2021,Supermarket ,342.02,1
+reconciled,18.01.2021,47156,-255.85,18.01.2021,Supermarket ,255.85,1
+reconciled,19.01.2021,BAUHAUS Web Shop 23739,-1399.9,19.01.2021,Bauhaus,1399.9,1
+reconciled,23.01.2021,MobilePay Caroline Boje,-2175.0,23.01.2021,Legna casa,2175.0,1
+reconciled,29.01.2021,MobilePay Caroline Boje,-175.0,29.01.2021,Caroline,175.0,1
+reconciled,01.02.2021,If Skadeforsikring,-398.33,01.02.2021,Assicurazione Ago,398.33,1
+reconciled,01.02.2021,SuperB Solrød 54767,-303.1,01.02.2021,Supermarket ,303.1,1
+reconciled,05.02.2021,Solrød Apotek 45247,-186.25,05.02.2021,Medicine Ago,186.25,1
+reconciled,08.02.2021,27673,-213.0,01.02.2021,Adattatore macbook,213.0,1
+reconciled,10.02.2021,EWII,-3987.08,10.02.2021,Electricity bill,3987.08,1
+reconciled,10.02.2021,Car tax,-580.0,10.02.2021,Car tax,580.0,1
+reconciled,11.02.2021,Solrød Apotek 66514,-156.75,11.02.2021,Medicine Ago,156.75,1
+reconciled,22.02.2021,Coop 365 Solrød 86576,-252.15,22.02.2021,Supermarket ,252.15,1
+reconciled,23.02.2021,SuperB Solrød,-183.7,23.02.2021,Supermarket ,183.7,1
+reconciled,25.02.2021,Bilka Ishøj 12264,-1247.7,18.02.2021,Supermarket ,1247.7,1
+reconciled,01.03.2021,HK Handels og Kontorf,-514.0,01.03.2021,A kasse,514.0,1
+reconciled,02.03.2021,SuperB Solrød 72604,-291.5,02.03.2021,Supermarket ,291.5,1
+reconciled,08.03.2021,Bilka Ishøj 70111,-1526.75,08.03.2021,Supermarket ,1526.75,1
+reconciled,15.03.2021,Bilka Ishøj 19333,-140.7,15.03.2021,Supermarket ,140.7,1
+reconciled,18.03.2021,Karlslunde Dyrehos 19452,-1278.2,18.03.2021,Ago,1278.2,1
+reconciled,22.03.2021,SuperB Solrød 83158,-860.75,22.03.2021,Super ,860.75,1
+reconciled,29.03.2021,Solrød Tandklinik 65143,-1030.2,26.03.2021,Dentista,1030.2,1
+reconciled,30.03.2021,Automatudbetaling 5379 2523,-1900.0,29.03.2021,Weights ,1900.0,1
+reconciled,31.03.2021,SuperB Solrød 89943,-843.1,31.03.2021,Supermarket ,843.1,1
+reconciled,03.04.2023,HK Handels og Kontorf,-517.0,01.04.2023,A-Kasse,517.0,1
+reconciled,03.04.2023,LIDL 89892,-672.35,01.04.2023,Supermarket ,672.35,1
+reconciled,05.04.2023,McD 0107 SOLROD Karlslunde,-273.0,05.04.2023,Mc donald,273.0,1
+reconciled,06.04.2023,MobilePay Caroline Boje,-337.0,06.04.2023,Caroline Insurances,337.0,1
+reconciled,11.04.2023,ZooBiiDoo 45660,-95.0,11.04.2023,Zoobidoo dog food,95.0,1
+reconciled,11.04.2023,LIDL 82550,-648.06,08.04.2023,Supermarket ,648.06,1
+reconciled,11.04.2023,B Skat 20 04 2023,-1697.0,11.04.2023,B-skat,1697.0,1
+reconciled,11.04.2023,CPH Parkering A S 90710,-899.0,11.04.2023,Airport parking Formentera ,899.0,1
+reconciled,12.04.2023,SALINES HYERES,-2057.0,12.04.2023,Salines Hyères bungalow,2057.0,1
+reconciled,12.04.2023,SuperB Solrød 67059,-667.55,12.04.2023,Supermarket ,667.55,1
+reconciled,14.04.2023,PAYPAL EASYPARK AS 35314369001,-11.5,11.04.2023,Parking ,11.5,1
+reconciled,19.04.2023,McD 0107 SOLROD Karlslunde,-251.0,16.04.2023,Mc Donald ,251.0,1
+reconciled,20.04.2023,Q8 Service 8042 71234,-500.34,19.04.2023,Benzina ,500.34,1
+reconciled,24.04.2023,SuperB Solrød 73998,-590.65,22.04.2023,Supermarket ,590.65,1
+reconciled,25.04.2023,Hotel at Booking com Amsterdam,-4271.69,25.04.2023,Hotel paternity,4271.69,1
+reconciled,26.04.2023,McDonalds 107 Karlslunde,-222.0,23.04.2023,Mc Donald ,222.0,1
+reconciled,27.04.2023,WWW ITALIANWAY HOUSE MILANO,-3898.74,27.04.2023,Hotel Milan,3898.74,1
+reconciled,28.04.2023,Transfer to budget,-7300.0,28.04.2023,Mortgage,7300.0,1
+reconciled,01.05.2023,Gjensidige Forsikring D,-494.42,01.05.2023,Insurance car,494.42,1
+reconciled,01.05.2023,LIDL 17175,-618.1,01.05.2023,Lidl,618.1,1
+reconciled,01.05.2023,l5ud0,-899.95,01.05.2023,Clothes,899.95,1
+reconciled,03.05.2023,GOOGLE CLOUD FVZVXC CC,-234.97,02.05.2023,Gcp,234.97,1
+reconciled,04.05.2023,SuperB Solrød 82217,-207.85,04.05.2023,Supermarket ,207.85,1
+reconciled,05.05.2023,MobilePay Caroline Boje,-62.0,05.05.2023,Spotify ,62.0,1
+reconciled,08.05.2023,SuperB Solrød 83869,-394.7,08.05.2023,Super brugsen,394.7,1
+reconciled,10.05.2023,McDonalds 107 Karlslunde,-217.0,07.05.2023,Mc Donald ,217.0,1
+reconciled,12.05.2023,KLARNA BODYSTORE DK STOCKHOLM,-339.0,10.05.2023,Protein powder ,339.0,1
+reconciled,17.05.2023,McDonalds 107 Karlslunde,-267.0,14.05.2023,Mc Donald ,267.0,1
+reconciled,22.05.2023,LIDL 09917,-632.8,19.05.2023,Supermarket ,632.8,1
+reconciled,22.05.2023,SuperB Solrød 92863,-358.85,22.05.2023,Supermarket ,358.85,1
+reconciled,23.05.2023,Hotel at Booking com Amsterdam,-4449.93,23.05.2023,Hotel booking,4449.93,1
+reconciled,25.05.2023,PAYPAL ADOBESYSTEM 35314369001,-95.33,25.05.2023,Adobe,95.33,1
+reconciled,30.05.2023,Matas 18732 32526,-34.9,27.05.2023,Toothpaste,34.9,1
+reconciled,30.05.2023,SLOTHS AUTO ApS 01784,-5950.0,30.05.2023,Mechanic (wheels),5950.0,1
+reconciled,31.05.2023,Transfer to budget,-7300.0,31.05.2023,Mortgage,7300.0,1
+reconciled,31.05.2023,McDonalds 107 Karlslunde,-220.0,28.05.2023,Mc donald,220.0,1
+reconciled,01.06.2023,HK Handels og Kontorf,-517.0,01.06.2023,A Kasse,517.0,1
+reconciled,01.06.2023,Gjensidige Forsikring D,-494.42,01.06.2023,Car insurance,494.42,1
+reconciled,01.06.2023,271 Lagkagehuset 55880,-152.75,01.06.2023,Lagkagehuset,152.75,1
+reconciled,02.06.2023,MEDITERRANEA LA NAVIERA D IBIZA,-738.27,02.06.2023,Food Formentera,738.27,1
+reconciled,02.06.2023,FORMENTERA MARKET FORMENTERA,-224.45,02.06.2023,Formentera market,224.45,1
+reconciled,02.06.2023,TAXI 1005 SAN JOSE EIVISSA,-142.55,02.06.2023,Taxi Formentera,142.55,1
+reconciled,06.06.2023,RTE BOCASALINA FORMENTERA ES,-1376.37,01.06.2023,Restaurant Formentera ,1376.37,1
+reconciled,07.06.2023,LIDL 20453,-445.3,06.06.2023,Supermarket ,445.3,1
+reconciled,07.06.2023,PAYPAL HELPCOURSER 2I,-357.92,07.06.2023,Coursera,357.92,1
+reconciled,07.06.2023,SuperB Solrød 01717,-281.1,07.06.2023,Supermarket ,281.1,1
+reconciled,11.06.2023,MobilePay Caroline Boje,-337.0,11.06.2023,Insurances,337.0,1
+reconciled,12.06.2023,Fisketorvet Føtex 21495,-849.45,09.06.2023,Supermarket ,849.45,1
+reconciled,12.06.2023,Storebæltsforbinde 16911,-270.0,12.06.2023,Bridge,270.0,1
+reconciled,13.06.2023,Q8 Service 8101 82022,-203.95,12.06.2023,Food highway,203.95,1
+reconciled,14.06.2023,Estancia Steaks Philipp,-731.91,12.06.2023,Food Hamburg,731.91,1
+reconciled,15.06.2023,SHELL 0002 HAMBURG,-360.87,15.06.2023,Benzina,360.87,1
+reconciled,15.06.2023,HOLIDAY INN HAFEN CITY HAMBURG,-372.65,12.06.2023,Holiday Inn Hamburg,372.65,1
+reconciled,19.06.2023,Q Park Torengarage,-173.68,19.06.2023,Parking vacations,173.68,1
+reconciled,19.06.2023,Commune Etretat,-223.6,19.06.2023,Etretat parking,223.6,1
+reconciled,20.06.2023,Carrefour City,-88.68,20.06.2023,Carrefour vacanza ,88.68,1
+reconciled,20.06.2023,Commune Etretat,-81.97,20.06.2023,Parking etretat,81.97,1
+reconciled,20.06.2023,L AIGUILLE CREUSE,-89.43,20.06.2023,Boulangerie,89.43,1
+reconciled,21.06.2023,CARREFOUR CITY 03665,-8.57,21.06.2023,Carrefour,8.57,1
+reconciled,21.06.2023,Commune Etretat,-37.26,21.06.2023,Etretat,37.26,1
+reconciled,22.06.2023,Boutique Mere Poula,-51.41,22.06.2023,Achats,51.41,1
+reconciled,22.06.2023,Delices Malouins,-67.05,22.06.2023,Delices,67.05,1
+reconciled,23.06.2023,Hariet Et Rosie,-267.47,23.06.2023,Saint Malo,267.47,1
+reconciled,23.06.2023,Sushi Shop,-291.32,23.06.2023,Sushi Nantes,291.32,1
+reconciled,24.06.2023,MobilePay Caroline Boje,-560.0,24.06.2023,Mobile pay Caro,560.0,1
+reconciled,26.06.2023,REL DE VERTOU,-45.44,26.06.2023,Vacances,45.44,1
+reconciled,27.06.2023,PAYPAL ADOBESYSTEM 35314369001,-95.34,27.06.2023,Adobe,95.34,1
+reconciled,28.06.2023,Autoroutes Du S,-8.93,28.06.2023,Autoroute vacation ,8.93,1
+reconciled,29.06.2023,INDIGO 640006,-315.79,29.06.2023,Parking vacances,315.79,1
+reconciled,29.06.2023,SPAR SARL RCK,-81.92,29.06.2023,Supermarket Vacances ,81.92,1
+reconciled,30.06.2023,APPLE COM BILL 80249625,-45.0,30.06.2023,Apple app,45.0,1
+reconciled,02.01.2019,Fisketorvet Føtex 08977,-569.85,02.01.2019,Føtex friends,569.85,1
+reconciled,02.01.2019,TIVOLI DK,-720.0,02.01.2019,Tivoli for all,720.0,1
+reconciled,02.01.2019,Brioche Dorée 59036,-39.0,02.01.2019,Brioches friends,39.0,1
+reconciled,03.01.2019,VDK DKK 189 00,-189.0,03.01.2019,Green mobiity,189.0,1
+reconciled,03.01.2019,MobilePay Caroline Boje,-82.0,03.01.2019,Media license,82.0,1
+reconciled,04.01.2019,VDK DKK 80 50,-80.5,04.01.2019,GreenMobility,80.5,1
+reconciled,07.01.2019,69419,-1499.0,05.01.2019,Globe,1499.0,1
+reconciled,07.01.2019,Fisketorvet Føtex 14002,-272.1,06.01.2019,Supermarket: Føtex,272.1,1
+reconciled,07.01.2019,MCDONALDS FISKETOR 67995,-202.0,06.01.2019,Mc Donald,202.0,1
+reconciled,09.01.2019,MobilePay Caroline Boje,-117.0,09.01.2019,Ago medicine,117.0,1
+reconciled,11.01.2019,Fisketorvet Føtex 12563,-95.3,11.01.2019,Supermarket: Føtex,95.3,1
+reconciled,13.01.2019,MobilePay Caroline Boje,-115.0,12.01.2019,Supermarket: Føtex,115.0,1
+reconciled,14.01.2019,Fisketorvet Føtex 82993,-65.65,12.01.2019,F,65.65,1
+reconciled,14.01.2019,MobilePay Caroline Boje,-124.0,14.01.2019,Supermarket: Føtex,124.0,1
+reconciled,17.01.2019,VDK DKK 171 65,-171.65,17.01.2019,Amazon books,171.65,1
+reconciled,21.01.2019,Fisketorvet Føtex 14243,-443.5,20.01.2019,Supermarket: Føtex,443.5,1
+reconciled,28.01.2019,Taxa 4 X 35,-284.0,26.01.2019,Taxa Airport KL,284.0,1
+reconciled,29.01.2019,VDK MYR 300 00,-490.95,29.01.2019,Prelievo KL,490.95,1
+reconciled,31.01.2019,Fisketorvet Føtex 45361,-266.1,31.01.2019,Supermarket: Føtex,266.1,1
+reconciled,01.02.2019,If Skadeforsikring,-382.16,01.02.2019,Insurance Ago,382.16,1
+reconciled,04.02.2019,VDK DKK 479 00,-479.0,04.02.2019,Protein,479.0,1
+reconciled,04.02.2019,Illums Bolighus 88690,-119.95,03.02.2019,Bottle Agomas Caro Illum,119.95,1
+reconciled,07.02.2019,Bryggens Dyreklini 14595,-3068.34,07.02.2019,Ago operazione denti,3068.34,1
+reconciled,11.02.2019,ILLUM 51553,-135.0,11.02.2019,Illum,135.0,1
+reconciled,12.02.2019,Fisketorvet Føtex 47482,-264.75,12.02.2019,Supermarket: Føtex,264.75,1
+reconciled,18.02.2019,Bertoni Fisketorve 77282,-1199.0,17.02.2019,Pants bertoni,1199.0,1
+reconciled,22.02.2019,Fisketorvet Føtex 84953,-108.8,22.02.2019,Supermarket: Føtex,108.8,1
+reconciled,25.02.2019,Fisketorvet Føtex 90903,-84.98,25.02.2019,Supermarket: Føtex,84.98,1
+reconciled,26.02.2019,Fisketorvet Føtex 33886,-73.95,26.02.2019,Supermarket: Føtex,73.95,1
+reconciled,28.02.2019,Fine Ørsted car,-1000.0,28.02.2019,Fine Ørsted PI Planning Skærbæk,1000.0,1
+reconciled,04.03.2019,Fisketorvet Føtex 56302,-319.75,02.03.2019,Supermarket: Føtex,319.75,1
+reconciled,06.03.2019,Fisketorvet Føtex 58243,-392.78,06.03.2019,Supermarket: Føtex,392.78,1
+reconciled,11.03.2019,CINEMAXX FISKETORV 33875,-244.0,10.03.2019,Cinema Captain Marvel,244.0,1
+reconciled,12.03.2019,Fisketorvet Føtex 95006,-113.45,12.03.2019,Føtex,113.45,1
+reconciled,18.03.2019,Fisketorvet Føtex 04330,-188.6,17.03.2019,Supermarket: Føtex,188.6,1
+reconciled,19.03.2019,VDK DKK 48 00,-48.0,16.03.2019,Green mob ballet,48.0,1
+reconciled,21.03.2019,VDK DKK 2386 00,-2386.0,16.03.2019,Flight Perm wedding Julia,2386.0,1
+reconciled,25.03.2019,50360,-279.0,24.03.2019,Airport taxi to Milano,279.0,1
+reconciled,01.04.2019,Total fees,-70.0,28.04.2019,Churros Tivoli,70.0,1
+reconciled,04.10.2021,Solrød Tandklinik 78068,-353.19,01.10.2021,Dentist,353.19,1
+reconciled,05.10.2021,PAYPAL EASYPARK AS 35314369001,-43.07,01.10.2021,Park,43.07,1
+reconciled,11.10.2021,Storebæltsforbinde 22556,-245.0,09.10.2022,Mc Donald ,245.0,1
+reconciled,17.10.2021,MobilePay SOLRØD SPILDEVAND A S,-2600.0,17.10.2021,Water,2600.0,1
+reconciled,18.10.2021,B Skat 20 10 2021,-1262.0,17.10.2021,B-Skat,1262.0,1
+reconciled,27.10.2021,SOLROED FDB SUPERBRUGSEN,-743.9,25.10.2021,Supermarket ,743.9,1
+reconciled,28.10.2021,RYANAIR PAYPAL COM,-1310.19,25.10.2021,Volo milank,1310.19,1
+reconciled,28.10.2021,SuperB Solrød 24820,-407.65,28.10.2021,Supermarket ,407.65,1
+reconciled,01.11.2021,Maxi Zoo Gentofte 21354,-352.85,01.11.2021,Doggy food,352.85,1
+reconciled,05.11.2021,3101 MAXI ZOO GENTOFTE GENTOFTE,-288.9,03.11.2021,Food Loki ,288.9,1
+reconciled,08.11.2021,CPH Parkering A S 63066,-704.0,08.11.2021,Cph parking,704.0,1
+reconciled,09.11.2021,BAUHAUS ISHOEJ ISHOEJ,-679.9,07.11.2021,Bauhaus,679.9,1
+reconciled,14.11.2021,MobilePay Caroline Boje,-477.0,14.11.2021,Dog and Verisure,477.0,1
+reconciled,18.11.2021,SuperB Solrød 39740,-723.2,18.11.2021,Supermarket ,723.2,1
+reconciled,22.11.2021,B Skat 20 11 2021,-1262.0,20.11.2021,B skat,1262.0,1
+reconciled,29.11.2021,PAYPAL EASYPARK AS 35314369001,-46.58,24.11.2021,Parking ,46.58,1
+reconciled,30.11.2021,FOETEX FISKETOR KOEBENHAVN V,-723.55,27.11.2021,Supermarket ,723.55,1
+reconciled,30.11.2021,PAYPAL PANDORA AS 35314369001,-1836.8,26.11.2021,Cadeau Caro,1836.8,1
+reconciled,30.11.2021,Q8 Service 8042 57611,-450.26,29.11.2021,Benzina ,450.26,1
+reconciled,06.12.2021,SOLROED FDB SUPERBRUGSEN,-510.7,02.12.2021,Supermarket ,510.7,1
+reconciled,08.12.2021,SOLROED FDB SUPERBRUGSEN,-660.3,06.12.2021,Supermarket ,660.3,1
+reconciled,13.12.2021,PAYPAL UNIQLOEUROP 35314369001,-238.0,07.12.2021,Cadeau Caroline ,238.0,1
+reconciled,14.12.2021,SOLROED FDB SUPERBRUGSEN,-67.5,11.12.2021,Supermarket ,67.5,1
+reconciled,16.12.2021,SOLROED FDB SUPERBRUGSEN,-591.75,14.12.2021,Supermarket ,591.75,1
+reconciled,17.12.2021,ESPRESSO HOUSE 7160 T3 KASTRUP,-85.0,15.12.2021,food airport,85.0,1
+reconciled,20.12.2021,SLOTHS AUTO ApS 01404,-3920.0,20.12.2021,Winter tires,3920.0,1
+reconciled,21.12.2021,267 LAGKAGHUSET SOLROED,-170.0,19.12.2021,Pastries ,170.0,1
+reconciled,22.12.2021,SOLROED FDB SUPERBRUGSEN,-396.8,20.12.2021,Supermarket ,396.8,1
+reconciled,27.12.2021,Storebæltsforbinde 67123,-245.0,27.12.2021,Storbæltbroen,245.0,1
+reconciled,28.12.2021,Just Eat dk Copenhagen,-236.0,26.12.2021,Pizza,236.0,1
+reconciled,28.12.2021,BAUHAUS ISHOEJ ISHOEJ,-89.9,23.12.2021,Tube repair ,89.9,1
+reconciled,29.12.2021,SPORT24 OUTLET ISHOEJ ISHOEJ,-120.0,27.12.2021,Guanti,120.0,1
+reconciled,02.01.2023,BAUHAUS Ishøj 97216,-2429.2,02.01.2023,Bauhaus,2429.2,1
+reconciled,02.01.2023,Q8 Service 8042 66938,-500.57,01.01.2023,Benzina,500.57,1
+reconciled,03.01.2023,McDonalds Solroed rest,-277.0,01.01.2023,Mc Donald ,277.0,1
+reconciled,03.01.2023,SuperB Solrød 05011,-29.0,03.01.2023,Supermarket ,29.0,1
+reconciled,09.01.2023,LIDL 04152,-320.66,07.01.2023,Supermarket ,320.66,1
+reconciled,09.01.2023,Maxi Zoo Gentofte 74854,-243.9,09.01.2023,Pappa Loki,243.9,1
+reconciled,10.01.2023,Bahne Fisketorvet 23978,-153.95,09.01.2023,Cutting board,153.95,1
+reconciled,10.01.2023,Elgiganten 3016 40096,-599.0,09.01.2023,Brosse à dents,599.0,1
+reconciled,11.01.2023,LIDL 08073,-490.1,11.01.2023,Lidl,490.1,1
+reconciled,16.01.2023,BAUHAUS Ishøj 06200,-582.6,15.01.2023,Bauhaus,582.6,1
+reconciled,17.01.2023,McDonalds Solroed rest,-286.0,15.01.2023,Mc Donald ,286.0,1
+reconciled,18.01.2023,Q8 Service 8042 76980,-500.2,17.01.2023,Benzina ,500.2,1
+reconciled,22.01.2023,MobilePay Caroline Boje,-648.75,22.01.2023,Formula,648.75,1
+reconciled,26.01.2023,MobilePay FALCK FAN,-1000.0,26.01.2023,Falck deer removal,1000.0,1
+reconciled,30.01.2023,LIDL 25343,-712.6,28.01.2023,Supermarket ,712.6,1
+reconciled,31.01.2023,APPLE COM BILL 80249625,-45.0,31.01.2023,Apple app,45.0,1
+reconciled,01.02.2023,HK Handels og Kontorf,-517.0,01.02.2023,A-kasse,517.0,1
+reconciled,01.02.2023,Gjensidige Forsikring D,-494.42,01.02.2023,Insurance car,494.42,1
+reconciled,01.02.2023,PAYPAL AIRBNB HMPF8N,-18769.35,01.02.2023,Airbnb hotel,18769.35,1
+reconciled,05.02.2023,MobilePay McDonald s Motelvej So,-219.0,05.02.2023,Mc Donald ,219.0,1
+reconciled,06.02.2023,SuperB Solrød 25356,-605.45,04.02.2023,Supermarket ,605.45,1
+reconciled,08.02.2023,SuperB Solrød 28489,-368.65,08.02.2023,Supermarket ,368.65,1
+reconciled,13.02.2023,Fisketorvet Føtex 77421,-1442.05,12.02.2023,Supermarket ,1442.05,1
+reconciled,13.02.2023,ZooBiiDoo 39920,-107.0,12.02.2023,Dog stuff,107.0,1
+reconciled,13.02.2023,Electricity bill 202,-33300.75,12.02.2023,El bill 2022,33300.75,1
+reconciled,14.02.2023,McDonalds Solroed rest,-256.0,12.02.2023,Mc Donald ,256.0,1
+reconciled,19.02.2023,MobilePay McDonald s Motelvej So,-253.0,19.02.2023,Mc Donald ,253.0,1
+reconciled,22.02.2023,Bigbio Nordhavn 84119,-69.0,22.02.2023,Popcorn cinema,69.0,1
+reconciled,27.02.2023,PAYPAL EASYPARK AS 35314369001,-25.63,22.02.2023,Parking cinema,25.63,1
+reconciled,27.02.2023,IKEA 094 HFB ECO 02277,-399.0,25.02.2023,Ikea,399.0,1
+reconciled,28.02.2023,Transfer to budget,-7300.0,28.02.2023,Mortgage,7300.0,1
+reconciled,01.03.2023,Gjensidige Forsikring D,-494.42,01.03.2023,Car insurance ,494.42,1
+reconciled,02.03.2023,MobilePay Caroline Boje,-955.0,01.03.2023,Mobile pay Caro,955.0,1
+reconciled,02.03.2023,MobilePay Caroline Boje,-337.0,02.03.2023,Insurances,337.0,1
+reconciled,03.03.2023,Google CLOUD z8VSMz Milan,-220.22,03.03.2023,GCP,220.22,1
+reconciled,06.03.2023,SuperB Solrød 44778,-243.15,06.03.2023,Supermarket ,243.15,1
+reconciled,08.03.2023,McD 0107 SOLROD Karlslunde,-282.0,08.03.2023,Mc Donald,282.0,1
+reconciled,10.03.2023,Q8 Service 8042 37010,-400.02,09.03.2023,Benzina ,400.02,1
+reconciled,13.03.2023,LIDL 67548,-375.55,11.03.2023,Supermarket ,375.55,1
+reconciled,15.03.2023,McD 0107 SOLROD Karlslunde,-240.0,12.03.2023,Mc Donald ,240.0,1
+reconciled,17.03.2023,SuperB Solrød 53160,-674.0,17.03.2023,Supermarket ,674.0,1
+reconciled,20.03.2023,Meny Solrød str 85863,-13.5,19.03.2023,Supermarket ,13.5,1
+reconciled,22.03.2023,McD 0107 SOLROD Karlslunde,-225.0,22.03.2023,Mc Donald,225.0,1
+reconciled,24.03.2023,Q8 Service 8042 47540,-605.77,23.03.2023,Benzina,605.77,1
+reconciled,28.03.2023,Fisketorvet Føtex 00458,-1244.75,27.03.2023,Supermarket ,1244.75,1
+reconciled,29.03.2023,Kim Q Hair design 20036,-369.0,29.03.2023,Haircut,369.0,1
+reconciled,31.03.2023,Transfer to budget,-7300.0,31.03.2023,Mortgage,7300.0,1
+reconciled,03.07.2020,MobilePay Caroline Boje,200.0,29.07.2019,Taxi airport,200.0,1
+reconciled,21.07.2020,GREENMOBILITY A S KBENHAVN K,-8.0,15.07.2022,Colazione autoroute,8.0,1
+reconciled,22.07.2020,Kim Q Hair design 12454,-325.0,03.07.2021,Haircut,325.0,1
+reconciled,28.07.2020,SILVAN 637 Fisketo 98198,-39.95,22.07.2018,Cadeau Gigi,39.95,1
+reconciled,07.09.2020,BAUHAUS Ishøj 72366,-499.7,06.09.2020,Bauhaus,499.7,1
+reconciled,10.09.2020,Meny Solrød str 04294,-226.18,10.09.2020,Supermarket ,226.18,1
+reconciled,21.09.2020,Electricity Havneh,-954.35,20.09.2020,Electricity havneholmen ,954.35,1
+reconciled,01.07.2022,HK Handels og Kontorf,-517.0,01.07.2023,A-kasse,517.0,1
+reconciled,04.07.2022,Google CLOUD WBFvQD Milan,-65.85,22.07.2018,Stuff for house,65.85,1
+reconciled,18.07.2022,B Skat 20 07 2022,-1069.0,18.07.2022,B Skat,1069.0,1
+reconciled,19.07.2022,45562,-1482.32,17.07.2022,Gips,1482.32,1
+reconciled,22.07.2022,SuperB Solrød 18695,-954.65,22.07.2022,Supermarket ,954.65,1
+reconciled,24.07.2022,MobilePay Caroline Boje,-800.0,24.07.2022,Baby changing mat,800.0,1
+reconciled,25.07.2022,SuperB Solrød 02866,-118.95,25.07.2022,Supermarket ,118.95,1
+reconciled,27.07.2022,MobilePay Caroline Boje,-740.0,27.07.2022,Dinner Frederik,740.0,1
+reconciled,30.07.2022,MobilePay Caroline Boje,-808.0,30.07.2022,Sticker baby room,808.0,1
+reconciled,04.08.2022,LIDL 43152,-349.35,04.08.2022,Supermarket ,349.35,1
+reconciled,05.08.2022,MCDONALDS FISKETORVET Koebenhavn,-77.0,03.08.2022,Mc donalds for cinema,77.0,1
+reconciled,05.08.2022,MobilePay Caroline Boje,-328.0,05.08.2022,Caroline house expenses,328.0,1
+reconciled,08.08.2022,SuperB Solrød 11086,-1278.85,07.08.2022,Supermarket ,1278.85,1
+reconciled,09.08.2022,AMZN Mktp DE T811K2Z15 AMAZON DE,-330.7,06.08.2022,Amazon stuff for home,330.7,1
+reconciled,11.08.2022,Bollo auto,-600.0,11.08.2022,Bollo auto,600.0,1
+reconciled,15.08.2022,BAUHAUS Ishøj 99340,-1447.83,13.08.2022,Bauhaus pool and paint,1447.83,1
+reconciled,22.08.2022,Babysam Tåstrup 59669,-2195.0,20.08.2022,Baby brezza,2195.0,1
+reconciled,22.08.2022,Babysam Tåstrup 59845,-1058.9,22.08.2022,Baby sam sterilizer & stuff,1058.9,1
+reconciled,24.08.2022,McDonalds Solroed rest,-221.0,22.08.2022,Mc Donald ,221.0,1
+reconciled,24.08.2022,SuperB Solrød 23800,-612.1,24.08.2022,Supermarket ,612.1,1
+reconciled,29.08.2022,LIDL 69352,-277.05,28.08.2022,Supermarket ,277.05,1
+reconciled,29.08.2022,Babysam Køge 97669,-1144.95,29.08.2022,Baby sam,1144.95,1
+reconciled,31.08.2022,Solrød Apotek 02326,-624.85,31.08.2022,Medicine Loki and formula Noah,624.85,1
+reconciled,01.09.2022,MobilePay Lasse gift,-70.0,29.09.2023,Niels Present,70.0,1
+reconciled,05.09.2022,SuperB Solrød 31951,-443.51,03.09.2022,Supermarket ,443.51,1
+reconciled,05.09.2022,SuperB Solrød 32726,-55.0,04.09.2022,Supermarket ,55.0,1
+reconciled,06.09.2022,McDonalds Solroed rest,-282.0,04.09.2022,Mc Donald ,282.0,1
+reconciled,08.09.2022,MobilePay Caroline Boje,-328.0,08.09.2022,Insurances Mobile pay,328.0,1
+reconciled,12.09.2022,Fisketorvet Føtex 26703,-1066.2,10.09.2022,Føtex,1066.2,1
+reconciled,14.09.2022,AMZN Mktp DE 6Q54X3945 AMAZON DE,-1281.06,10.09.2022,Amazon lights,1281.06,1
+reconciled,17.09.2022,MobilePay Caroline Boje,-770.0,17.09.2022,Cadeau Charlotte,770.0,1
+reconciled,19.09.2022,SuperB Solrød 29676,-722.05,19.09.2022,Supermarket ,722.05,1
+reconciled,20.09.2022,CPH Parkering A S 69818,-50.0,25.09.2019,MobilePay Gift for Christia...,50.0,1
+reconciled,22.09.2022,Pitanordic ApS 17467,-115.0,20.09.2022,Food,115.0,1
+reconciled,22.09.2022,COULOIR ApS 30323,-389.0,22.09.2022,Food lunch,389.0,1
+reconciled,23.09.2022,Øresundsbroen m SE 20381,-400.0,07.09.2018,Føtex,400.0,1
+reconciled,26.09.2022,ØRESUNDSBROEN 59015,-400.0,07.09.2018,Føtex,400.0,1
+reconciled,27.09.2022,PAYPAL EASYPARK AS 35314369001,-32.89,22.09.2022,Parking,32.89,1
+reconciled,28.09.2022,KROGSGAARD JENSEN 54415,-5114.05,27.09.2022,Service,5114.05,1
+reconciled,02.07.2018,MCDONALDS FISKETOR 08975,-199.0,17.07.2018,Nike gym shirt,199.0,1
+reconciled,02.07.2018,Fisketorvet Føtex 96514,-271.99,01.07.2018,Fotex,271.99,1
+reconciled,03.07.2018,MobilePay Caroline Boje,-300.0,12.07.2018,Fotex,300.0,1
+reconciled,05.07.2018,MobilePay Caroline Boje,-220.0,05.07.2018,Fotex,220.0,1
+reconciled,09.07.2018,ZARA FISKETORVERT 85052,-318.0,08.07.2018,Zara pants,318.0,1
+reconciled,09.07.2018,Electricity bill,-2279.54,08.07.2018,Havneholmen electricity,2279.54,1
+reconciled,12.07.2018,MobilePay Caroline Boje,-300.0,12.07.2018,Fotex,300.0,1
+reconciled,17.07.2018,Fisketorvet Føtex 68519,-207.25,17.07.2018,Fotex,207.25,1
+reconciled,18.07.2018,19846,-79.0,17.07.2018,Selfie stick,79.0,1
+reconciled,20.07.2018,Fisketorvet Føtex 43894,-187.25,20.07.2018,Fotex,187.25,1
+reconciled,23.07.2018,PLINT 70403,-65.85,22.07.2018,Stuff for house,65.85,1
+reconciled,24.07.2018,VDK DKK 127 00,-127.0,22.07.2018,Cheesecake,127.0,1
+reconciled,26.07.2018,VDK DKK 24 00,-24.0,30.07.2018,Train from airport,24.0,1
+reconciled,04.08.2018,MobilePay Caroline Boje,-500.0,04.08.2018,Concert caro,500.0,1
+reconciled,06.08.2018,LIDL 14609,-19.95,06.08.2021,Supermarket ,19.95,1
+reconciled,06.08.2018,Fisketorvet Føtex 24578,-5.95,04.08.2018,Fotex,5.95,1
+reconciled,06.08.2018,Fisketorvet Føtex 56563,-289.75,05.08.2018,Føtex,289.75,1
+reconciled,22.08.2018,MobilePay Caroline Boje,-1200.0,22.08.2018,Luggage Caro NY,1200.0,1
+reconciled,23.08.2018,VDK DKK 700 00,-700.0,21.08.2018,Pendlekort,700.0,1
+reconciled,23.08.2018,Fisketorvet Føtex 30985,-57.7,23.08.2018,Fotex,57.7,1
+reconciled,25.08.2018,MobilePay Caroline Boje,-750.0,25.08.2018,Caroline NY,750.0,1
+reconciled,27.08.2018,Fisketorvet Føtex 62062,-333.6,26.08.2018,Føtex,333.6,1
+reconciled,29.08.2018,Fisketorvet Føtex 33049,-162.75,29.08.2018,Fotex,162.75,1
+reconciled,31.08.2018,MCDONALDS FISKETOR 31357,-209.0,31.08.2018,Mc donald,209.0,1
+reconciled,02.09.2018,MobilePay Caroline Boje,-108.0,02.09.2018,Media license,108.0,1
+reconciled,03.09.2018,Fisketorvet Føtex 60966,-595.95,01.09.2018,Fotex,595.95,1
+reconciled,03.09.2018,Ikea 121 ECO 48445,-1309.0,01.09.2018,Ikea,1309.0,1
+reconciled,03.09.2018,Ikea 121 ECO 58200,-429.0,01.09.2018,Ikea,429.0,1
+reconciled,03.09.2018,Fisketorvet Føtex 29788,-96.95,02.09.2018,Føtex,96.95,1
+reconciled,07.09.2018,MobilePay Caroline Boje,-400.0,07.09.2018,Føtex,400.0,1
+reconciled,10.09.2018,Ikea 121 ECO 58948,-19.0,07.09.2018,Ikea,19.0,1
+reconciled,12.09.2018,MobilePay Caroline Boje,-270.0,12.09.2018,Føtex,270.0,1
+reconciled,13.09.2018,ZARA FISKETORVERT 82995,-698.0,13.09.2018,Zara,698.0,1
+reconciled,14.09.2018,MobilePay Caroline Boje,-280.0,14.09.2018,Føtex,280.0,1
+reconciled,17.09.2018,Elgiganten 3016 69507,-149.0,15.09.2018,Cable dvd,149.0,1
+reconciled,17.09.2018,Fisketorvet Føtex 39293,-225.8,16.09.2018,Føtex,225.8,1
+reconciled,20.09.2018,MobilePay Caroline Boje,-180.0,20.09.2018,Føtex,180.0,1
+reconciled,21.09.2018,Fisketorvet Føtex 41361,-57.4,21.09.2018,Føtex,57.4,1
+reconciled,24.09.2018,Restaurant Phønix 57368,-278.0,22.09.2018,Brunch Phønix,278.0,1
+reconciled,24.09.2018,ZARA FISKETORVERT 99581,-1037.0,23.09.2018,Zara pants,1037.0,1
+reconciled,24.09.2018,BAHNE FISKETORVET 39994,-249.95,23.09.2018,Porta spezie cucina,249.95,1
+reconciled,24.09.2018,SPORT 24 FISKETORV 52774,-100.0,24.09.2018,Tennis balls for ago,100.0,1
+reconciled,02.01.2020,Kbh s Borgerservi 44130,-280.0,02.01.2020,License Denmark,280.0,1
+reconciled,03.01.2020,PAYPAL BOOKING COM 35314369001,-3613.03,01.01.2020,Hotel Paris,3613.03,1
+reconciled,03.01.2020,EASYJET EASYJET,-366.58,01.01.2020,Trip Milan March,366.58,1
+reconciled,06.01.2020,Schwarz Senge 08072,-12000.0,04.01.2020,Bed,12000.0,1
+reconciled,06.01.2020,Ikea 121 ECO 61769,-858.0,04.01.2020,Ikea,858.0,1
+reconciled,07.01.2020,GREENMOBILITY A S KBENHAVN K,-56.0,04.01.2020,Green mobility ,56.0,1
+reconciled,07.01.2020,GREENMOBILITY A S KBENHAVN K,-96.0,04.01.2020,Green mobility ,96.0,1
+reconciled,07.01.2020,Fisketorvet Føtex 91070,-104.85,07.01.2020,Supermarket: Føtex,104.85,1
+reconciled,13.01.2020,CVS PHARMACY Æ10035 SAN,-20.54,13.01.2020,San Francisco,20.54,1
+reconciled,14.01.2020,STARBUCKS STORE 10892 SAN,-47.45,13.01.2020,San Francisco,47.45,1
+reconciled,14.01.2020,PAYPAL UBER 4029357733,-122.95,13.01.2020,San Francisco,122.95,1
+reconciled,14.01.2020,PAYPAL UBER 4029357733,-56.17,13.01.2020,San Francisco,56.17,1
+reconciled,14.01.2020,PAYPAL UBER 4029357733,-180.32,13.01.2020,San Francisco,180.32,1
+reconciled,14.01.2020,ALEXANDER BOOK CO SAN FRANCISCO,-769.22,13.01.2020,San Francisco,769.22,1
+reconciled,14.01.2020,TAXI RIDE USA COM 2 NEW HYDE,-442.3,13.01.2020,San Francisco,442.3,1
+reconciled,14.01.2020,101 MONTGOMERY ST SAN FRANCISCO,-364.47,13.01.2020,San Francisco,364.47,1
+reconciled,14.01.2020,STARBUCKS STORE 49304 SAN,-57.76,13.01.2020,San Francisco,57.76,1
+reconciled,14.01.2020,PAYPAL UBER 4029357733,-91.35,13.01.2020,San Francisco,91.35,1
+reconciled,14.01.2020,PAYPAL UBER 4029357733,-199.42,13.01.2020,San Francisco,199.42,1
+reconciled,14.01.2020,ALCATRAZ CRUISES SAN FRANCISCO,-274.38,13.01.2020,San Francisco,274.38,1
+reconciled,15.01.2020,TST QUEEN S LOUISIANA PO SAN,-148.18,13.01.2020,San Francisco,148.18,1
+reconciled,15.01.2020,PAYPAL UBER 4029357733,-70.85,13.01.2020,San Francisco,70.85,1
+reconciled,15.01.2020,STARBUCKS STORE 00603 SAN,-39.44,13.01.2020,San Francisco,39.44,1
+reconciled,16.01.2020,CLUB QUARTERS SAN FRAN SAN,-3527.25,13.01.2020,San Francisco,3527.25,1
+reconciled,20.01.2020,PAYPAL UBER 4029357733,-122.36,13.01.2020,San Francisco,122.36,1
+reconciled,21.01.2020,STARBUCKS EVE IAD DULLES,-37.2,13.01.2020,San Francisco,37.2,1
+reconciled,22.01.2020,AMZNMktplace amazon co uk,-262.2,19.01.2020,Backpack,262.2,1
+reconciled,24.01.2020,Fisketorvet Føtex 48831,-257.85,24.01.2020,Føtex ,257.85,1
+reconciled,28.01.2020,Fisketorvet Føtex 86066,-268.7,28.01.2020,Supermarket: Føtex,268.7,1
+reconciled,31.01.2020,Fisketorvet Føtex 69757,-326.65,31.01.2020,Supermarket: Føtex,326.65,1
+reconciled,03.02.2020,If Skadeforsikring,-390.25,03.02.2020,Insurance Ago,390.25,1
+reconciled,04.02.2020,Fisketorvet Føtex 79501,-249.1,04.02.2020,Supermarket: Føtex,249.1,1
+reconciled,05.02.2020,DINOFFENTLIGETRANSPORT VALBY,-720.0,03.02.2020,Train,720.0,1
+reconciled,07.02.2020,Fisketorvet Føtex 53680,-290.1,07.02.2020,Supermarket: Føtex,290.1,1
+reconciled,12.02.2020,Coffee Industri Sw 25710,-120.0,12.02.2020,Coffee Lorenzo,120.0,1
+reconciled,13.02.2020,Fisketorvet Føtex 39372,-234.85,18.02.2020,Super,234.85,1
+reconciled,17.02.2020,SILVAN 637 Fisketo 96482,-439.9,16.02.2020,Silvan punte fresatrice,439.9,1
+reconciled,18.02.2020,GREENMOBILITY A S KBENHAVN K,-88.0,16.02.2020,Green mobility ,88.0,1
+reconciled,19.02.2020,IMPROVCOMEDY EU KOBENHAVN K,-190.0,19.02.2020,Improv commedy,190.0,1
+reconciled,24.02.2020,SILVAN 637 Fisketo 41334,-259.9,22.02.2020,Silvan plugs,259.9,1
+reconciled,24.02.2020,Fisketorvet Føtex 59927,-314.97,23.02.2020,Føtex ,314.97,1
+reconciled,02.03.2020,ZARA FISKETORVERT 03562,-299.0,01.03.2020,Zara pants,299.0,1
+reconciled,03.03.2020,MobilePay Caroline Boje,-170.0,03.03.2020,Cleaning lady ,170.0,1
+reconciled,06.03.2020,DINOFFENTLIGETRANSPORT VALBY,-720.0,04.03.2020,Train,720.0,1
+reconciled,09.03.2020,Bryggens Dyreklini 26844,-824.4,07.03.2020,Ago vet,824.4,1
+reconciled,12.03.2020,GREENMOBILITY A S KBENHAVN K,-88.0,10.03.2020,Green mobility ,88.0,1
+reconciled,12.03.2020,Fisketorvet Føtex 89810,-795.2,12.03.2020,Føtex ,795.2,1
+reconciled,19.03.2020,Fisketorvet Føtex 45685,-293.7,19.03.2020,Supermarket: Føtex,293.7,1
+reconciled,23.03.2020,Fisketorvet Føtex 31835,-151.75,22.03.2020,Supermarket: Føtex,151.75,1
+reconciled,25.03.2020,Bryggens Dyreklini 27383,-2262.52,25.03.2020,Ago vet,2262.52,1
+reconciled,01.04.2020,Total fees,-60.0,13.04.2022,Parking ,60.0,1
+reconciled,07.04.2022,Bil tax,-665.0,07.04.2022,Car tax,665.0,1
+reconciled,13.04.2022,BAUHAUS Ishøj 96389,-647.55,13.04.2022,Bauhaus,647.55,1
+reconciled,19.04.2022,Fisketorvet 49228,-60.0,13.04.2022,Parking ,60.0,1
+reconciled,19.04.2022,Fisketorvet Føtex 83342,-957.1,16.04.2022,Supermarket ,957.1,1
+reconciled,19.04.2022,B Skat 20 04 2022,-1069.0,18.04.2022,B-Skat 04.2022,1069.0,1
+reconciled,25.04.2022,Solrød Tandklinik 75740,-556.95,22.04.2022,Dentist,556.95,1
+reconciled,27.04.2022,føtex food Kr Ber 54107,-97.8,27.04.2022,Supermarket ,97.8,1
+reconciled,28.04.2022,Q8 Service 8042 67191,-648.99,27.04.2022,Benzina,648.99,1
+reconciled,29.04.2022,SuperB Solrød 44055,-403.5,29.04.2022,Supermarket ,403.5,1
+reconciled,02.05.2022,CPH Parkering A S 18171,-704.0,02.05.2022,Parking cph airport ,704.0,1
+reconciled,04.05.2022,RYANAIR PAYPAL COM,-856.19,02.05.2022,Ryanair Milano,856.19,1
+reconciled,09.05.2022,BabySam A S HQ 00198,-6078.4,08.05.2022,Stroller,6078.4,1
+reconciled,09.05.2022,Fisketorvet Føtex 66246,-499.53,08.05.2022,Supermarket ,499.53,1
+reconciled,11.05.2022,LIDL 58177,-391.55,11.05.2022,Supermarket ,391.55,1
+reconciled,16.05.2022,IKEA 094 HFB ECO 02983,-468.0,15.05.2022,Ikea,468.0,1
+reconciled,23.05.2022,SuperB Solrød 60704,-638.9,23.05.2022,Supermarket ,638.9,1
+reconciled,30.05.2022,LIDL 74726,-788.95,29.05.2022,Supermarket ,788.95,1
+reconciled,30.05.2022,EPass Norway,-66.4,27.05.2022,Epass24 Norway,66.4,1
+reconciled,01.06.2022,MobilePay Caroline Boje,-427.9,01.06.2022,Vitamins,427.9,1
+reconciled,01.06.2022,B Skat 20 05 2022,-1069.0,01.06.2022,B Skat,1069.0,1
+reconciled,08.06.2022,PAYPAL BOOKING 35314369001,-15863.69,04.06.2022,Vacations Cannes Hot,15863.69,1
+reconciled,08.06.2022,SuperB Solrød 70646,-592.25,08.06.2022,Supermarket ,592.25,1
+reconciled,13.06.2022,LIDL 87942,-608.4,12.06.2022,Supermarket ,608.4,1
+reconciled,13.06.2022,Tax Return Faktura,-10000.0,13.06.2022,Tax Consultant,10000.0,1
+reconciled,14.06.2022,ZooBiiDoo 14095,-249.0,13.06.2022,Dog food,249.0,1
+reconciled,20.06.2022,Q8 Service 8042 10543,-500.96,19.06.2022,Benzina,500.96,1
+reconciled,29.06.2022,SLOTHS AUTO ApS 01584,-850.0,28.06.2022,Tires change summer,850.0,1
+reconciled,30.06.2022,SuperB Solrød 86548,-183.36,30.06.2022,Supermarket ,183.36,1
+reconciled,03.10.2022,Maxi Zoo Gentofte 31308,-198.95,03.10.2022,Pappa Loki,198.95,1
+reconciled,06.10.2022,MobilePay Caroline Boje,-328.0,06.10.2022,Insurances etc,328.0,1
+reconciled,07.10.2022,SECURITAS A S,-210.0,07.10.2022,Parking (fine) fisketorvet,210.0,1
+reconciled,10.10.2022,Fisketorvet Føtex 21631,-599.65,10.10.2022,Supermarket ,599.65,1
+reconciled,11.10.2022,PAYPAL EASYPARK AS 35314369001,-45.71,08.10.2022,Parking,45.71,1
+reconciled,11.10.2022,SuperB Solrød 45871,-355.95,11.10.2022,Supermarket ,355.95,1
+reconciled,13.10.2022,4011320147,-306589.32,13.10.2022,House Loan Closure,306589.32,1
+reconciled,17.10.2022,SuperB Solrød 50290,-631.7,17.10.2022,Supermarket ,631.7,1
+reconciled,18.10.2022,PAYPAL UDEMY 35314369001,-117.09,13.10.2022,Course Udemy Swift,117.09,1
+reconciled,24.10.2022,SuperB Solrød 53410,-164.9,24.10.2022,Supermarket ,164.9,1
+reconciled,25.10.2022,B Skat 20 10 2022,-1069.0,25.10.2022,B-Skat 20.10.2022,1069.0,1
+reconciled,26.10.2022,McDonalds Solroed rest,-289.0,24.10.2022,Mc Donald ,289.0,1
+reconciled,26.10.2022,SuperB Solrød 56531,-906.7,26.10.2022,Supermarket ,906.7,1
+reconciled,28.10.2022,MobilePay Mette Bigom Ryom Herold,-100.0,28.10.2022,Vinit present ,100.0,1
+reconciled,03.11.2022,ZARA FISKETORVERT 67494,-522.0,02.11.2022,Zara pants,522.0,1
+reconciled,06.11.2022,MobilePay Caroline Boje,-328.0,06.11.2022,Insurances,328.0,1
+reconciled,07.11.2022,SuperB Solrød 64247,-600.9,05.11.2022,Supermarket ,600.9,1
+reconciled,07.11.2022,SuperB Solrød 64932,-51.95,06.11.2022,Supermarket ,51.95,1
+reconciled,08.11.2022,4180 APCOA PARKING AS,-30.0,06.11.2022,Bakken parking,30.0,1
+reconciled,10.11.2022,SuperB Solrød 67854,-659.25,10.11.2022,Supermarket ,659.25,1
+reconciled,14.11.2022,SuperB Solrød 70914,-657.05,14.11.2022,Supermarket ,657.05,1
+reconciled,17.11.2022,Q8 Service 8042 30657,-619.63,16.11.2022,Benzina,619.63,1
+reconciled,22.11.2022,McDonalds Solroed rest,-239.0,20.11.2022,Mc Donald ,239.0,1
+reconciled,24.11.2022,MobilePay Caroline Boje,-599.75,24.11.2022,Formula,599.75,1
+reconciled,29.11.2022,JOE THE JUICE A S Kastrup,-59.0,27.11.2022,Joe and the juice ,59.0,1
+reconciled,01.12.2022,Krogsgaard Finans,-2474.0,01.12.2022,Car loan,2474.0,1
+reconciled,01.12.2022,Gjensidige Forsikring D,-494.42,01.12.2022,Insurance,494.42,1
+reconciled,01.12.2022,Udl kortbetaling 1 50 af DKK,-6.43,01.12.2022,Books LV currency,6.43,1
+reconciled,01.12.2022,Udl kortbetaling 1 50 af DKK,-2.34,01.12.2022,Currency change,2.34,1
+reconciled,02.12.2022,Udl kortbetaling 1 50 af DKK,-0.57,01.12.2022,Currency change,0.57,1
+reconciled,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.13,02.12.2022,Currency,1.13,1
+reconciled,02.12.2022,Udl kortbetaling 1 50 af DKK,-0.7,02.12.2022,Currency,0.7,1
+reconciled,02.12.2022,MobilePay Caroline Boje,-62.0,02.12.2022,Spotify,62.0,1
+reconciled,06.12.2022,HGV LVBS FB LAS VEGAS,-66.84,06.12.2022,Cafe Las Vegas,66.84,1
+reconciled,06.12.2022,VENETIAN STARBUCKS I LAS VEGAS,-104.68,06.12.2022,Starbucks Las Vegas,104.68,1
+reconciled,06.12.2022,EXPO CONV CTR LAS VEGAS,-58.78,06.12.2022,Las Vegas,58.78,1
+reconciled,06.12.2022,HGV LVBS FB LAS VEGAS,-64.41,06.12.2022,Cafe Las Vegas,64.41,1
+reconciled,06.12.2022,SKYWALK PHOTO PEACH SPRINGS,-69.54,06.12.2022,Skywalk Canyon,69.54,1
+reconciled,06.12.2022,GCW TOUR TERMINAL PEACH SPRINGS,-688.8,06.12.2022,Grand Canyon tour,688.8,1
+reconciled,06.12.2022,MCDONALD S F24108 LAS VEGAS,-119.4,06.12.2022,Mc donald LV,119.4,1
+reconciled,06.12.2022,VENETIAN STARBUCKS I LAS VEGAS,-131.46,06.12.2022,Starbucks,131.46,1
+reconciled,06.12.2022,SP PSYCHO BUNNY 151 43459146,-502.42,06.12.2022,T shirt Psychobunny,502.42,1
+reconciled,06.12.2022,SP KARMA LUCK 170 28681438,-610.62,06.12.2022,Karma present Caro,610.62,1
+reconciled,06.12.2022,BARNES NOBLE Æ2128 LAS VEGAS,-973.6,06.12.2022,Books Las Vegas,973.6,1
+reconciled,06.12.2022,SQ SQUISHABLE COM Las Vegas,-459.91,06.12.2022,Squishybuzz Noah,459.91,1
+reconciled,06.12.2022,MCDONALD S M4327 OF NV LAS VEGAS,-171.11,06.12.2022, Mc donald Las Vegas,171.11,1
+reconciled,06.12.2022,MACYS LAS VEGAS LAS VEGAS,-294.65,06.12.2022,Macy’s clothes Noah,294.65,1
+reconciled,06.12.2022,HGV LVBS FB LAS VEGAS,-142.87,06.12.2022,Las vegas cafe,142.87,1
+reconciled,06.12.2022,BUDGET CAR AND TRUCK REN LAS,-1165.47,06.12.2022,Car rental Las Vegas,1165.47,1
+reconciled,06.12.2022,SuperB Solrød 62038,-819.6,06.12.2022,Supermarket ,819.6,1
+reconciled,07.12.2022,Udl kortbetaling 1 50 af DKK,-4.29,07.12.2022,Currency bath stuff Caro,4.29,1
+reconciled,07.12.2022,Udl kortbetaling 1 50 af DKK,-1.51,07.12.2022,Currency,1.51,1
+reconciled,07.12.2022,Udl kortbetaling 1 50 af DKK,-0.99,07.12.2022,Currency,0.99,1
+reconciled,07.12.2022,Udl kortbetaling 1 50 af DKK,-2.9,07.12.2022,Change currency,2.9,1
+reconciled,08.12.2022,Udl kortbetaling 1 50 af DKK,-0.56,08.12.2022,Currency,0.56,1
+reconciled,08.12.2022,Udl kortbetaling 1 50 af DKK,-1.94,08.12.2022,Currency,1.94,1
+reconciled,08.12.2022,Udl kortbetaling 1 50 af DKK,-0.69,08.12.2022,Currency ,0.69,1
+reconciled,12.12.2022,Depotgebyr 3033767048,-30.18,12.12.2022,Depotgebyr,30.18,1
+reconciled,13.12.2022,AMZN Mktp DE 1Z43R0JW4 AMAZON DE,-905.81,10.12.2022,Carpet Caro,905.81,1
+reconciled,13.12.2022,22107,-10.0,13.12.2022,Magazine,10.0,1
+reconciled,13.12.2022,matas dk,-279.95,13.12.2022,Carpet Charlotte,279.95,1
+reconciled,14.12.2022,BELIANI DK BAAR,-949.0,10.12.2022,Chairs present Caro,949.0,1
+reconciled,14.12.2022,a3096,-1728.0,13.12.2022,Statue Charlotte,1728.0,1
+reconciled,15.12.2022,29779,-1506.0,13.12.2022,Camera Frederik,1506.0,1
+reconciled,19.12.2022,MobilePay Køge Dækcenter ApS,-1171.25,19.12.2022,New tire,1171.25,1
+reconciled,20.12.2022,PAYPAL ADIDASDANMA 75,-129.0,20.12.2022,Socks Caro Xmas,129.0,1
+reconciled,20.12.2022,PAYPAL SAALDIGITAL 35314369001,-1549.0,16.12.2022,Photos Caro,1549.0,1
+reconciled,20.12.2022,BAUHAUS Ishøj 97103,-534.28,20.12.2022,Bauhaus,534.28,1
+reconciled,26.12.2022,MobilePay PostNord Danmark Online P,-12.0,26.12.2022,Postnord stamps,12.0,1
+reconciled,27.12.2022,Fisketorvet Føtex 80078,-980.4,23.12.2022,Supermarket ,980.4,1
+reconciled,28.12.2022,AMZN Mktp DE 1N30G57X4 AMAZON DE,-1102.17,23.12.2022,Console table,1102.17,1
+reconciled,28.12.2022,PAYPAL ADOBESYSTEM 35314369001,-95.19,28.12.2022,Adobe,95.19,1
+reconciled,28.12.2022,McDonalds Solroed rest,-252.0,26.12.2022,Mc Donald ,252.0,1
+reconciled,28.12.2022,Elgiganten 3004 58068,-1021.0,27.12.2022,Hue,1021.0,1
+reconciled,29.12.2022,SuitSupply Copenhagen,-759.0,27.12.2022,Suitsupply sweater,759.0,1
+reconciled,30.12.2022,APPLE COM BILL ITUNES COM,-45.0,30.12.2022,Apple App,45.0,1
+reconciled,30.12.2022,MobilePay Caroline Boje,-599.75,30.12.2022,Formula ,599.75,1
+reconciled,03.04.2018,JYSK Fisketorvet 38656,-198.0,03.04.2018,Jysk,198.0,1
+reconciled,09.04.2018,ZARA FISKETORVERT 63409,-1247.0,07.04.2018,Zara,1247.0,1
+reconciled,09.04.2018,MCDONALDS FISKETOR 56060,-140.0,07.04.2018,Mc Donald,140.0,1
+reconciled,16.04.2018,BARBURRITO ApS 20158,-470.0,14.04.2018,Burrito,470.0,1
+reconciled,17.04.2018,MobilePay Caroline Boje,-90.0,17.04.2018,Medicine,90.0,1
+reconciled,23.04.2018,Kødbyens Fiskebar 01781,-305.0,22.04.2018,Oysters Meatpacking,305.0,1
+reconciled,30.04.2018,CINEMAXX FISKETORV 91052,-272.0,27.04.2018,Cinema,272.0,1
+reconciled,30.04.2018,Fisketorvet Føtex 15194,-62.95,29.04.2018,Fotex,62.95,1
+reconciled,04.05.2018,MobilePay Caroline Boje,-301.46,04.05.2018,Fotex,301.46,1
+reconciled,07.05.2018,56983,-3349.0,05.05.2018,Bike,3349.0,1
+reconciled,07.05.2018,Fisketorvet Føtex 96252,-84.5,06.05.2018,Føtex,84.5,1
+reconciled,11.05.2018,MobilePay Caroline Boje,-50.0,29.05.2018,Present Einar,50.0,1
+reconciled,14.05.2018,Fisketorvet Føtex 73433,-380.55,11.05.2018,Fotex,380.55,1
+reconciled,15.05.2018,Bertels Salon ApS 16243,-94.0,14.05.2018,Cheese cake,94.0,1
+reconciled,20.05.2018,MobilePay Caroline Boje,-550.0,20.05.2018,Caroline gift,550.0,1
+reconciled,22.05.2018,MobilePay Caroline Boje,-230.0,22.05.2018,Fotex,230.0,1
+reconciled,28.05.2018,BoConcept Københav 21966,-3919.0,27.05.2018,Chairs BoConcept,3919.0,1
+reconciled,28.05.2018,Fisketorvet Føtex 47776,-143.0,28.05.2018,Føtex,143.0,1
+reconciled,01.06.2018,Fisketorvet Føtex 27032,-697.45,01.06.2018,Føtex,697.45,1
+reconciled,06.06.2018,Fine Parkzone,-750.0,05.06.2018,Fine Parkzone,750.0,1
+reconciled,11.06.2018,MobilePay Caroline Boje,-600.0,11.06.2018,Proteins,600.0,1
+reconciled,18.06.2018,Fisketorvet Føtex 36358,-86.0,18.06.2018,Fotex,86.0,1
+reconciled,19.06.2018,MobilePay Caroline Boje,-500.0,19.06.2018,Fotex,500.0,1
+reconciled,25.06.2018,Fisketorvet Føtex 11191,-359.45,23.06.2018,Fotex,359.45,1
+reconciled,26.06.2018,Nørrebro Apotek v 06383,-71.3,26.06.2018,Medicine,71.3,1
+reconciled,27.06.2018,MobilePay Caroline Boje,-72.0,27.06.2018,Lidl,72.0,1
+reconciled,28.06.2018,27220,-2598.0,27.06.2018,Bed guest room,2598.0,1
+reconciled,29.06.2018,Fisketorvet Føtex 12971,-378.0,29.06.2018,Fotex,378.0,1
+reconciled,07.04.2020,EASYJET EASYJET,-419.78,05.04.2020,Cambio volo Parigi,419.78,1
+reconciled,08.04.2020,Fisketorvet Føtex 44505,-641.48,08.04.2020,Supermarket: Føtex,641.48,1
+reconciled,14.04.2020,Fisketorvet Føtex 75814,-337.3,14.04.2020,Supermarket: Føtex,337.3,1
+reconciled,21.04.2020,Fisketorvet Føtex 78198,-364.91,21.04.2020,Supermarket: Føtex,364.91,1
+reconciled,29.04.2020,GREENMOBILITY A S KBENHAVN K,-595.0,27.04.2020,Green mobility ,595.0,1
+reconciled,14.05.2020,Fisketorvet Føtex 95839,-286.15,14.05.2020,Supermarket: Føtex,286.15,1
+reconciled,20.05.2020,Fisketorvet Føtex 51351,-355.2,20.05.2020,Supermarket: Føtex,355.2,1
+reconciled,26.05.2020,Fisketorvet Føtex 33119,-595.57,26.05.2020,Supermarket: Føtex,595.57,1
+reconciled,27.05.2020,DOT APP NETCOMPANY TAASTRUP,-36.0,25.05.2020,Train tickets ,36.0,1
+reconciled,02.06.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,06.06.2020,Train ticket,48.0,1
+reconciled,02.06.2020,Fisketorvet Føtex 56665,-339.5,02.06.2020,Supermarket: Føtex,339.5,1
+reconciled,04.06.2020,DOT APP NETCOMPANY TAASTRUP,-720.0,02.06.2020,Train,720.0,1
+reconciled,09.06.2020,DOT DIN OFFENTLIGE TRAN,-48.0,06.06.2020,Train ticket,48.0,1
+reconciled,16.06.2020,GREENMOBILITY A S KBENHAVN K,-112.0,12.06.2020,Green mobility ,112.0,1
+reconciled,29.06.2020,Bauhaus Valby 69144,-359.85,27.06.2020,Bauhaus,359.85,1
+reconciled,29.06.2020,Fisketorvet Føtex 14346,-282.25,28.06.2020,Føtex ,282.25,1
+reconciled,01.12.2020,Krogsgaard Finans,-2474.0,01.12.2022,Car loan,2474.0,1
+reconciled,03.01.2022,HK Handels og Kontorf,-517.0,01.01.2023,A-kasse,517.0,1
+reconciled,10.01.2022,SuperB Solrød 71717,-1051.55,09.01.2022,Supermarket ,1051.55,1
+reconciled,25.01.2022,SOLROED FDB SUPERBRUGSEN,-778.8,23.01.2022,Supermarket ,778.8,1
+reconciled,01.02.2022,HK Handels og Kontorf,-517.0,01.02.2023,A-kasse,517.0,1
+reconciled,05.02.2022,MobilePay Caroline Boje,-327.0,05.02.2022,House stuff caro,327.0,1
+reconciled,08.02.2022,BAUHAUS ISHOEJ ISHOEJ,-895.55,06.02.2022,Electricity stuff ,895.55,1
+reconciled,10.02.2022,AMZN Mktp DE 2L4WR2NI4 AMAZON DE,-547.45,08.02.2022,Home stuff amazon,547.45,1
+reconciled,11.02.2022,AMZN Mktp DE AMAZON DE,-341.8,08.02.2022,Amazon philips switch,341.8,1
+reconciled,17.02.2022,56101,-592.25,16.02.2022,Benzina ,592.25,1
+reconciled,23.02.2022,MobilePay Caroline Boje,-261.0,24.02.2022,Pizza,261.0,1
+reconciled,01.03.2022,HK Handels og Kontorf,-517.0,01.03.2023,A-kasse,517.0,1
+reconciled,07.03.2022,47575,-196.0,05.03.2022,Pizza,196.0,1
+reconciled,07.03.2022,Q8 Service 8042 25817,-542.89,06.03.2022,Benzina ,542.89,1
+reconciled,08.03.2022,SuitSupplyPOS_Copenhagen,-3659.0,05.03.2022,Suit Supply,3659.0,1
+reconciled,14.03.2022,SuperB Solrød 12076,-603.65,12.03.2022,Supermarket ,603.65,1
+reconciled,14.03.2022,SuperB Solrød 13669,-535.15,14.03.2022,Supermarket ,535.15,1
+reconciled,17.03.2022,Q8 Service 8042 33476,-546.53,16.03.2022,Benzina ,546.53,1
+reconciled,18.03.2022,SuperB Solrød 16879,-258.6,18.03.2022,Supermarket ,258.6,1
+reconciled,21.03.2022,BAUHAUS Ishøj 81462,-968.6,20.03.2022,Bauhaus,968.6,1
+reconciled,27.02.2018,MobilePay Caroline Boje,-90.0,27.02.2018,Mobilepay Netto Caroline,90.0,1
+reconciled,06.03.2018,MobilePay Caroline Boje,-120.0,06.03.2018,Netto,120.0,1
+reconciled,17.03.2018,MobilePay Sport24 Fisketorvet,-280.0,17.03.2018,Proteins (Sport 24),280.0,1
+reconciled,19.03.2018,Maxi Zoo Denmark A 28872,-139.9,17.03.2018,Pappa ago,139.9,1
+reconciled,19.03.2018,Netto 736 91655,-134.3,18.03.2018,Netto,134.3,1
+reconciled,23.03.2018,Steffs T3 Pier C 65666,-81.5,22.03.2018,Burger airport,81.5,1
+reconciled,27.03.2018,Ikea 121 ECO 17795,-1362.0,26.03.2018,Ikea,1362.0,1
+reconciled,27.03.2018,SILVAN 637 Fisketo 34724,-1229.95,27.03.2018,Ikea,1229.95,1
+reconciled,28.03.2018,07973,-262.3,28.03.2018,Netto,262.3,1
+reconciled,01.07.2021,Gjensidige Forsikring,-481.84,01.07.2021,Insurance car,481.84,1
+reconciled,01.07.2021,Meny Solrød str 18514,-270.35,01.07.2021,Invite super,270.35,1
+reconciled,04.07.2021,MobilePay Caroline Boje,-274.0,04.07.2021,Verisure to Caroline,274.0,1
+reconciled,05.07.2021,Fisketorvet Føtex 81841,-607.4,03.07.2021,Supermarket ,607.4,1
+reconciled,05.07.2021,Kim Q Hair design 14279,-325.0,03.07.2021,Haircut,325.0,1
+reconciled,05.07.2021,Ejendomskat 07 2021,-11698.04,05.07.2021,Ejendomskat,11698.04,1
+reconciled,06.07.2021,Klarna Bodystore dk Solna,-499.0,06.07.2021,Protein,499.0,1
+reconciled,06.07.2021,Amazon it 209410T94,-565.29,08.07.2021,Amazon,565.29,1
+reconciled,06.07.2021,SuperB Solrød 47820,-530.65,06.07.2021,Supermarket ,530.65,1
+reconciled,08.07.2021,SuperB Solrød 11043,-29.25,08.07.2021,Supermarket ,29.25,1
+reconciled,12.07.2021,CIRCLE K TRAFIKCEN 72354,-197.35,11.07.2021,Egeskov,197.35,1
+reconciled,12.07.2021,SuperB Solrød 51676,-28.95,12.07.2021,Supermarket ,28.95,1
+reconciled,16.07.2021,SN4799000025556660 MILANO,-25.75,15.07.2021,Milano,25.75,1
+reconciled,16.07.2021,SN4799000025556949 MILANO,-36.93,20.07.2021,Milano ,36.93,1
+reconciled,19.07.2021,SN4799000025565244 MILANO,-28.24,20.07.2021,Milano ,28.24,1
+reconciled,20.07.2021,SN4799000025602591 MILANO,-31.03,20.07.2021,Milano ,31.03,1
+reconciled,20.07.2021,SN4799000025600839 MILANO,-41.6,20.07.2021,Milano ,41.6,1
+reconciled,20.07.2021,SN4799000025576369 MILANO,-28.09,20.07.2021,Milano ,28.09,1
+reconciled,20.07.2021,SN4799000025591815 MILANO,-43.8,20.07.2021,Milano ,43.8,1
+reconciled,28.07.2021,PAYPAL ADOBESYSTEM 35314369001,-75.55,28.07.2021,Lightroom,75.55,1
+reconciled,30.07.2021,PAYPAL EASYPARK AS 35314369001,-70.6,30.07.2021,Park Sardegna,70.6,1
+reconciled,02.08.2021,Gjensidige Forsikring,-491.92,01.08.2021,Car insurance,491.92,1
+reconciled,02.08.2021,SuperB Solrød 64583,-979.35,02.08.2021,Supermarket ,979.35,1
+reconciled,03.08.2021,HMS Host International Amsterdam,-174.31,03.08.2021,Amsterdam food,174.31,1
+reconciled,04.08.2021,SuperB Solrød 65974,-397.9,04.08.2021,Supermarket ,397.9,1
+reconciled,06.08.2021,SuperB Solrød 67247,-19.95,06.08.2021,Supermarket ,19.95,1
+reconciled,09.08.2021,SuperB Solrød 68702,-614.55,08.08.2021,Supermarket ,614.55,1
+reconciled,12.08.2021,SuperB Solrød 71169,-96.85,09.08.2021,Supermarket ,96.85,1
+reconciled,16.08.2021,H M 809,-139.9,15.08.2021,H&M tshirts,139.9,1
+reconciled,19.08.2021,Anne s Dyrecenter 06516,-1034.0,18.08.2021,Puppy stuff,1034.0,1
+reconciled,23.08.2021,P huset Gl Mønt 13486,-129.6,23.08.2021,Parking,129.6,1
+reconciled,23.08.2021,B Skat 20 08 2021,-1262.0,22.08.2021,B-Skat,1262.0,1
+reconciled,24.08.2021,PAYPAL CONTABO 35314369001,-69.64,26.08.2021,Contabo,69.64,1
+reconciled,25.08.2021,AMZN Mktp IT WD5HR4T95 AMAZON IT,-279.59,22.08.2021,Intervallometro,279.59,1
+reconciled,27.08.2021,PAYPAL ADOBESYSTEM 35314369001,-75.53,30.08.2021,Adobe subscription ,75.53,1
+reconciled,01.09.2021,Gjensidige Forsikring,-491.92,01.09.2021,Car Insurance,491.92,1
+reconciled,02.09.2021,SuperB Solrød 86092,-329.7,02.09.2021,Supermarket ,329.7,1
+reconciled,05.09.2021,MobilePay Caroline Boje,-504.0,05.09.2021,Spese case varie,504.0,1
+reconciled,07.09.2021,267 LAGKAGHUSET SOLROED,-84.0,04.09.2021,Cake,84.0,1
+reconciled,13.09.2021,SOLROED APOTEK SOLROED STRAN,-50.8,18.09.2021,Farmaco Loki,50.8,1
+reconciled,14.09.2021,FOETEX FISKETOR KOEBENHAVN V,-524.3,11.09.2021,Supermarket ,524.3,1
+reconciled,15.09.2021,KIM Q HAIR DESIGN KOEBENHAVN V,-325.0,11.09.2021,Haircut,325.0,1
+reconciled,16.09.2021,PAYPAL APPLE COM BILL,-46.16,18.09.2021,Strong app,46.16,1
+reconciled,17.09.2021,Q8 Service 8042 97997,-473.09,18.09.2021,Benzina ,473.09,1
+reconciled,18.09.2021,MobilePay Apcoa Parking A S AXEL,-280.0,14.09.2018,Føtex,280.0,1
+reconciled,20.09.2021,B Skat 20 09 2021,-1262.0,18.09.2021,B-Skat,1262.0,1
+reconciled,23.09.2021,Fisketorvet 68822,-120.0,22.09.2021,Parcheggio conema,120.0,1
+reconciled,27.09.2021,P huset Gl Mønt 17977,-48.0,25.09.2021,Parq,48.0,1
+reconciled,30.09.2021,Q8 Service 8042 08042,-450.43,29.09.2021,Benzina ,450.43,1
+reconciled,02.07.2019,DESIGN FLOWER KOBENHAVN,-75.0,02.07.2019,Flowers friend Caro,75.0,1
+reconciled,08.07.2019,DOT APP PENDLER KORT VALBY,-699.9,04.07.2019,Train,699.9,1
+reconciled,09.07.2019,PAYPAL BOOKING COM 35314369001,-4612.6,09.07.2019,Hotel Norway ,4612.6,1
+reconciled,11.07.2019,Fisketorvet Føtex 50000,-339.2,11.07.2019,Supermarket: Føtex,339.2,1
+reconciled,15.07.2019,Fisketorvet Føtex 97903,-160.5,15.07.2019,Supermarket: Føtex,160.5,1
+reconciled,18.07.2019,WARPIGS BREWPUB 99063,-131.0,18.07.2019,Warpigs Sune,131.0,1
+reconciled,24.07.2019,AMZN Mktp IT MH7AM6T54 AMAZON IT,-334.41,21.07.2019,Zaino porta Ago,334.41,1
+reconciled,29.07.2019,RYANAIR PAYPAL COM,-96.0,25.07.2019,Ryanair cabin luggage,96.0,1
+reconciled,30.07.2019,RYANAIR DUBLIN,-440.0,30.07.2019,Plane milan late checkin ,440.0,1
+reconciled,06.08.2019,DOT APP PENDLER KORT VALBY,-136.0,06.08.2019,Housewarming Sune Train,136.0,1
+reconciled,06.08.2019,Fisketorvet Føtex 36497,-84.45,06.08.2019,Supermarket: Føtex,84.45,1
+reconciled,12.08.2019,Fisketorvet Føtex 38468,-238.8,10.08.2019,Cibo cane,238.8,1
+reconciled,14.08.2019,BOOTS APOTEK SOLLI 142 OSLO,-82.46,14.08.2019,BOOTS APOTEK SOLLI 142\ \OSLO\,82.46,1
+reconciled,14.08.2019,BOELGEN MOI TJUVHOLMEN A OSLO,-335.5,14.08.2019,BOELGEN  MOI TJUVHOLMEN A\ ...,335.5,1
+reconciled,14.08.2019,OKQ8 STROMSTAD,-410.21,14.08.2019,OKQ8\ \STROMSTAD\,410.21,1
+reconciled,16.08.2019,GAUSTATOPPEN SKIEN,-87.95,16.08.2019,GAUSTATOPPEN\ \SKIEN\,87.95,1
+reconciled,20.08.2019,BEITOSTØLEN RES BEITOSTØLEN,-2642.68,20.08.2019,BEITOST�LEN RES\ \BEITOST�L...,2642.68,1
+reconciled,20.08.2019,PAYPAL BOOKING COM 35314369001,-3869.69,16.08.2019,Hotel last minute,3869.69,1
+reconciled,21.08.2019,SPAR BEITOSTOELEN BEITOSTOELEN,-256.92,21.08.2019,SPAR BEITOSTOELEN\ \BEITOST...,256.92,1
+reconciled,26.08.2019,MAT TRADISJON A LODDEFJORD,-72.57,26.08.2019,MAT TRADISJON A\ \LODDEFJORD\,72.57,1
+reconciled,26.08.2019,71927,-411.22,26.08.2019,INGO VASBYG.4      71927,411.22,1
+reconciled,27.08.2019,3514TGI FRIDAY BERGEN,-684.47,27.08.2019,3514TGI FRIDAY\ \BERGEN\,684.47,1
+reconciled,27.08.2019,SPAR ODDA ODDA,-121.36,27.08.2019,SPAR ODDA\ \ODDA\,121.36,1
+reconciled,27.08.2019,NO135 CC OLEANA BERGEN,-190.77,27.08.2019,NO135 CC OLEANA\ \BERGEN\,190.77,1
+reconciled,29.08.2019,95326,-210.0,29.08.2019,Bike fix,210.0,1
+reconciled,04.09.2019,Fisketorvet Føtex 59789,-59.15,04.09.2019,Supermarket: Føtex,59.15,1
+reconciled,09.09.2019,SS 2 MALPENSA AEROPORTO FERNO,-98.46,09.09.2019,SS 2 MALPENSA AEROPORTO  \ ...,98.46,1
+reconciled,09.09.2019,SILVAN 637 Fisketo 49459,-49.95,09.09.2019,SILVAN 637 Fisketo )))) 49459,49.95,1
+reconciled,10.09.2019,DOT APP PENDLER KORT VALBY,-699.9,06.09.2019,Train,699.9,1
+reconciled,16.09.2019,Taxes rata 1,-2038.0,16.09.2019,Taxes (rata 1),2038.0,1
+reconciled,18.09.2019,DagliBrugsen Skærb 68602,-113.8,18.09.2019,Supermarket ,113.8,1
+reconciled,24.09.2019,Green Mobility A S Copenhagen,-49.0,24.09.2019,Green Mobility A/S\ \Copenh...,49.0,1
+reconciled,24.09.2019,Dantaxi 4x48 61399,-246.0,24.09.2019,Dantaxi 4x48 )))) 61399,246.0,1
+reconciled,25.09.2019,Fisketorvet Føtex 65452,-238.4,25.09.2019,Fisketorvet F�tex  65452,238.4,1
+reconciled,03.07.2023,Autoroutes Du S,-8.93,03.07.2023,Autoroute,8.93,1
+reconciled,06.07.2023,Liberte Aut,-32.02,06.07.2023,Autoroute,32.02,1
+reconciled,10.07.2023,Lido Di Alghero,-148.98,10.07.2023,Lettini Alghero,148.98,1
+reconciled,10.07.2023,Ejendomskat 07 2023,-12012.32,10.07.2023,Ejendomskat 2023,12012.32,1
+reconciled,12.07.2023,ABACO SPA COMUNE D,-59.63,12.07.2023,Abaco,59.63,1
+reconciled,13.07.2023,CRAI EXTRA PULA AU,-186.24,12.07.2023,Super Pula,186.24,1
+reconciled,17.07.2023,APCOA PARCHEGGIO CAG,-38.01,17.07.2023,Apcoa park,38.01,1
+reconciled,18.07.2023,Parco Metri Villasim,-22.35,18.07.2023,Parking,22.35,1
+reconciled,18.07.2023,APPLE COM BILL CORK,-42.0,18.07.2023,Apple iOS Apps,42.0,1
+reconciled,25.07.2023,MC DONALD S OLBIA,-67.12,25.07.2023,Olbia cibo,67.12,1
+reconciled,25.07.2023,APPLE COM BILL 80249625,-16.0,25.07.2023,Apple apps,16.0,1
+reconciled,25.07.2023,PRIMO PASTA STREET FO PISA,-152.88,25.07.2023,Resto Pisa,152.88,1
+reconciled,25.07.2023,CONAD OLBIA,-98.44,25.07.2023,Conad Olbia,98.44,1
+reconciled,25.07.2023,M N MOBY VINCI VENEZIA,-88.74,25.07.2023,Nave Olbia cafe,88.74,1
+reconciled,26.07.2023,DOLCE PISA PISA,-164.06,26.07.2023,Pisa dolciumi,164.06,1
+reconciled,26.07.2023,NUOVA DAMA SNC SANTA MARGHER,-22.37,26.07.2023,Nuova Dama Santa M,22.37,1
+reconciled,27.07.2023,ADS CASTELNUOVO SCRIVIA,-201.89,27.07.2023,Cafe,201.89,1
+reconciled,27.07.2023,AUTOPARK PORTOFINO PORTOFINO,-119.32,27.07.2023,Autopark Portofino,119.32,1
+reconciled,27.07.2023,DUOMO DAL 1952 MILANO,-25.34,27.07.2023,Duomo Cafe Milano,25.34,1
+reconciled,27.07.2023,ESSELUNGA LOSANNA MILANO,-169.7,27.07.2023,Esselunga Milano,169.7,1
+reconciled,28.07.2023,ESSELUNGA LOSANNA MILANO,-17.14,28.07.2023,Esselunga,17.14,1
+reconciled,31.07.2023,BAR DISTRIBUTORE L ALTURA,-78.26,28.07.2023,Resto cafe,78.26,1
+reconciled,31.07.2023,CARLSBERG OL MILANO,-372.64,28.07.2023,Carlsberg Milano,372.64,1
+reconciled,01.08.2023,HK Handels og Kontorf,-517.0,01.08.2023,A kasse,517.0,1
+reconciled,01.08.2023,Rastanlage Fuerholzen Ost,-7.45,01.08.2023,Vacation,7.45,1
+reconciled,01.08.2023,OMV 5536 Seefeld,-502.26,01.08.2023,Brunico,502.26,1
+reconciled,01.08.2023,BRESSANONE VARNA,-95.4,01.08.2023,Brunico,95.4,1
+reconciled,01.08.2023,AUTOGRILL 0128 DESENZANO DEL,-69.31,01.08.2023,Autogrill,69.31,1
+reconciled,01.08.2023,AUTOGRILL 0128 DESENZANO DEL,-18.63,01.08.2023,Autogrill,18.63,1
+reconciled,01.08.2023,CLESS TICKET ATM MILANO MILANO,-16.4,01.08.2023,Biglietti metro,16.4,1
+reconciled,01.08.2023,LIDL 1105 BRUNICO,-109.34,01.08.2023,Super Brunico,109.34,1
+reconciled,02.08.2023,MAUTSTELLE SCHOENBERG SCHOENBERG,-82.0,02.08.2023,Bridge toll,82.0,1
+reconciled,02.08.2023,H M Dresden 1DE0684 Dresden,-297.94,02.08.2023,H&M,297.94,1
+reconciled,03.08.2023,GOOGLE CLOUD J7FSJT CC,-239.77,03.08.2023,GCP,239.77,1
+reconciled,03.08.2023,BM Weihnachtsland K Dresden,-993.47,03.08.2023,Presents Charlotte Dresden,993.47,1
+reconciled,04.08.2023,TG FRAUENK DD 11940 DRESDEN,-74.53,04.08.2023,Parking Dresden,74.53,1
+reconciled,04.08.2023,Moonday Chausseestrasse Berlin,-1931.88,04.08.2023,Hotel Berlin,1931.88,1
+reconciled,04.08.2023,Parkautomat Lohmen,-52.17,04.08.2023,Prking vacation,52.17,1
+reconciled,07.08.2023,SKAT Restskat,-9257.0,07.08.2023,Restskat,9257.0,1
+reconciled,07.08.2023,PSD BANK NORD EG LUEBECK 1,-372.61,07.08.2023,Prelievo vacation,372.61,1
+reconciled,07.08.2023,TOTAL DEUTSCHLAND GMBH STOLPE,-573.67,07.08.2023,Benzina vacation,573.67,1
+reconciled,07.08.2023,Vuggestue 08 2023,-4243.0,06.08.2023,Vuggestue 08.2023,4243.0,1
+reconciled,07.08.2023,Atlantic Hotel Luebe,-2587.57,07.08.2023,Hotel lubeck,2587.57,1
+reconciled,08.08.2023,PAYPAL HELPCOURSER 2I,-350.54,08.08.2023,Coursera,350.54,1
+reconciled,08.08.2023,AMZN Mktp DE 1V5F84G94 AMAZON DE,-2136.73,08.08.2023,Present Frederik,2136.73,1
+reconciled,08.08.2023,SuperB Solrød 39975,-761.39,08.08.2023,Supermarket ,761.39,1
+reconciled,10.08.2023,Kim Q Hair design 21210,-369.0,10.08.2023,Haircut,369.0,1
+reconciled,11.08.2023,Fisketorvet Føtex 90090,-443.6,10.08.2023,Supermarket ,443.6,1
+reconciled,14.08.2023,LIDL 37054,-313.65,12.08.2023,Supermarket ,313.65,1
+reconciled,15.08.2023,Udl kortbetaling 1 50 af DKK,-14.07,15.08.2023,Artlist,14.07,1
+reconciled,17.08.2023,APPLE COM BILL CORK,-42.0,17.08.2023,Apple bill,42.0,1
+reconciled,18.08.2023,Solrød Tandklinik 69222,-449.01,18.08.2023,Dentist,449.01,1
+reconciled,18.08.2023,Car tax,-640.0,18.08.2023,Car tax,640.0,1
+reconciled,21.08.2023,SuperB Solrød 49085,-239.45,21.08.2023,Supermarket ,239.45,1
+reconciled,25.08.2023,PAYPAL ADOBESYSTEM 35314369001,-95.39,25.08.2023,Adobe subscription ,95.39,1
+reconciled,29.08.2023,APPLE COM BILL CORK,-49.0,27.08.2023,Movie rental,49.0,1
+reconciled,30.08.2023,McDonalds 107 Karlslunde,-273.0,31.08.2023,Mc donald,273.0,1
+reconciled,31.08.2023,Transfer to budget,-7300.0,31.08.2023,Mortgage,7300.0,1
+reconciled,04.09.2023,Fisketorvet Føtex 00768,-732.15,02.09.2023,Supermarket,732.15,1
+reconciled,04.09.2023,Vuggestue 09 2023,-4243.0,03.09.2023,Vuggestue 09.2023,4243.0,1
+reconciled,05.09.2023,MobilePay EASY PARK A S,-316.1,02.09.2023,Parking hospital,316.1,1
+reconciled,07.09.2023,PAYPAL HELPCOURSER 2I,-355.97,07.09.2023,Coursera,355.97,1
+reconciled,07.09.2023,Hovmand intervento,-2776.62,07.09.2023,Hovmand service,2776.62,1
+reconciled,08.09.2023,MobilePay Caroline Boje,-62.0,08.09.2023,Spotify,62.0,1
+reconciled,08.09.2023,Waterfront Apotek 68389,-109.35,08.09.2023,Mediscrub,109.35,1
+reconciled,10.09.2023,MobilePay Caroline Boje,-263.0,10.09.2023,Insurances,263.0,1
+reconciled,11.09.2023,SuperB Solrød 40242,-686.72,11.09.2023,Supermarket ,686.72,1
+reconciled,12.09.2023,Solrød Apotek 75020,-49.9,12.09.2023,Pharmacy ,49.9,1
+reconciled,18.09.2023,McDonalds 52 Koege,-261.0,13.09.2023,Mc Donald,261.0,1
+reconciled,18.09.2023,Solrød Apotek 64052,-89.5,18.09.2023,Cough sirup,89.5,1
+reconciled,25.09.2023,APPLE COM BILL 80249625,-59.0,25.09.2023,Apple app,59.0,1
+reconciled,27.09.2023,McDonalds 107 Karlslunde,-233.0,24.09.2023,Mc Donald,233.0,1
+reconciled,29.09.2023,Transfer to budget,-7300.0,29.09.2023,Mortgage,7300.0,1
+reconciled,01.10.2023,Gebyrer i alt,-20.0,02.10.2021,Park,20.0,1
+negative,03.04.2019,Fisketorvet Føtex 70212,-193.85,07.04.2019,Electric bill,919.39,0
+negative,08.04.2019,Orsted bill,-919.39,07.04.2019,Pants Zara,299.0,0
+negative,09.04.2019,VDK DKK 299 00,-299.0,11.04.2019,Supermarket,195.95,0
+negative,11.04.2019,Fisketorvet Føtex 73215,-195.95,13.04.2019,Classifiers Føtex,85.0,0
+negative,15.04.2019,Fisketorvet Føtex 75349,-85.0,20.04.2019,Jusk garden stuff,1347.0,0
+negative,23.04.2019,Jysk D082,-1347.0,20.04.2019,Ikea plants,208.0,0
+negative,23.04.2019,Ikea 121 ECO 63440,-208.0,23.04.2019,Taxi Poland,224.0,0
+negative,23.04.2019,Taxa 4 X 35,-224.0,25.04.2019,Føtex ,341.1,0
+negative,25.04.2019,Fisketorvet Føtex 63073,-341.1,26.04.2019,Warpigs,356.0,0
+negative,26.04.2019,WARPIGS BREWPUB 18100,-356.0,27.04.2019,Føtex Friends visit,249.2,0
+negative,29.04.2019,Fisketorvet Føtex 78176,-249.2,28.04.2019,Food Tivoli,310.0,0
+negative,29.04.2019,Tivoli A S F B 89802,-310.0,30.04.2019,Green mob,72.0,0
+negative,30.04.2019,Green Mobility A S Copenhagen,-72.0,02.05.2019,Europe insurance,457.98,0
+negative,02.05.2019,99208,-457.98,03.05.2019,Battery BMW,3181.09,0
+negative,03.05.2019,Autocent Gentofte 19125,-3181.09,05.05.2019,Mc Donald ,194.0,0
+negative,07.05.2019,MCDONALDS FISKETORVET Koebenhavn,-194.0,04.05.2019,Adidas Stan Smith,750.0,0
+negative,07.05.2019,JD SPORTS DENMARK COPENHAGEN,-750.0,08.05.2019,Visa Russia,950.0,0
+negative,10.05.2019,VF SERVICES DENMARK APS,-950.0,11.05.2019,Silvan gardening ,179.8,0
+negative,13.05.2019,SILVAN 637 Fisketo 68253,-179.8,15.05.2019,Warpigs,688.0,0
+negative,15.05.2019,WARPIGS BREWPUB 56462,-688.0,15.05.2019,Food out sandro,355.0,0
+negative,16.05.2019,01125,-355.0,16.05.2019,Føtex,140.95,0
+negative,16.05.2019,Fisketorvet Føtex 95824,-140.95,20.05.2019,Cafe,322.0,0
+negative,20.05.2019,Café G 11973,-322.0,17.05.2019,Benzina,401.5,0
+negative,20.05.2019,INGO VASBYG 4,-401.5,21.05.2019,Taxi aeroporto ,233.0,0
+negative,21.05.2019,Taxa 4 X 35 14198,-233.0,25.05.2019,Føtex ,378.95,0
+negative,27.05.2019,Fisketorvet Føtex 18057,-378.95,26.05.2019,Lampadine e pile,74.9,0
+negative,27.05.2019,SILVAN 637 Fisketo 81648,-74.9,26.05.2019,Greeb mobility Ago vet,368.0,0
+negative,28.05.2019,Green Mobility A S Copenhagen,-368.0,29.05.2019,Green mobility ,168.0,0
+negative,29.05.2019,Green Mobility A S Copenhagen,-168.0,01.06.2019,Føtex,19.95,0
+negative,03.06.2019,Fisketorvet Føtex 19552,-19.95,01.06.2019,Ikea big boxes,1338.0,0
+negative,03.06.2019,Ikea 121 ECO 34246,-1338.0,04.06.2019,Green Mobility A/S\ \Copenh...,240.0,0
+negative,04.06.2019,Green Mobility A S Copenhagen,-240.0,06.06.2019,Supermarket: Føtex,283.65,0
+negative,06.06.2019,Fisketorvet Føtex 81660,-283.65,06.06.2019,Green mob car to Caro mom,316.0,0
+negative,11.06.2019,Green Mobility A S Copenhagen,-316.0,12.06.2019,STARBUCKS COFFEE HOUSE\ \MO...,37.67,0
+negative,12.06.2019,STARBUCKS COFFEE HOUSE MOSKVA,-37.67,12.06.2019,OOO MOTZTZA\ \MOSCOW\,349.99,0
+negative,12.06.2019,OOO MOTZTZA MOSCOW,-349.99,12.06.2019,RESTAURANT GRILL&VINE\ \MOS...,292.96,0
+negative,12.06.2019,RESTAURANT GRILL VINE MOSKVA,-292.96,12.06.2019,"PRM,TER.H.KOSMO,455\ \PERM\",837.05,0
+negative,12.06.2019,PRM TER H KOSMO 455 PERM,-837.05,12.06.2019,VDK RUB  8840.00,924.21,0
+negative,12.06.2019,VDK RUB 8840 00,-924.21,12.06.2019,Taxa 4 X 35 )))) 38688,223.0,0
+negative,12.06.2019,Taxa 4 X 35 38688,-223.0,13.06.2019,ATM Cash Withdrawal VISA - ...,30.0,0
+negative,13.06.2019,ATM Cash Withdrawal VISA Abroad,-30.0,13.06.2019,THE BEST KEBAB\ \MOSKVA\,85.37,0
+negative,13.06.2019,THE BEST KEBAB MOSKVA,-85.37,13.06.2019,MOSMETRO.RU ANOVOKUZNE\ \MO...,11.51,0
+negative,13.06.2019,MOSMETRO RU ANOVOKUZNE MOSCOW,-11.51,13.06.2019,HOTEL SADOVNICHESKAYA\ \MOS...,512.66,0
+negative,13.06.2019,HOTEL SADOVNICHESKAYA MOSKVA,-512.66,13.06.2019,MUZEI KREMLYA AS 2\ \MOSKVA\,146.47,0
+negative,13.06.2019,MUZEI KREMLYA AS 2 MOSKVA,-146.47,14.06.2019,MUZEI MOSKOVSKOGO KREM\ \MO...,393.03,0
+negative,14.06.2019,MUZEI MOSKOVSKOGO KREM MOSKVA,-393.03,20.06.2019,Supermarket: Føtex,244.85,0
+negative,20.06.2019,Fisketorvet Føtex 86527,-244.85,27.06.2019,Supermarket: Føtex,142.85,0
+negative,27.06.2019,Fisketorvet Føtex 70269,-142.85,27.07.2019,Prelievo mercato,60.0,0
+negative,01.07.2019,Total fees,-60.0,04.01.2021,A Kasse,514.0,0
+negative,04.01.2021,HK Handels og Kontorf,-514.0,04.01.2021,Supermarket ,342.02,0
+negative,04.01.2021,Meny Solrød str 73647,-342.02,18.01.2021,Supermarket ,255.85,0
+negative,18.01.2021,47156,-255.85,19.01.2021,Bauhaus,1399.9,0
+negative,19.01.2021,BAUHAUS Web Shop 23739,-1399.9,23.01.2021,Legna casa,2175.0,0
+negative,23.01.2021,MobilePay Caroline Boje,-2175.0,29.01.2021,Caroline,175.0,0
+negative,29.01.2021,MobilePay Caroline Boje,-175.0,01.02.2021,Assicurazione Ago,398.33,0
+negative,01.02.2021,If Skadeforsikring,-398.33,01.02.2021,Supermarket ,303.1,0
+negative,01.02.2021,SuperB Solrød 54767,-303.1,05.02.2021,Medicine Ago,186.25,0
+negative,05.02.2021,Solrød Apotek 45247,-186.25,01.02.2021,Adattatore macbook,213.0,0
+negative,08.02.2021,27673,-213.0,10.02.2021,Electricity bill,3987.08,0
+negative,10.02.2021,EWII,-3987.08,10.02.2021,Car tax,580.0,0
+negative,10.02.2021,Car tax,-580.0,11.02.2021,Medicine Ago,156.75,0
+negative,11.02.2021,Solrød Apotek 66514,-156.75,22.02.2021,Supermarket ,252.15,0
+negative,22.02.2021,Coop 365 Solrød 86576,-252.15,23.02.2021,Supermarket ,183.7,0
+negative,23.02.2021,SuperB Solrød,-183.7,18.02.2021,Supermarket ,1247.7,0
+negative,25.02.2021,Bilka Ishøj 12264,-1247.7,01.03.2021,A kasse,514.0,0
+negative,01.03.2021,HK Handels og Kontorf,-514.0,02.03.2021,Supermarket ,291.5,0
+negative,02.03.2021,SuperB Solrød 72604,-291.5,08.03.2021,Supermarket ,1526.75,0
+negative,08.03.2021,Bilka Ishøj 70111,-1526.75,15.03.2021,Supermarket ,140.7,0
+negative,15.03.2021,Bilka Ishøj 19333,-140.7,18.03.2021,Ago,1278.2,0
+negative,18.03.2021,Karlslunde Dyrehos 19452,-1278.2,22.03.2021,Super ,860.75,0
+negative,22.03.2021,SuperB Solrød 83158,-860.75,26.03.2021,Dentista,1030.2,0
+negative,29.03.2021,Solrød Tandklinik 65143,-1030.2,29.03.2021,Weights ,1900.0,0
+negative,30.03.2021,Automatudbetaling 5379 2523,-1900.0,31.03.2021,Supermarket ,843.1,0
+negative,31.03.2021,SuperB Solrød 89943,-843.1,01.04.2023,A-Kasse,517.0,0
+negative,03.04.2023,HK Handels og Kontorf,-517.0,01.04.2023,Supermarket ,672.35,0
+negative,03.04.2023,LIDL 89892,-672.35,05.04.2023,Mc donald,273.0,0
+negative,05.04.2023,McD 0107 SOLROD Karlslunde,-273.0,06.04.2023,Caroline Insurances,337.0,0
+negative,06.04.2023,MobilePay Caroline Boje,-337.0,11.04.2023,Zoobidoo dog food,95.0,0
+negative,11.04.2023,ZooBiiDoo 45660,-95.0,08.04.2023,Supermarket ,648.06,0
+negative,11.04.2023,LIDL 82550,-648.06,11.04.2023,B-skat,1697.0,0
+negative,11.04.2023,B Skat 20 04 2023,-1697.0,11.04.2023,Airport parking Formentera ,899.0,0
+negative,11.04.2023,CPH Parkering A S 90710,-899.0,12.04.2023,Salines Hyères bungalow,2057.0,0
+negative,12.04.2023,SALINES HYERES,-2057.0,12.04.2023,Supermarket ,667.55,0
+negative,12.04.2023,SuperB Solrød 67059,-667.55,11.04.2023,Parking ,11.5,0
+negative,14.04.2023,PAYPAL EASYPARK AS 35314369001,-11.5,16.04.2023,Mc Donald ,251.0,0
+negative,19.04.2023,McD 0107 SOLROD Karlslunde,-251.0,19.04.2023,Benzina ,500.34,0
+negative,20.04.2023,Q8 Service 8042 71234,-500.34,22.04.2023,Supermarket ,590.65,0
+negative,24.04.2023,SuperB Solrød 73998,-590.65,25.04.2023,Hotel paternity,4271.69,0
+negative,25.04.2023,Hotel at Booking com Amsterdam,-4271.69,23.04.2023,Mc Donald ,222.0,0
+negative,26.04.2023,McDonalds 107 Karlslunde,-222.0,27.04.2023,Hotel Milan,3898.74,0
+negative,27.04.2023,WWW ITALIANWAY HOUSE MILANO,-3898.74,28.04.2023,Mortgage,7300.0,0
+negative,28.04.2023,Transfer to budget,-7300.0,01.05.2023,Insurance car,494.42,0
+negative,01.05.2023,Gjensidige Forsikring D,-494.42,01.05.2023,Lidl,618.1,0
+negative,01.05.2023,LIDL 17175,-618.1,01.05.2023,Clothes,899.95,0
+negative,01.05.2023,l5ud0,-899.95,02.05.2023,Gcp,234.97,0
+negative,03.05.2023,GOOGLE CLOUD FVZVXC CC,-234.97,04.05.2023,Supermarket ,207.85,0
+negative,04.05.2023,SuperB Solrød 82217,-207.85,05.05.2023,Spotify ,62.0,0
+negative,05.05.2023,MobilePay Caroline Boje,-62.0,08.05.2023,Super brugsen,394.7,0
+negative,08.05.2023,SuperB Solrød 83869,-394.7,07.05.2023,Mc Donald ,217.0,0
+negative,10.05.2023,McDonalds 107 Karlslunde,-217.0,10.05.2023,Protein powder ,339.0,0
+negative,12.05.2023,KLARNA BODYSTORE DK STOCKHOLM,-339.0,14.05.2023,Mc Donald ,267.0,0
+negative,17.05.2023,McDonalds 107 Karlslunde,-267.0,19.05.2023,Supermarket ,632.8,0
+negative,22.05.2023,LIDL 09917,-632.8,22.05.2023,Supermarket ,358.85,0
+negative,22.05.2023,SuperB Solrød 92863,-358.85,23.05.2023,Hotel booking,4449.93,0
+negative,23.05.2023,Hotel at Booking com Amsterdam,-4449.93,25.05.2023,Adobe,95.33,0
+negative,25.05.2023,PAYPAL ADOBESYSTEM 35314369001,-95.33,27.05.2023,Toothpaste,34.9,0
+negative,30.05.2023,Matas 18732 32526,-34.9,30.05.2023,Mechanic (wheels),5950.0,0
+negative,30.05.2023,SLOTHS AUTO ApS 01784,-5950.0,31.05.2023,Mortgage,7300.0,0
+negative,31.05.2023,Transfer to budget,-7300.0,28.05.2023,Mc donald,220.0,0
+negative,31.05.2023,McDonalds 107 Karlslunde,-220.0,01.06.2023,A Kasse,517.0,0
+negative,01.06.2023,HK Handels og Kontorf,-517.0,01.06.2023,Car insurance,494.42,0
+negative,01.06.2023,Gjensidige Forsikring D,-494.42,01.06.2023,Lagkagehuset,152.75,0
+negative,01.06.2023,271 Lagkagehuset 55880,-152.75,02.06.2023,Food Formentera,738.27,0
+negative,02.06.2023,MEDITERRANEA LA NAVIERA D IBIZA,-738.27,02.06.2023,Formentera market,224.45,0
+negative,02.06.2023,FORMENTERA MARKET FORMENTERA,-224.45,02.06.2023,Taxi Formentera,142.55,0
+negative,02.06.2023,TAXI 1005 SAN JOSE EIVISSA,-142.55,01.06.2023,Restaurant Formentera ,1376.37,0
+negative,06.06.2023,RTE BOCASALINA FORMENTERA ES,-1376.37,06.06.2023,Supermarket ,445.3,0
+negative,07.06.2023,LIDL 20453,-445.3,07.06.2023,Coursera,357.92,0
+negative,07.06.2023,PAYPAL HELPCOURSER 2I,-357.92,07.06.2023,Supermarket ,281.1,0
+negative,07.06.2023,SuperB Solrød 01717,-281.1,11.06.2023,Insurances,337.0,0
+negative,11.06.2023,MobilePay Caroline Boje,-337.0,09.06.2023,Supermarket ,849.45,0
+negative,12.06.2023,Fisketorvet Føtex 21495,-849.45,12.06.2023,Bridge,270.0,0
+negative,12.06.2023,Storebæltsforbinde 16911,-270.0,12.06.2023,Food highway,203.95,0
+negative,13.06.2023,Q8 Service 8101 82022,-203.95,12.06.2023,Food Hamburg,731.91,0
+negative,14.06.2023,Estancia Steaks Philipp,-731.91,13.06.2023,Supermarket Haag,504.81,0
+negative,15.06.2023,SHELL 0002 HAMBURG,-360.87,12.06.2023,Holiday Inn Hamburg,372.65,0
+negative,15.06.2023,HOLIDAY INN HAFEN CITY HAMBURG,-372.65,15.06.2023,Cafe,70.81,0
+negative,19.06.2023,Q Park Torengarage,-173.68,19.06.2023,Etretat parking,223.6,0
+negative,19.06.2023,Commune Etretat,-223.6,19.06.2023,Etretat,89.44,0
+negative,20.06.2023,Carrefour City,-88.68,20.06.2023,Parking etretat,81.97,0
+negative,20.06.2023,Commune Etretat,-81.97,20.06.2023,Boulangerie,89.43,0
+negative,20.06.2023,L AIGUILLE CREUSE,-89.43,21.06.2023,Autoroute Vacation,10.43,0
+negative,21.06.2023,CARREFOUR CITY 03665,-8.57,21.06.2023,Etretat,37.26,0
+negative,21.06.2023,Commune Etretat,-37.26,21.06.2023,Autoroute,70.05,0
+negative,22.06.2023,Boutique Mere Poula,-51.41,22.06.2023,Delices,67.05,0
+negative,22.06.2023,Delices Malouins,-67.05,23.06.2023,Saint Malo,267.47,0
+negative,23.06.2023,Hariet Et Rosie,-267.47,23.06.2023,Sushi Nantes,291.32,0
+negative,23.06.2023,Sushi Shop,-291.32,24.06.2023,Mobile pay Caro,560.0,0
+negative,24.06.2023,MobilePay Caroline Boje,-560.0,26.06.2023,Vacances,45.44,0
+negative,26.06.2023,REL DE VERTOU,-45.44,26.06.2023,Autoroute,238.39,0
+negative,27.06.2023,PAYPAL ADOBESYSTEM 35314369001,-95.34,28.06.2023,Autoroute vacation ,8.93,0
+negative,28.06.2023,Autoroutes Du S,-8.93,28.06.2023,Food vacation ,335.2,0
+negative,29.06.2023,INDIGO 640006,-315.79,29.06.2023,Supermarket Vacances ,81.92,0
+negative,29.06.2023,SPAR SARL RCK,-81.92,30.06.2023,Carrefour ,113.58,0
+negative,30.06.2023,APPLE COM BILL 80249625,-45.0,02.01.2019,Føtex friends,569.85,0
+negative,02.01.2019,Fisketorvet Føtex 08977,-569.85,02.01.2019,Tivoli for all,720.0,0
+negative,02.01.2019,TIVOLI DK,-720.0,02.01.2019,Brioches friends,39.0,0
+negative,02.01.2019,Brioche Dorée 59036,-39.0,03.01.2019,Green mobiity,189.0,0
+negative,03.01.2019,VDK DKK 189 00,-189.0,03.01.2019,Media license,82.0,0
+negative,03.01.2019,MobilePay Caroline Boje,-82.0,04.01.2019,GreenMobility,80.5,0
+negative,04.01.2019,VDK DKK 80 50,-80.5,05.01.2019,Globe,1499.0,0
+negative,07.01.2019,69419,-1499.0,06.01.2019,Supermarket: Føtex,272.1,0
+negative,07.01.2019,Fisketorvet Føtex 14002,-272.1,06.01.2019,Mc Donald,202.0,0
+negative,07.01.2019,MCDONALDS FISKETOR 67995,-202.0,09.01.2019,Ago medicine,117.0,0
+negative,09.01.2019,MobilePay Caroline Boje,-117.0,11.01.2019,Supermarket: Føtex,95.3,0
+negative,11.01.2019,Fisketorvet Føtex 12563,-95.3,12.01.2019,Supermarket: Føtex,115.0,0
+negative,13.01.2019,MobilePay Caroline Boje,-115.0,12.01.2019,F,65.65,0
+negative,14.01.2019,Fisketorvet Føtex 82993,-65.65,14.01.2019,Supermarket: Føtex,124.0,0
+negative,14.01.2019,MobilePay Caroline Boje,-124.0,17.01.2019,Amazon books,171.65,0
+negative,17.01.2019,VDK DKK 171 65,-171.65,20.01.2019,Supermarket: Føtex,443.5,0
+negative,21.01.2019,Fisketorvet Føtex 14243,-443.5,26.01.2019,Taxa Airport KL,284.0,0
+negative,28.01.2019,Taxa 4 X 35,-284.0,29.01.2019,Prelievo KL,490.95,0
+negative,29.01.2019,VDK MYR 300 00,-490.95,31.01.2019,Supermarket: Føtex,266.1,0
+negative,31.01.2019,Fisketorvet Føtex 45361,-266.1,01.02.2019,Insurance Ago,382.16,0
+negative,01.02.2019,If Skadeforsikring,-382.16,04.02.2019,Protein,479.0,0
+negative,04.02.2019,VDK DKK 479 00,-479.0,03.02.2019,Bottle Agomas Caro Illum,119.95,0
+negative,04.02.2019,Illums Bolighus 88690,-119.95,07.02.2019,Ago operazione denti,3068.34,0
+negative,07.02.2019,Bryggens Dyreklini 14595,-3068.34,11.02.2019,Illum,135.0,0
+negative,11.02.2019,ILLUM 51553,-135.0,12.02.2019,Supermarket: Føtex,264.75,0
+negative,12.02.2019,Fisketorvet Føtex 47482,-264.75,17.02.2019,Pants bertoni,1199.0,0
+negative,18.02.2019,Bertoni Fisketorve 77282,-1199.0,22.02.2019,Supermarket: Føtex,108.8,0
+negative,22.02.2019,Fisketorvet Føtex 84953,-108.8,25.02.2019,Supermarket: Føtex,84.98,0
+negative,25.02.2019,Fisketorvet Føtex 90903,-84.98,26.02.2019,Supermarket: Føtex,73.95,0
+negative,26.02.2019,Fisketorvet Føtex 33886,-73.95,28.02.2019,Fine Ørsted PI Planning Skærbæk,1000.0,0
+negative,28.02.2019,Fine Ørsted car,-1000.0,02.03.2019,Supermarket: Føtex,319.75,0
+negative,04.03.2019,Fisketorvet Føtex 56302,-319.75,06.03.2019,Supermarket: Føtex,392.78,0
+negative,06.03.2019,Fisketorvet Føtex 58243,-392.78,10.03.2019,Cinema Captain Marvel,244.0,0
+negative,11.03.2019,CINEMAXX FISKETORV 33875,-244.0,12.03.2019,Føtex,113.45,0
+negative,12.03.2019,Fisketorvet Føtex 95006,-113.45,17.03.2019,Supermarket: Føtex,188.6,0
+negative,18.03.2019,Fisketorvet Føtex 04330,-188.6,16.03.2019,Green mob ballet,48.0,0
+negative,19.03.2019,VDK DKK 48 00,-48.0,16.03.2019,Flight Perm wedding Julia,2386.0,0
+negative,21.03.2019,VDK DKK 2386 00,-2386.0,24.03.2019,Airport taxi to Milano,279.0,0
+negative,25.03.2019,50360,-279.0,28.04.2019,Churros Tivoli,70.0,0
+negative,01.04.2019,Total fees,-70.0,01.10.2021,Dentist,353.19,0
+negative,04.10.2021,Solrød Tandklinik 78068,-353.19,01.10.2021,Park,43.07,0
+negative,05.10.2021,PAYPAL EASYPARK AS 35314369001,-43.07,09.10.2022,Mc Donald ,245.0,0
+negative,11.10.2021,Storebæltsforbinde 22556,-245.0,17.10.2021,Water,2600.0,0
+negative,17.10.2021,MobilePay SOLRØD SPILDEVAND A S,-2600.0,17.10.2021,B-Skat,1262.0,0
+negative,18.10.2021,B Skat 20 10 2021,-1262.0,25.10.2021,Supermarket ,743.9,0
+negative,27.10.2021,SOLROED FDB SUPERBRUGSEN,-743.9,25.10.2021,Volo milank,1310.19,0
+negative,28.10.2021,RYANAIR PAYPAL COM,-1310.19,28.10.2021,Supermarket ,407.65,0
+negative,28.10.2021,SuperB Solrød 24820,-407.65,01.11.2021,Doggy food,352.85,0
+negative,01.11.2021,Maxi Zoo Gentofte 21354,-352.85,03.11.2021,Food Loki ,288.9,0
+negative,05.11.2021,3101 MAXI ZOO GENTOFTE GENTOFTE,-288.9,08.11.2021,Cph parking,704.0,0
+negative,08.11.2021,CPH Parkering A S 63066,-704.0,07.11.2021,Bauhaus,679.9,0
+negative,09.11.2021,BAUHAUS ISHOEJ ISHOEJ,-679.9,14.11.2021,Dog and Verisure,477.0,0
+negative,14.11.2021,MobilePay Caroline Boje,-477.0,18.11.2021,Supermarket ,723.2,0
+negative,18.11.2021,SuperB Solrød 39740,-723.2,20.11.2021,B skat,1262.0,0
+negative,22.11.2021,B Skat 20 11 2021,-1262.0,24.11.2021,Parking ,46.58,0
+negative,29.11.2021,PAYPAL EASYPARK AS 35314369001,-46.58,27.11.2021,Supermarket ,723.55,0
+negative,30.11.2021,FOETEX FISKETOR KOEBENHAVN V,-723.55,26.11.2021,Cadeau Caro,1836.8,0
+negative,30.11.2021,PAYPAL PANDORA AS 35314369001,-1836.8,29.11.2021,Benzina ,450.26,0
+negative,30.11.2021,Q8 Service 8042 57611,-450.26,02.12.2021,Supermarket ,510.7,0
+negative,06.12.2021,SOLROED FDB SUPERBRUGSEN,-510.7,06.12.2021,Supermarket ,660.3,0
+negative,08.12.2021,SOLROED FDB SUPERBRUGSEN,-660.3,07.12.2021,Cadeau Caroline ,238.0,0
+negative,13.12.2021,PAYPAL UNIQLOEUROP 35314369001,-238.0,11.12.2021,Supermarket ,67.5,0
+negative,14.12.2021,SOLROED FDB SUPERBRUGSEN,-67.5,14.12.2021,Supermarket ,591.75,0
+negative,16.12.2021,SOLROED FDB SUPERBRUGSEN,-591.75,15.12.2021,food airport,85.0,0
+negative,17.12.2021,ESPRESSO HOUSE 7160 T3 KASTRUP,-85.0,20.12.2021,Winter tires,3920.0,0
+negative,20.12.2021,SLOTHS AUTO ApS 01404,-3920.0,19.12.2021,Pastries ,170.0,0
+negative,21.12.2021,267 LAGKAGHUSET SOLROED,-170.0,20.12.2021,Supermarket ,396.8,0
+negative,22.12.2021,SOLROED FDB SUPERBRUGSEN,-396.8,27.12.2021,Storbæltbroen,245.0,0
+negative,27.12.2021,Storebæltsforbinde 67123,-245.0,26.12.2021,Pizza,236.0,0
+negative,28.12.2021,Just Eat dk Copenhagen,-236.0,23.12.2021,Tube repair ,89.9,0
+negative,28.12.2021,BAUHAUS ISHOEJ ISHOEJ,-89.9,27.12.2021,Guanti,120.0,0
+negative,29.12.2021,SPORT24 OUTLET ISHOEJ ISHOEJ,-120.0,02.01.2023,Bauhaus,2429.2,0
+negative,02.01.2023,BAUHAUS Ishøj 97216,-2429.2,01.01.2023,Benzina,500.57,0
+negative,02.01.2023,Q8 Service 8042 66938,-500.57,01.01.2023,Mc Donald ,277.0,0
+negative,03.01.2023,McDonalds Solroed rest,-277.0,03.01.2023,Supermarket ,29.0,0
+negative,03.01.2023,SuperB Solrød 05011,-29.0,07.01.2023,Supermarket ,320.66,0
+negative,09.01.2023,LIDL 04152,-320.66,09.01.2023,Pappa Loki,243.9,0
+negative,09.01.2023,Maxi Zoo Gentofte 74854,-243.9,09.01.2023,Cutting board,153.95,0
+negative,10.01.2023,Bahne Fisketorvet 23978,-153.95,09.01.2023,Brosse à dents,599.0,0
+negative,10.01.2023,Elgiganten 3016 40096,-599.0,11.01.2023,Lidl,490.1,0
+negative,11.01.2023,LIDL 08073,-490.1,15.01.2023,Bauhaus,582.6,0
+negative,16.01.2023,BAUHAUS Ishøj 06200,-582.6,15.01.2023,Mc Donald ,286.0,0
+negative,17.01.2023,McDonalds Solroed rest,-286.0,17.01.2023,Benzina ,500.2,0
+negative,18.01.2023,Q8 Service 8042 76980,-500.2,22.01.2023,Formula,648.75,0
+negative,22.01.2023,MobilePay Caroline Boje,-648.75,26.01.2023,Falck deer removal,1000.0,0
+negative,26.01.2023,MobilePay FALCK FAN,-1000.0,28.01.2023,Supermarket ,712.6,0
+negative,30.01.2023,LIDL 25343,-712.6,31.01.2023,Apple app,45.0,0
+negative,31.01.2023,APPLE COM BILL 80249625,-45.0,01.02.2023,A-kasse,517.0,0
+negative,01.02.2023,HK Handels og Kontorf,-517.0,01.02.2023,Insurance car,494.42,0
+negative,01.02.2023,Gjensidige Forsikring D,-494.42,01.02.2023,Airbnb hotel,18769.35,0
+negative,01.02.2023,PAYPAL AIRBNB HMPF8N,-18769.35,05.02.2023,Mc Donald ,219.0,0
+negative,05.02.2023,MobilePay McDonald s Motelvej So,-219.0,04.02.2023,Supermarket ,605.45,0
+negative,06.02.2023,SuperB Solrød 25356,-605.45,08.02.2023,Supermarket ,368.65,0
+negative,08.02.2023,SuperB Solrød 28489,-368.65,12.02.2023,Supermarket ,1442.05,0
+negative,13.02.2023,Fisketorvet Føtex 77421,-1442.05,12.02.2023,Dog stuff,107.0,0
+negative,13.02.2023,ZooBiiDoo 39920,-107.0,12.02.2023,El bill 2022,33300.75,0
+negative,13.02.2023,Electricity bill 202,-33300.75,12.02.2023,Mc Donald ,256.0,0
+negative,14.02.2023,McDonalds Solroed rest,-256.0,19.02.2023,Mc Donald ,253.0,0
+negative,19.02.2023,MobilePay McDonald s Motelvej So,-253.0,22.02.2023,Popcorn cinema,69.0,0
+negative,22.02.2023,Bigbio Nordhavn 84119,-69.0,22.02.2023,Parking cinema,25.63,0
+negative,27.02.2023,PAYPAL EASYPARK AS 35314369001,-25.63,25.02.2023,Ikea,399.0,0
+negative,27.02.2023,IKEA 094 HFB ECO 02277,-399.0,28.02.2023,Mortgage,7300.0,0
+negative,28.02.2023,Transfer to budget,-7300.0,01.03.2023,Car insurance ,494.42,0
+negative,01.03.2023,Gjensidige Forsikring D,-494.42,01.03.2023,Mobile pay Caro,955.0,0
+negative,02.03.2023,MobilePay Caroline Boje,-955.0,02.03.2023,Insurances,337.0,0
+negative,02.03.2023,MobilePay Caroline Boje,-337.0,03.03.2023,GCP,220.22,0
+negative,03.03.2023,Google CLOUD z8VSMz Milan,-220.22,06.03.2023,Supermarket ,243.15,0
+negative,06.03.2023,SuperB Solrød 44778,-243.15,08.03.2023,Mc Donald,282.0,0
+negative,08.03.2023,McD 0107 SOLROD Karlslunde,-282.0,09.03.2023,Benzina ,400.02,0
+negative,10.03.2023,Q8 Service 8042 37010,-400.02,11.03.2023,Supermarket ,375.55,0
+negative,13.03.2023,LIDL 67548,-375.55,12.03.2023,Mc Donald ,240.0,0
+negative,15.03.2023,McD 0107 SOLROD Karlslunde,-240.0,17.03.2023,Supermarket ,674.0,0
+negative,17.03.2023,SuperB Solrød 53160,-674.0,19.03.2023,Supermarket ,13.5,0
+negative,20.03.2023,Meny Solrød str 85863,-13.5,22.03.2023,Mc Donald,225.0,0
+negative,22.03.2023,McD 0107 SOLROD Karlslunde,-225.0,23.03.2023,Benzina,605.77,0
+negative,24.03.2023,Q8 Service 8042 47540,-605.77,27.03.2023,Supermarket ,1244.75,0
+negative,28.03.2023,Fisketorvet Føtex 00458,-1244.75,29.03.2023,Haircut,369.0,0
+negative,29.03.2023,Kim Q Hair design 20036,-369.0,31.03.2023,Mortgage,7300.0,0
+negative,31.03.2023,Transfer to budget,-7300.0,29.07.2019,Taxi airport,200.0,0
+negative,03.07.2020,MobilePay Caroline Boje,200.0,15.07.2022,Colazione autoroute,8.0,0
+negative,21.07.2020,GREENMOBILITY A S KBENHAVN K,-8.0,03.07.2021,Haircut,325.0,0
+negative,22.07.2020,Kim Q Hair design 12454,-325.0,22.07.2018,Cadeau Gigi,39.95,0
+negative,28.07.2020,SILVAN 637 Fisketo 98198,-39.95,06.09.2020,Bauhaus,499.7,0
+negative,07.09.2020,BAUHAUS Ishøj 72366,-499.7,10.09.2020,Supermarket ,226.18,0
+negative,10.09.2020,Meny Solrød str 04294,-226.18,20.09.2020,Electricity havneholmen ,954.35,0
+negative,21.09.2020,Electricity Havneh,-954.35,01.07.2023,A-kasse,517.0,0
+negative,01.07.2022,HK Handels og Kontorf,-517.0,22.07.2018,Stuff for house,65.85,0
+negative,04.07.2022,Google CLOUD WBFvQD Milan,-65.85,18.07.2022,B Skat,1069.0,0
+negative,18.07.2022,B Skat 20 07 2022,-1069.0,17.07.2022,Gips,1482.32,0
+negative,19.07.2022,45562,-1482.32,22.07.2022,Supermarket ,954.65,0
+negative,22.07.2022,SuperB Solrød 18695,-954.65,24.07.2022,Baby changing mat,800.0,0
+negative,24.07.2022,MobilePay Caroline Boje,-800.0,25.07.2022,Supermarket ,118.95,0
+negative,25.07.2022,SuperB Solrød 02866,-118.95,27.07.2022,Dinner Frederik,740.0,0
+negative,27.07.2022,MobilePay Caroline Boje,-740.0,30.07.2022,Sticker baby room,808.0,0
+negative,30.07.2022,MobilePay Caroline Boje,-808.0,04.08.2022,Supermarket ,349.35,0
+negative,04.08.2022,LIDL 43152,-349.35,03.08.2022,Mc donalds for cinema,77.0,0
+negative,05.08.2022,MCDONALDS FISKETORVET Koebenhavn,-77.0,05.08.2022,Caroline house expenses,328.0,0
+negative,05.08.2022,MobilePay Caroline Boje,-328.0,07.08.2022,Supermarket ,1278.85,0
+negative,08.08.2022,SuperB Solrød 11086,-1278.85,06.08.2022,Amazon stuff for home,330.7,0
+negative,09.08.2022,AMZN Mktp DE T811K2Z15 AMAZON DE,-330.7,11.08.2022,Bollo auto,600.0,0
+negative,11.08.2022,Bollo auto,-600.0,13.08.2022,Bauhaus pool and paint,1447.83,0
+negative,15.08.2022,BAUHAUS Ishøj 99340,-1447.83,20.08.2022,Baby brezza,2195.0,0
+negative,22.08.2022,Babysam Tåstrup 59669,-2195.0,22.08.2022,Baby sam sterilizer & stuff,1058.9,0
+negative,22.08.2022,Babysam Tåstrup 59845,-1058.9,22.08.2022,Mc Donald ,221.0,0
+negative,24.08.2022,McDonalds Solroed rest,-221.0,24.08.2022,Supermarket ,612.1,0
+negative,24.08.2022,SuperB Solrød 23800,-612.1,28.08.2022,Supermarket ,277.05,0
+negative,29.08.2022,LIDL 69352,-277.05,29.08.2022,Baby sam,1144.95,0
+negative,29.08.2022,Babysam Køge 97669,-1144.95,31.08.2022,Medicine Loki and formula Noah,624.85,0
+negative,31.08.2022,Solrød Apotek 02326,-624.85,29.09.2023,Niels Present,70.0,0
+negative,01.09.2022,MobilePay Lasse gift,-70.0,03.09.2022,Supermarket ,443.51,0
+negative,05.09.2022,SuperB Solrød 31951,-443.51,04.09.2022,Supermarket ,55.0,0
+negative,05.09.2022,SuperB Solrød 32726,-55.0,04.09.2022,Mc Donald ,282.0,0
+negative,06.09.2022,McDonalds Solroed rest,-282.0,08.09.2022,Insurances Mobile pay,328.0,0
+negative,08.09.2022,MobilePay Caroline Boje,-328.0,10.09.2022,Føtex,1066.2,0
+negative,12.09.2022,Fisketorvet Føtex 26703,-1066.2,10.09.2022,Amazon lights,1281.06,0
+negative,14.09.2022,AMZN Mktp DE 6Q54X3945 AMAZON DE,-1281.06,17.09.2022,Cadeau Charlotte,770.0,0
+negative,17.09.2022,MobilePay Caroline Boje,-770.0,19.09.2022,Supermarket ,722.05,0
+negative,19.09.2022,SuperB Solrød 29676,-722.05,25.09.2019,MobilePay Gift for Christia...,50.0,0
+negative,20.09.2022,CPH Parkering A S 69818,-50.0,20.09.2022,Food,115.0,0
+negative,22.09.2022,Pitanordic ApS 17467,-115.0,22.09.2022,Food lunch,389.0,0
+negative,22.09.2022,COULOIR ApS 30323,-389.0,07.09.2018,Føtex,400.0,0
+negative,23.09.2022,Øresundsbroen m SE 20381,-400.0,07.09.2018,Føtex,400.0,0
+negative,26.09.2022,ØRESUNDSBROEN 59015,-400.0,22.09.2022,Parking,32.89,0
+negative,27.09.2022,PAYPAL EASYPARK AS 35314369001,-32.89,27.09.2022,Service,5114.05,0
+negative,28.09.2022,KROGSGAARD JENSEN 54415,-5114.05,17.07.2018,Nike gym shirt,199.0,0
+negative,02.07.2018,MCDONALDS FISKETOR 08975,-199.0,01.07.2018,Fotex,271.99,0
+negative,02.07.2018,Fisketorvet Føtex 96514,-271.99,12.07.2018,Fotex,300.0,0
+negative,03.07.2018,MobilePay Caroline Boje,-300.0,05.07.2018,Fotex,220.0,0
+negative,05.07.2018,MobilePay Caroline Boje,-220.0,08.07.2018,Zara pants,318.0,0
+negative,09.07.2018,ZARA FISKETORVERT 85052,-318.0,08.07.2018,Havneholmen electricity,2279.54,0
+negative,09.07.2018,Electricity bill,-2279.54,12.07.2018,Fotex,300.0,0
+negative,12.07.2018,MobilePay Caroline Boje,-300.0,17.07.2018,Fotex,207.25,0
+negative,17.07.2018,Fisketorvet Føtex 68519,-207.25,17.07.2018,Selfie stick,79.0,0
+negative,18.07.2018,19846,-79.0,20.07.2018,Fotex,187.25,0
+negative,20.07.2018,Fisketorvet Føtex 43894,-187.25,22.07.2018,Stuff for house,65.85,0
+negative,23.07.2018,PLINT 70403,-65.85,22.07.2018,Cheesecake,127.0,0
+negative,24.07.2018,VDK DKK 127 00,-127.0,30.07.2018,Train from airport,24.0,0
+negative,26.07.2018,VDK DKK 24 00,-24.0,04.08.2018,Concert caro,500.0,0
+negative,04.08.2018,MobilePay Caroline Boje,-500.0,06.08.2021,Supermarket ,19.95,0
+negative,06.08.2018,LIDL 14609,-19.95,04.08.2018,Fotex,5.95,0
+negative,06.08.2018,Fisketorvet Føtex 24578,-5.95,05.08.2018,Føtex,289.75,0
+negative,06.08.2018,Fisketorvet Føtex 56563,-289.75,22.08.2018,Luggage Caro NY,1200.0,0
+negative,22.08.2018,MobilePay Caroline Boje,-1200.0,21.08.2018,Pendlekort,700.0,0
+negative,23.08.2018,VDK DKK 700 00,-700.0,23.08.2018,Fotex,57.7,0
+negative,23.08.2018,Fisketorvet Føtex 30985,-57.7,25.08.2018,Caroline NY,750.0,0
+negative,25.08.2018,MobilePay Caroline Boje,-750.0,26.08.2018,Føtex,333.6,0
+negative,27.08.2018,Fisketorvet Føtex 62062,-333.6,29.08.2018,Fotex,162.75,0
+negative,29.08.2018,Fisketorvet Føtex 33049,-162.75,31.08.2018,Mc donald,209.0,0
+negative,31.08.2018,MCDONALDS FISKETOR 31357,-209.0,02.09.2018,Media license,108.0,0
+negative,02.09.2018,MobilePay Caroline Boje,-108.0,01.09.2018,Fotex,595.95,0
+negative,03.09.2018,Fisketorvet Føtex 60966,-595.95,01.09.2018,Ikea,1309.0,0
+negative,03.09.2018,Ikea 121 ECO 48445,-1309.0,01.09.2018,Ikea,429.0,0
+negative,03.09.2018,Ikea 121 ECO 58200,-429.0,02.09.2018,Føtex,96.95,0
+negative,03.09.2018,Fisketorvet Føtex 29788,-96.95,07.09.2018,Føtex,400.0,0
+negative,07.09.2018,MobilePay Caroline Boje,-400.0,07.09.2018,Ikea,19.0,0
+negative,10.09.2018,Ikea 121 ECO 58948,-19.0,12.09.2018,Føtex,270.0,0
+negative,12.09.2018,MobilePay Caroline Boje,-270.0,13.09.2018,Zara,698.0,0
+negative,13.09.2018,ZARA FISKETORVERT 82995,-698.0,14.09.2018,Føtex,280.0,0
+negative,14.09.2018,MobilePay Caroline Boje,-280.0,15.09.2018,Cable dvd,149.0,0
+negative,17.09.2018,Elgiganten 3016 69507,-149.0,16.09.2018,Føtex,225.8,0
+negative,17.09.2018,Fisketorvet Føtex 39293,-225.8,20.09.2018,Føtex,180.0,0
+negative,20.09.2018,MobilePay Caroline Boje,-180.0,21.09.2018,Føtex,57.4,0
+negative,21.09.2018,Fisketorvet Føtex 41361,-57.4,22.09.2018,Brunch Phønix,278.0,0
+negative,24.09.2018,Restaurant Phønix 57368,-278.0,23.09.2018,Zara pants,1037.0,0
+negative,24.09.2018,ZARA FISKETORVERT 99581,-1037.0,23.09.2018,Porta spezie cucina,249.95,0
+negative,24.09.2018,BAHNE FISKETORVET 39994,-249.95,24.09.2018,Tennis balls for ago,100.0,0
+negative,24.09.2018,SPORT 24 FISKETORV 52774,-100.0,02.01.2020,License Denmark,280.0,0
+negative,02.01.2020,Kbh s Borgerservi 44130,-280.0,01.01.2020,Hotel Paris,3613.03,0
+negative,03.01.2020,PAYPAL BOOKING COM 35314369001,-3613.03,01.01.2020,Trip Milan March,366.58,0
+negative,03.01.2020,EASYJET EASYJET,-366.58,04.01.2020,Bed,12000.0,0
+negative,06.01.2020,Schwarz Senge 08072,-12000.0,04.01.2020,Ikea,858.0,0
+negative,06.01.2020,Ikea 121 ECO 61769,-858.0,04.01.2020,Green mobility ,56.0,0
+negative,07.01.2020,GREENMOBILITY A S KBENHAVN K,-56.0,04.01.2020,Green mobility ,96.0,0
+negative,07.01.2020,GREENMOBILITY A S KBENHAVN K,-96.0,07.01.2020,Supermarket: Føtex,104.85,0
+negative,07.01.2020,Fisketorvet Føtex 91070,-104.85,13.01.2020,San Francisco,20.54,0
+negative,13.01.2020,CVS PHARMACY Æ10035 SAN,-20.54,13.01.2020,San Francisco,47.45,0
+negative,14.01.2020,STARBUCKS STORE 10892 SAN,-47.45,13.01.2020,San Francisco,122.95,0
+negative,14.01.2020,PAYPAL UBER 4029357733,-122.95,13.01.2020,San Francisco,56.17,0
+negative,14.01.2020,PAYPAL UBER 4029357733,-56.17,13.01.2020,San Francisco,180.32,0
+negative,14.01.2020,PAYPAL UBER 4029357733,-180.32,13.01.2020,San Francisco,769.22,0
+negative,14.01.2020,ALEXANDER BOOK CO SAN FRANCISCO,-769.22,13.01.2020,San Francisco,442.3,0
+negative,14.01.2020,TAXI RIDE USA COM 2 NEW HYDE,-442.3,13.01.2020,San Francisco,364.47,0
+negative,14.01.2020,101 MONTGOMERY ST SAN FRANCISCO,-364.47,13.01.2020,San Francisco,57.76,0
+negative,14.01.2020,STARBUCKS STORE 49304 SAN,-57.76,13.01.2020,San Francisco,91.35,0
+negative,14.01.2020,PAYPAL UBER 4029357733,-91.35,13.01.2020,San Francisco,199.42,0
+negative,14.01.2020,PAYPAL UBER 4029357733,-199.42,13.01.2020,San Francisco,274.38,0
+negative,14.01.2020,ALCATRAZ CRUISES SAN FRANCISCO,-274.38,13.01.2020,San Francisco,148.18,0
+negative,15.01.2020,TST QUEEN S LOUISIANA PO SAN,-148.18,13.01.2020,San Francisco,70.85,0
+negative,15.01.2020,PAYPAL UBER 4029357733,-70.85,13.01.2020,San Francisco,39.44,0
+negative,15.01.2020,STARBUCKS STORE 00603 SAN,-39.44,13.01.2020,San Francisco,3527.25,0
+negative,16.01.2020,CLUB QUARTERS SAN FRAN SAN,-3527.25,13.01.2020,San Francisco,122.36,0
+negative,20.01.2020,PAYPAL UBER 4029357733,-122.36,13.01.2020,San Francisco,37.2,0
+negative,21.01.2020,STARBUCKS EVE IAD DULLES,-37.2,19.01.2020,Backpack,262.2,0
+negative,22.01.2020,AMZNMktplace amazon co uk,-262.2,24.01.2020,Føtex ,257.85,0
+negative,24.01.2020,Fisketorvet Føtex 48831,-257.85,28.01.2020,Supermarket: Føtex,268.7,0
+negative,28.01.2020,Fisketorvet Føtex 86066,-268.7,31.01.2020,Supermarket: Føtex,326.65,0
+negative,31.01.2020,Fisketorvet Føtex 69757,-326.65,03.02.2020,Insurance Ago,390.25,0
+negative,03.02.2020,If Skadeforsikring,-390.25,04.02.2020,Supermarket: Føtex,249.1,0
+negative,04.02.2020,Fisketorvet Føtex 79501,-249.1,03.02.2020,Train,720.0,0
+negative,05.02.2020,DINOFFENTLIGETRANSPORT VALBY,-720.0,07.02.2020,Supermarket: Føtex,290.1,0
+negative,07.02.2020,Fisketorvet Føtex 53680,-290.1,12.02.2020,Coffee Lorenzo,120.0,0
+negative,12.02.2020,Coffee Industri Sw 25710,-120.0,18.02.2020,Super,234.85,0
+negative,13.02.2020,Fisketorvet Føtex 39372,-234.85,16.02.2020,Silvan punte fresatrice,439.9,0
+negative,17.02.2020,SILVAN 637 Fisketo 96482,-439.9,16.02.2020,Green mobility ,88.0,0
+negative,18.02.2020,GREENMOBILITY A S KBENHAVN K,-88.0,19.02.2020,Improv commedy,190.0,0
+negative,19.02.2020,IMPROVCOMEDY EU KOBENHAVN K,-190.0,22.02.2020,Silvan plugs,259.9,0
+negative,24.02.2020,SILVAN 637 Fisketo 41334,-259.9,23.02.2020,Føtex ,314.97,0
+negative,24.02.2020,Fisketorvet Føtex 59927,-314.97,01.03.2020,Zara pants,299.0,0
+negative,02.03.2020,ZARA FISKETORVERT 03562,-299.0,03.03.2020,Cleaning lady ,170.0,0
+negative,03.03.2020,MobilePay Caroline Boje,-170.0,04.03.2020,Train,720.0,0
+negative,06.03.2020,DINOFFENTLIGETRANSPORT VALBY,-720.0,07.03.2020,Ago vet,824.4,0
+negative,09.03.2020,Bryggens Dyreklini 26844,-824.4,10.03.2020,Green mobility ,88.0,0
+negative,12.03.2020,GREENMOBILITY A S KBENHAVN K,-88.0,12.03.2020,Føtex ,795.2,0
+negative,12.03.2020,Fisketorvet Føtex 89810,-795.2,19.03.2020,Supermarket: Føtex,293.7,0
+negative,19.03.2020,Fisketorvet Føtex 45685,-293.7,22.03.2020,Supermarket: Føtex,151.75,0
+negative,23.03.2020,Fisketorvet Føtex 31835,-151.75,25.03.2020,Ago vet,2262.52,0
+negative,25.03.2020,Bryggens Dyreklini 27383,-2262.52,13.04.2022,Parking ,60.0,0
+negative,01.04.2020,Total fees,-60.0,07.04.2022,Car tax,665.0,0
+negative,07.04.2022,Bil tax,-665.0,13.04.2022,Bauhaus,647.55,0
+negative,13.04.2022,BAUHAUS Ishøj 96389,-647.55,13.04.2022,Parking ,60.0,0
+negative,19.04.2022,Fisketorvet 49228,-60.0,16.04.2022,Supermarket ,957.1,0
+negative,19.04.2022,Fisketorvet Føtex 83342,-957.1,18.04.2022,B-Skat 04.2022,1069.0,0
+negative,19.04.2022,B Skat 20 04 2022,-1069.0,22.04.2022,Dentist,556.95,0
+negative,25.04.2022,Solrød Tandklinik 75740,-556.95,27.04.2022,Supermarket ,97.8,0
+negative,27.04.2022,føtex food Kr Ber 54107,-97.8,27.04.2022,Benzina,648.99,0
+negative,28.04.2022,Q8 Service 8042 67191,-648.99,29.04.2022,Supermarket ,403.5,0
+negative,29.04.2022,SuperB Solrød 44055,-403.5,02.05.2022,Parking cph airport ,704.0,0
+negative,02.05.2022,CPH Parkering A S 18171,-704.0,02.05.2022,Ryanair Milano,856.19,0
+negative,04.05.2022,RYANAIR PAYPAL COM,-856.19,08.05.2022,Stroller,6078.4,0
+negative,09.05.2022,BabySam A S HQ 00198,-6078.4,08.05.2022,Supermarket ,499.53,0
+negative,09.05.2022,Fisketorvet Føtex 66246,-499.53,11.05.2022,Supermarket ,391.55,0
+negative,11.05.2022,LIDL 58177,-391.55,15.05.2022,Ikea,468.0,0
+negative,16.05.2022,IKEA 094 HFB ECO 02983,-468.0,23.05.2022,Supermarket ,638.9,0
+negative,23.05.2022,SuperB Solrød 60704,-638.9,29.05.2022,Supermarket ,788.95,0
+negative,30.05.2022,LIDL 74726,-788.95,27.05.2022,Epass24 Norway,66.4,0
+negative,30.05.2022,EPass Norway,-66.4,01.06.2022,Vitamins,427.9,0
+negative,01.06.2022,MobilePay Caroline Boje,-427.9,01.06.2022,B Skat,1069.0,0
+negative,01.06.2022,B Skat 20 05 2022,-1069.0,04.06.2022,Vacations Cannes Hot,15863.69,0
+negative,08.06.2022,PAYPAL BOOKING 35314369001,-15863.69,08.06.2022,Supermarket ,592.25,0
+negative,08.06.2022,SuperB Solrød 70646,-592.25,12.06.2022,Supermarket ,608.4,0
+negative,13.06.2022,LIDL 87942,-608.4,13.06.2022,Tax Consultant,10000.0,0
+negative,13.06.2022,Tax Return Faktura,-10000.0,13.06.2022,Dog food,249.0,0
+negative,14.06.2022,ZooBiiDoo 14095,-249.0,19.06.2022,Benzina,500.96,0
+negative,20.06.2022,Q8 Service 8042 10543,-500.96,28.06.2022,Tires change summer,850.0,0
+negative,29.06.2022,SLOTHS AUTO ApS 01584,-850.0,30.06.2022,Supermarket ,183.36,0
+negative,30.06.2022,SuperB Solrød 86548,-183.36,03.10.2022,Pappa Loki,198.95,0
+negative,03.10.2022,Maxi Zoo Gentofte 31308,-198.95,06.10.2022,Insurances etc,328.0,0
+negative,06.10.2022,MobilePay Caroline Boje,-328.0,07.10.2022,Parking (fine) fisketorvet,210.0,0
+negative,07.10.2022,SECURITAS A S,-210.0,10.10.2022,Supermarket ,599.65,0
+negative,10.10.2022,Fisketorvet Føtex 21631,-599.65,08.10.2022,Parking,45.71,0
+negative,11.10.2022,PAYPAL EASYPARK AS 35314369001,-45.71,11.10.2022,Supermarket ,355.95,0
+negative,11.10.2022,SuperB Solrød 45871,-355.95,13.10.2022,House Loan Closure,306589.32,0
+negative,13.10.2022,4011320147,-306589.32,17.10.2022,Supermarket ,631.7,0
+negative,17.10.2022,SuperB Solrød 50290,-631.7,13.10.2022,Course Udemy Swift,117.09,0
+negative,18.10.2022,PAYPAL UDEMY 35314369001,-117.09,24.10.2022,Supermarket ,164.9,0
+negative,24.10.2022,SuperB Solrød 53410,-164.9,25.10.2022,B-Skat 20.10.2022,1069.0,0
+negative,25.10.2022,B Skat 20 10 2022,-1069.0,24.10.2022,Mc Donald ,289.0,0
+negative,26.10.2022,McDonalds Solroed rest,-289.0,26.10.2022,Supermarket ,906.7,0
+negative,26.10.2022,SuperB Solrød 56531,-906.7,28.10.2022,Vinit present ,100.0,0
+negative,28.10.2022,MobilePay Mette Bigom Ryom Herold,-100.0,02.11.2022,Zara pants,522.0,0
+negative,03.11.2022,ZARA FISKETORVERT 67494,-522.0,06.11.2022,Insurances,328.0,0
+negative,06.11.2022,MobilePay Caroline Boje,-328.0,05.11.2022,Supermarket ,600.9,0
+negative,07.11.2022,SuperB Solrød 64247,-600.9,06.11.2022,Supermarket ,51.95,0
+negative,07.11.2022,SuperB Solrød 64932,-51.95,06.11.2022,Bakken parking,30.0,0
+negative,08.11.2022,4180 APCOA PARKING AS,-30.0,10.11.2022,Supermarket ,659.25,0
+negative,10.11.2022,SuperB Solrød 67854,-659.25,14.11.2022,Supermarket ,657.05,0
+negative,14.11.2022,SuperB Solrød 70914,-657.05,16.11.2022,Benzina,619.63,0
+negative,17.11.2022,Q8 Service 8042 30657,-619.63,20.11.2022,Mc Donald ,239.0,0
+negative,22.11.2022,McDonalds Solroed rest,-239.0,24.11.2022,Formula,599.75,0
+negative,24.11.2022,MobilePay Caroline Boje,-599.75,27.11.2022,Joe and the juice ,59.0,0
+negative,29.11.2022,JOE THE JUICE A S Kastrup,-59.0,01.12.2022,Car loan,2474.0,0
+negative,01.12.2022,Krogsgaard Finans,-2474.0,01.12.2022,Insurance,494.42,0
+negative,01.12.2022,Gjensidige Forsikring D,-494.42,01.12.2022,Books LV currency,6.43,0
+negative,01.12.2022,Udl kortbetaling 1 50 af DKK,-6.43,01.12.2022,Currency change,2.34,0
+negative,01.12.2022,Udl kortbetaling 1 50 af DKK,-2.34,01.12.2022,Currency change,0.57,0
+negative,02.12.2022,Udl kortbetaling 1 50 af DKK,-0.57,02.12.2022,Currency,1.13,0
+negative,02.12.2022,Udl kortbetaling 1 50 af DKK,-1.13,02.12.2022,Currency,0.7,0
+negative,02.12.2022,Udl kortbetaling 1 50 af DKK,-0.7,02.12.2022,Spotify,62.0,0
+negative,02.12.2022,MobilePay Caroline Boje,-62.0,06.12.2022,Cafe Las Vegas,66.84,0
+negative,06.12.2022,HGV LVBS FB LAS VEGAS,-66.84,06.12.2022,Starbucks Las Vegas,104.68,0
+negative,06.12.2022,VENETIAN STARBUCKS I LAS VEGAS,-104.68,06.12.2022,Las Vegas,58.78,0
+negative,06.12.2022,EXPO CONV CTR LAS VEGAS,-58.78,06.12.2022,Cafe Las Vegas,64.41,0
+negative,06.12.2022,HGV LVBS FB LAS VEGAS,-64.41,06.12.2022,Skywalk Canyon,69.54,0
+negative,06.12.2022,SKYWALK PHOTO PEACH SPRINGS,-69.54,06.12.2022,Grand Canyon tour,688.8,0
+negative,06.12.2022,GCW TOUR TERMINAL PEACH SPRINGS,-688.8,06.12.2022,Mc donald LV,119.4,0
+negative,06.12.2022,MCDONALD S F24108 LAS VEGAS,-119.4,06.12.2022,Starbucks,131.46,0
+negative,06.12.2022,VENETIAN STARBUCKS I LAS VEGAS,-131.46,06.12.2022,T shirt Psychobunny,502.42,0
+negative,06.12.2022,SP PSYCHO BUNNY 151 43459146,-502.42,06.12.2022,Karma present Caro,610.62,0
+negative,06.12.2022,SP KARMA LUCK 170 28681438,-610.62,06.12.2022,Books Las Vegas,973.6,0
+negative,06.12.2022,BARNES NOBLE Æ2128 LAS VEGAS,-973.6,06.12.2022,Squishybuzz Noah,459.91,0
+negative,06.12.2022,SQ SQUISHABLE COM Las Vegas,-459.91,06.12.2022, Mc donald Las Vegas,171.11,0
+negative,06.12.2022,MCDONALD S M4327 OF NV LAS VEGAS,-171.11,06.12.2022,Macy’s clothes Noah,294.65,0
+negative,06.12.2022,MACYS LAS VEGAS LAS VEGAS,-294.65,06.12.2022,Las vegas cafe,142.87,0
+negative,06.12.2022,HGV LVBS FB LAS VEGAS,-142.87,06.12.2022,Car rental Las Vegas,1165.47,0
+negative,06.12.2022,BUDGET CAR AND TRUCK REN LAS,-1165.47,06.12.2022,Supermarket ,819.6,0
+negative,06.12.2022,SuperB Solrød 62038,-819.6,07.12.2022,Currency bath stuff Caro,4.29,0
+negative,07.12.2022,Udl kortbetaling 1 50 af DKK,-4.29,07.12.2022,Currency,1.51,0
+negative,07.12.2022,Udl kortbetaling 1 50 af DKK,-1.51,07.12.2022,Currency,0.99,0
+negative,07.12.2022,Udl kortbetaling 1 50 af DKK,-0.99,07.12.2022,Change currency,2.9,0
+negative,07.12.2022,Udl kortbetaling 1 50 af DKK,-2.9,08.12.2022,Currency,0.56,0
+negative,08.12.2022,Udl kortbetaling 1 50 af DKK,-0.56,08.12.2022,Currency,1.94,0
+negative,08.12.2022,Udl kortbetaling 1 50 af DKK,-1.94,08.12.2022,Currency ,0.69,0
+negative,08.12.2022,Udl kortbetaling 1 50 af DKK,-0.69,12.12.2022,Depotgebyr,30.18,0
+negative,12.12.2022,Depotgebyr 3033767048,-30.18,10.12.2022,Carpet Caro,905.81,0
+negative,13.12.2022,AMZN Mktp DE 1Z43R0JW4 AMAZON DE,-905.81,13.12.2022,Magazine,10.0,0
+negative,13.12.2022,22107,-10.0,13.12.2022,Carpet Charlotte,279.95,0
+negative,13.12.2022,matas dk,-279.95,10.12.2022,Chairs present Caro,949.0,0
+negative,14.12.2022,BELIANI DK BAAR,-949.0,13.12.2022,Statue Charlotte,1728.0,0
+negative,14.12.2022,a3096,-1728.0,13.12.2022,Camera Frederik,1506.0,0
+negative,15.12.2022,29779,-1506.0,19.12.2022,New tire,1171.25,0
+negative,19.12.2022,MobilePay Køge Dækcenter ApS,-1171.25,20.12.2022,Socks Caro Xmas,129.0,0
+negative,20.12.2022,PAYPAL ADIDASDANMA 75,-129.0,16.12.2022,Photos Caro,1549.0,0
+negative,20.12.2022,PAYPAL SAALDIGITAL 35314369001,-1549.0,20.12.2022,Bauhaus,534.28,0
+negative,20.12.2022,BAUHAUS Ishøj 97103,-534.28,26.12.2022,Postnord stamps,12.0,0
+negative,26.12.2022,MobilePay PostNord Danmark Online P,-12.0,23.12.2022,Supermarket ,980.4,0
+negative,27.12.2022,Fisketorvet Føtex 80078,-980.4,23.12.2022,Console table,1102.17,0
+negative,28.12.2022,AMZN Mktp DE 1N30G57X4 AMAZON DE,-1102.17,28.12.2022,Adobe,95.19,0
+negative,28.12.2022,PAYPAL ADOBESYSTEM 35314369001,-95.19,26.12.2022,Mc Donald ,252.0,0
+negative,28.12.2022,McDonalds Solroed rest,-252.0,27.12.2022,Hue,1021.0,0
+negative,28.12.2022,Elgiganten 3004 58068,-1021.0,27.12.2022,Suitsupply sweater,759.0,0
+negative,29.12.2022,SuitSupply Copenhagen,-759.0,30.12.2022,Apple App,45.0,0
+negative,30.12.2022,APPLE COM BILL ITUNES COM,-45.0,30.12.2022,Formula ,599.75,0
+negative,30.12.2022,MobilePay Caroline Boje,-599.75,03.04.2018,Jysk,198.0,0
+negative,03.04.2018,JYSK Fisketorvet 38656,-198.0,07.04.2018,Zara,1247.0,0
+negative,09.04.2018,ZARA FISKETORVERT 63409,-1247.0,07.04.2018,Mc Donald,140.0,0
+negative,09.04.2018,MCDONALDS FISKETOR 56060,-140.0,14.04.2018,Burrito,470.0,0
+negative,16.04.2018,BARBURRITO ApS 20158,-470.0,17.04.2018,Medicine,90.0,0
+negative,17.04.2018,MobilePay Caroline Boje,-90.0,22.04.2018,Oysters Meatpacking,305.0,0
+negative,23.04.2018,Kødbyens Fiskebar 01781,-305.0,27.04.2018,Cinema,272.0,0
+negative,30.04.2018,CINEMAXX FISKETORV 91052,-272.0,29.04.2018,Fotex,62.95,0
+negative,30.04.2018,Fisketorvet Føtex 15194,-62.95,04.05.2018,Fotex,301.46,0
+negative,04.05.2018,MobilePay Caroline Boje,-301.46,05.05.2018,Bike,3349.0,0
+negative,07.05.2018,56983,-3349.0,06.05.2018,Føtex,84.5,0
+negative,07.05.2018,Fisketorvet Føtex 96252,-84.5,29.05.2018,Present Einar,50.0,0
+negative,11.05.2018,MobilePay Caroline Boje,-50.0,11.05.2018,Fotex,380.55,0
+negative,14.05.2018,Fisketorvet Føtex 73433,-380.55,14.05.2018,Cheese cake,94.0,0
+negative,15.05.2018,Bertels Salon ApS 16243,-94.0,20.05.2018,Caroline gift,550.0,0
+negative,20.05.2018,MobilePay Caroline Boje,-550.0,22.05.2018,Fotex,230.0,0
+negative,22.05.2018,MobilePay Caroline Boje,-230.0,27.05.2018,Chairs BoConcept,3919.0,0
+negative,28.05.2018,BoConcept Københav 21966,-3919.0,28.05.2018,Føtex,143.0,0
+negative,28.05.2018,Fisketorvet Føtex 47776,-143.0,01.06.2018,Føtex,697.45,0
+negative,01.06.2018,Fisketorvet Føtex 27032,-697.45,05.06.2018,Fine Parkzone,750.0,0
+negative,06.06.2018,Fine Parkzone,-750.0,11.06.2018,Proteins,600.0,0
+negative,11.06.2018,MobilePay Caroline Boje,-600.0,18.06.2018,Fotex,86.0,0
+negative,18.06.2018,Fisketorvet Føtex 36358,-86.0,19.06.2018,Fotex,500.0,0
+negative,19.06.2018,MobilePay Caroline Boje,-500.0,23.06.2018,Fotex,359.45,0
+negative,25.06.2018,Fisketorvet Føtex 11191,-359.45,26.06.2018,Medicine,71.3,0
+negative,26.06.2018,Nørrebro Apotek v 06383,-71.3,27.06.2018,Lidl,72.0,0
+negative,27.06.2018,MobilePay Caroline Boje,-72.0,27.06.2018,Bed guest room,2598.0,0
+negative,28.06.2018,27220,-2598.0,29.06.2018,Fotex,378.0,0
+negative,29.06.2018,Fisketorvet Føtex 12971,-378.0,05.04.2020,Cambio volo Parigi,419.78,0
+negative,07.04.2020,EASYJET EASYJET,-419.78,08.04.2020,Supermarket: Føtex,641.48,0
+negative,08.04.2020,Fisketorvet Føtex 44505,-641.48,14.04.2020,Supermarket: Føtex,337.3,0
+negative,14.04.2020,Fisketorvet Føtex 75814,-337.3,21.04.2020,Supermarket: Føtex,364.91,0
+negative,21.04.2020,Fisketorvet Føtex 78198,-364.91,27.04.2020,Green mobility ,595.0,0
+negative,29.04.2020,GREENMOBILITY A S KBENHAVN K,-595.0,14.05.2020,Supermarket: Føtex,286.15,0
+negative,14.05.2020,Fisketorvet Føtex 95839,-286.15,20.05.2020,Supermarket: Føtex,355.2,0
+negative,20.05.2020,Fisketorvet Føtex 51351,-355.2,26.05.2020,Supermarket: Føtex,595.57,0
+negative,26.05.2020,Fisketorvet Føtex 33119,-595.57,25.05.2020,Train tickets ,36.0,0
+negative,27.05.2020,DOT APP NETCOMPANY TAASTRUP,-36.0,06.06.2020,Train ticket,48.0,0
+negative,02.06.2020,DOT APP NETCOMPANY TAASTRUP,-48.0,02.06.2020,Supermarket: Føtex,339.5,0
+negative,02.06.2020,Fisketorvet Føtex 56665,-339.5,02.06.2020,Train,720.0,0
+negative,04.06.2020,DOT APP NETCOMPANY TAASTRUP,-720.0,06.06.2020,Train ticket,48.0,0
+negative,09.06.2020,DOT DIN OFFENTLIGE TRAN,-48.0,12.06.2020,Green mobility ,112.0,0
+negative,16.06.2020,GREENMOBILITY A S KBENHAVN K,-112.0,27.06.2020,Bauhaus,359.85,0
+negative,29.06.2020,Bauhaus Valby 69144,-359.85,28.06.2020,Føtex ,282.25,0
+negative,29.06.2020,Fisketorvet Føtex 14346,-282.25,01.12.2022,Car loan,2474.0,0
+negative,01.12.2020,Krogsgaard Finans,-2474.0,01.01.2023,A-kasse,517.0,0
+negative,03.01.2022,HK Handels og Kontorf,-517.0,09.01.2022,Supermarket ,1051.55,0
+negative,10.01.2022,SuperB Solrød 71717,-1051.55,23.01.2022,Supermarket ,778.8,0
+negative,25.01.2022,SOLROED FDB SUPERBRUGSEN,-778.8,01.02.2023,A-kasse,517.0,0
+negative,01.02.2022,HK Handels og Kontorf,-517.0,05.02.2022,House stuff caro,327.0,0
+negative,05.02.2022,MobilePay Caroline Boje,-327.0,06.02.2022,Electricity stuff ,895.55,0
+negative,08.02.2022,BAUHAUS ISHOEJ ISHOEJ,-895.55,08.02.2022,Home stuff amazon,547.45,0
+negative,10.02.2022,AMZN Mktp DE 2L4WR2NI4 AMAZON DE,-547.45,08.02.2022,Amazon philips switch,341.8,0
+negative,11.02.2022,AMZN Mktp DE AMAZON DE,-341.8,16.02.2022,Benzina ,592.25,0
+negative,17.02.2022,56101,-592.25,24.02.2022,Pizza,261.0,0
+negative,23.02.2022,MobilePay Caroline Boje,-261.0,01.03.2023,A-kasse,517.0,0
+negative,01.03.2022,HK Handels og Kontorf,-517.0,05.03.2022,Pizza,196.0,0
+negative,07.03.2022,47575,-196.0,06.03.2022,Benzina ,542.89,0
+negative,07.03.2022,Q8 Service 8042 25817,-542.89,05.03.2022,Suit Supply,3659.0,0
+negative,08.03.2022,SuitSupplyPOS_Copenhagen,-3659.0,12.03.2022,Supermarket ,603.65,0
+negative,14.03.2022,SuperB Solrød 12076,-603.65,14.03.2022,Supermarket ,535.15,0
+negative,14.03.2022,SuperB Solrød 13669,-535.15,16.03.2022,Benzina ,546.53,0
+negative,17.03.2022,Q8 Service 8042 33476,-546.53,18.03.2022,Supermarket ,258.6,0
+negative,18.03.2022,SuperB Solrød 16879,-258.6,20.03.2022,Bauhaus,968.6,0
+negative,21.03.2022,BAUHAUS Ishøj 81462,-968.6,27.02.2018,Mobilepay Netto Caroline,90.0,0
+negative,27.02.2018,MobilePay Caroline Boje,-90.0,06.03.2018,Netto,120.0,0
+negative,06.03.2018,MobilePay Caroline Boje,-120.0,17.03.2018,Proteins (Sport 24),280.0,0
+negative,17.03.2018,MobilePay Sport24 Fisketorvet,-280.0,17.03.2018,Pappa ago,139.9,0
+negative,19.03.2018,Maxi Zoo Denmark A 28872,-139.9,18.03.2018,Netto,134.3,0
+negative,19.03.2018,Netto 736 91655,-134.3,22.03.2018,Burger airport,81.5,0
+negative,23.03.2018,Steffs T3 Pier C 65666,-81.5,26.03.2018,Ikea,1362.0,0
+negative,27.03.2018,Ikea 121 ECO 17795,-1362.0,27.03.2018,Ikea,1229.95,0
+negative,27.03.2018,SILVAN 637 Fisketo 34724,-1229.95,28.03.2018,Netto,262.3,0
+negative,28.03.2018,07973,-262.3,01.07.2021,Insurance car,481.84,0
+negative,01.07.2021,Gjensidige Forsikring,-481.84,01.07.2021,Invite super,270.35,0
+negative,01.07.2021,Meny Solrød str 18514,-270.35,04.07.2021,Verisure to Caroline,274.0,0
+negative,04.07.2021,MobilePay Caroline Boje,-274.0,03.07.2021,Supermarket ,607.4,0
+negative,05.07.2021,Fisketorvet Føtex 81841,-607.4,03.07.2021,Haircut,325.0,0
+negative,05.07.2021,Kim Q Hair design 14279,-325.0,05.07.2021,Ejendomskat,11698.04,0
+negative,05.07.2021,Ejendomskat 07 2021,-11698.04,06.07.2021,Protein,499.0,0
+negative,06.07.2021,Klarna Bodystore dk Solna,-499.0,08.07.2021,Amazon,565.29,0
+negative,06.07.2021,Amazon it 209410T94,-565.29,06.07.2021,Supermarket ,530.65,0
+negative,06.07.2021,SuperB Solrød 47820,-530.65,08.07.2021,Supermarket ,29.25,0
+negative,08.07.2021,SuperB Solrød 11043,-29.25,11.07.2021,Egeskov,197.35,0
+negative,12.07.2021,CIRCLE K TRAFIKCEN 72354,-197.35,12.07.2021,Supermarket ,28.95,0
+negative,12.07.2021,SuperB Solrød 51676,-28.95,15.07.2021,Milano,25.75,0
+negative,16.07.2021,SN4799000025556660 MILANO,-25.75,20.07.2021,Milano ,36.93,0
+negative,16.07.2021,SN4799000025556949 MILANO,-36.93,20.07.2021,Milano ,28.24,0
+negative,19.07.2021,SN4799000025565244 MILANO,-28.24,20.07.2021,Milano ,31.03,0
+negative,20.07.2021,SN4799000025602591 MILANO,-31.03,20.07.2021,Milano ,41.6,0
+negative,20.07.2021,SN4799000025600839 MILANO,-41.6,20.07.2021,Milano ,28.09,0
+negative,20.07.2021,SN4799000025576369 MILANO,-28.09,20.07.2021,Milano ,43.8,0
+negative,20.07.2021,SN4799000025591815 MILANO,-43.8,28.07.2021,Lightroom,75.55,0
+negative,28.07.2021,PAYPAL ADOBESYSTEM 35314369001,-75.55,30.07.2021,Park Sardegna,70.6,0
+negative,30.07.2021,PAYPAL EASYPARK AS 35314369001,-70.6,01.08.2021,Car insurance,491.92,0
+negative,02.08.2021,Gjensidige Forsikring,-491.92,02.08.2021,Supermarket ,979.35,0
+negative,02.08.2021,SuperB Solrød 64583,-979.35,03.08.2021,Amsterdam food,174.31,0
+negative,03.08.2021,HMS Host International Amsterdam,-174.31,04.08.2021,Supermarket ,397.9,0
+negative,04.08.2021,SuperB Solrød 65974,-397.9,06.08.2021,Supermarket ,19.95,0
+negative,06.08.2021,SuperB Solrød 67247,-19.95,08.08.2021,Supermarket ,614.55,0
+negative,09.08.2021,SuperB Solrød 68702,-614.55,09.08.2021,Supermarket ,96.85,0
+negative,12.08.2021,SuperB Solrød 71169,-96.85,15.08.2021,H&M tshirts,139.9,0
+negative,16.08.2021,H M 809,-139.9,18.08.2021,Puppy stuff,1034.0,0
+negative,19.08.2021,Anne s Dyrecenter 06516,-1034.0,23.08.2021,Parking,129.6,0
+negative,23.08.2021,P huset Gl Mønt 13486,-129.6,22.08.2021,B-Skat,1262.0,0
+negative,23.08.2021,B Skat 20 08 2021,-1262.0,26.08.2021,Contabo,69.64,0
+negative,24.08.2021,PAYPAL CONTABO 35314369001,-69.64,22.08.2021,Intervallometro,279.59,0
+negative,25.08.2021,AMZN Mktp IT WD5HR4T95 AMAZON IT,-279.59,30.08.2021,Adobe subscription ,75.53,0
+negative,27.08.2021,PAYPAL ADOBESYSTEM 35314369001,-75.53,01.09.2021,Car Insurance,491.92,0
+negative,01.09.2021,Gjensidige Forsikring,-491.92,02.09.2021,Supermarket ,329.7,0
+negative,02.09.2021,SuperB Solrød 86092,-329.7,05.09.2021,Spese case varie,504.0,0
+negative,05.09.2021,MobilePay Caroline Boje,-504.0,04.09.2021,Cake,84.0,0
+negative,07.09.2021,267 LAGKAGHUSET SOLROED,-84.0,18.09.2021,Farmaco Loki,50.8,0
+negative,13.09.2021,SOLROED APOTEK SOLROED STRAN,-50.8,11.09.2021,Supermarket ,524.3,0
+negative,14.09.2021,FOETEX FISKETOR KOEBENHAVN V,-524.3,11.09.2021,Haircut,325.0,0
+negative,15.09.2021,KIM Q HAIR DESIGN KOEBENHAVN V,-325.0,18.09.2021,Strong app,46.16,0
+negative,16.09.2021,PAYPAL APPLE COM BILL,-46.16,18.09.2021,Benzina ,473.09,0
+negative,17.09.2021,Q8 Service 8042 97997,-473.09,14.09.2018,Føtex,280.0,0
+negative,18.09.2021,MobilePay Apcoa Parking A S AXEL,-280.0,18.09.2021,B-Skat,1262.0,0
+negative,20.09.2021,B Skat 20 09 2021,-1262.0,22.09.2021,Parcheggio conema,120.0,0
+negative,23.09.2021,Fisketorvet 68822,-120.0,25.09.2021,Parq,48.0,0
+negative,27.09.2021,P huset Gl Mønt 17977,-48.0,29.09.2021,Benzina ,450.43,0
+negative,30.09.2021,Q8 Service 8042 08042,-450.43,02.07.2019,Flowers friend Caro,75.0,0
+negative,02.07.2019,DESIGN FLOWER KOBENHAVN,-75.0,04.07.2019,Train,699.9,0
+negative,08.07.2019,DOT APP PENDLER KORT VALBY,-699.9,09.07.2019,Hotel Norway ,4612.6,0
+negative,09.07.2019,PAYPAL BOOKING COM 35314369001,-4612.6,11.07.2019,Supermarket: Føtex,339.2,0
+negative,11.07.2019,Fisketorvet Føtex 50000,-339.2,15.07.2019,Supermarket: Føtex,160.5,0
+negative,15.07.2019,Fisketorvet Føtex 97903,-160.5,18.07.2019,Warpigs Sune,131.0,0
+negative,18.07.2019,WARPIGS BREWPUB 99063,-131.0,21.07.2019,Zaino porta Ago,334.41,0
+negative,24.07.2019,AMZN Mktp IT MH7AM6T54 AMAZON IT,-334.41,25.07.2019,Ryanair cabin luggage,96.0,0
+negative,29.07.2019,RYANAIR PAYPAL COM,-96.0,30.07.2019,Plane milan late checkin ,440.0,0
+negative,30.07.2019,RYANAIR DUBLIN,-440.0,06.08.2019,Housewarming Sune Train,136.0,0
+negative,06.08.2019,DOT APP PENDLER KORT VALBY,-136.0,06.08.2019,Supermarket: Føtex,84.45,0
+negative,06.08.2019,Fisketorvet Føtex 36497,-84.45,10.08.2019,Cibo cane,238.8,0
+negative,12.08.2019,Fisketorvet Føtex 38468,-238.8,14.08.2019,BOOTS APOTEK SOLLI 142\ \OSLO\,82.46,0
+negative,14.08.2019,BOOTS APOTEK SOLLI 142 OSLO,-82.46,14.08.2019,BOELGEN  MOI TJUVHOLMEN A\ ...,335.5,0
+negative,14.08.2019,BOELGEN MOI TJUVHOLMEN A OSLO,-335.5,14.08.2019,OKQ8\ \STROMSTAD\,410.21,0
+negative,14.08.2019,OKQ8 STROMSTAD,-410.21,16.08.2019,GAUSTATOPPEN\ \SKIEN\,87.95,0
+negative,16.08.2019,GAUSTATOPPEN SKIEN,-87.95,20.08.2019,BEITOST�LEN RES\ \BEITOST�L...,2642.68,0
+negative,20.08.2019,BEITOSTØLEN RES BEITOSTØLEN,-2642.68,16.08.2019,Hotel last minute,3869.69,0
+negative,20.08.2019,PAYPAL BOOKING COM 35314369001,-3869.69,21.08.2019,SPAR BEITOSTOELEN\ \BEITOST...,256.92,0
+negative,21.08.2019,SPAR BEITOSTOELEN BEITOSTOELEN,-256.92,26.08.2019,MAT TRADISJON A\ \LODDEFJORD\,72.57,0
+negative,26.08.2019,MAT TRADISJON A LODDEFJORD,-72.57,26.08.2019,INGO VASBYG.4      71927,411.22,0
+negative,26.08.2019,71927,-411.22,27.08.2019,3514TGI FRIDAY\ \BERGEN\,684.47,0
+negative,27.08.2019,3514TGI FRIDAY BERGEN,-684.47,27.08.2019,SPAR ODDA\ \ODDA\,121.36,0
+negative,27.08.2019,SPAR ODDA ODDA,-121.36,27.08.2019,NO135 CC OLEANA\ \BERGEN\,190.77,0
+negative,27.08.2019,NO135 CC OLEANA BERGEN,-190.77,29.08.2019,Bike fix,210.0,0
+negative,29.08.2019,95326,-210.0,04.09.2019,Supermarket: Føtex,59.15,0
+negative,04.09.2019,Fisketorvet Føtex 59789,-59.15,09.09.2019,SS 2 MALPENSA AEROPORTO  \ ...,98.46,0
+negative,09.09.2019,SS 2 MALPENSA AEROPORTO FERNO,-98.46,09.09.2019,SILVAN 637 Fisketo )))) 49459,49.95,0
+negative,09.09.2019,SILVAN 637 Fisketo 49459,-49.95,06.09.2019,Train,699.9,0
+negative,10.09.2019,DOT APP PENDLER KORT VALBY,-699.9,16.09.2019,Taxes (rata 1),2038.0,0
+negative,16.09.2019,Taxes rata 1,-2038.0,18.09.2019,Supermarket ,113.8,0
+negative,18.09.2019,DagliBrugsen Skærb 68602,-113.8,24.09.2019,Green Mobility A/S\ \Copenh...,49.0,0
+negative,24.09.2019,Green Mobility A S Copenhagen,-49.0,24.09.2019,Dantaxi 4x48 )))) 61399,246.0,0
+negative,24.09.2019,Dantaxi 4x48 61399,-246.0,25.09.2019,Fisketorvet F�tex  65452,238.4,0
+negative,25.09.2019,Fisketorvet Føtex 65452,-238.4,03.07.2023,Autoroute,8.93,0
+negative,03.07.2023,Autoroutes Du S,-8.93,03.07.2023,Autoroute,13.4,0
+negative,06.07.2023,Liberte Aut,-32.02,06.07.2023,Mc donald vacances,289.37,0
+negative,10.07.2023,Lido Di Alghero,-148.98,10.07.2023,Ejendomskat 2023,12012.32,0
+negative,10.07.2023,Ejendomskat 07 2023,-12012.32,12.07.2023,Abaco,59.63,0
+negative,12.07.2023,ABACO SPA COMUNE D,-59.63,12.07.2023,Super Pula,186.24,0
+negative,13.07.2023,CRAI EXTRA PULA AU,-186.24,17.07.2023,Apcoa park,38.01,0
+negative,17.07.2023,APCOA PARCHEGGIO CAG,-38.01,18.07.2023,Parking,22.35,0
+negative,18.07.2023,Parco Metri Villasim,-22.35,18.07.2023,Apple iOS Apps,42.0,0
+negative,18.07.2023,APPLE COM BILL CORK,-42.0,19.07.2023,Emporio,147.56,0
+negative,25.07.2023,MC DONALD S OLBIA,-67.12,25.07.2023,Apple apps,16.0,0
+negative,25.07.2023,APPLE COM BILL 80249625,-16.0,25.07.2023,Resto Pisa,152.88,0
+negative,25.07.2023,PRIMO PASTA STREET FO PISA,-152.88,25.07.2023,Conad Olbia,98.44,0
+negative,25.07.2023,CONAD OLBIA,-98.44,25.07.2023,Nave Olbia cafe,88.74,0
+negative,25.07.2023,M N MOBY VINCI VENEZIA,-88.74,26.07.2023,Pisa dolciumi,164.06,0
+negative,26.07.2023,DOLCE PISA PISA,-164.06,26.07.2023,Nuova Dama Santa M,22.37,0
+negative,26.07.2023,NUOVA DAMA SNC SANTA MARGHER,-22.37,27.07.2023,Cafe,201.89,0
+negative,27.07.2023,ADS CASTELNUOVO SCRIVIA,-201.89,27.07.2023,Autopark Portofino,119.32,0
+negative,27.07.2023,AUTOPARK PORTOFINO PORTOFINO,-119.32,27.07.2023,Duomo Cafe Milano,25.34,0
+negative,27.07.2023,DUOMO DAL 1952 MILANO,-25.34,27.07.2023,Esselunga Milano,169.7,0
+negative,27.07.2023,ESSELUNGA LOSANNA MILANO,-169.7,28.07.2023,Esselunga,17.14,0
+negative,28.07.2023,ESSELUNGA LOSANNA MILANO,-17.14,28.07.2023,Resto cafe,78.26,0
+negative,31.07.2023,BAR DISTRIBUTORE L ALTURA,-78.26,28.07.2023,Carlsberg Milano,372.64,0
+negative,31.07.2023,CARLSBERG OL MILANO,-372.64,01.08.2023,A kasse,517.0,0
+negative,01.08.2023,HK Handels og Kontorf,-517.0,01.08.2023,Vacation,7.45,0
+negative,01.08.2023,Rastanlage Fuerholzen Ost,-7.45,01.08.2023,Brunico,502.26,0
+negative,01.08.2023,OMV 5536 Seefeld,-502.26,01.08.2023,Brunico,95.4,0
+negative,01.08.2023,BRESSANONE VARNA,-95.4,01.08.2023,Autogrill,69.31,0
+negative,01.08.2023,AUTOGRILL 0128 DESENZANO DEL,-69.31,01.08.2023,Autogrill,18.63,0
+negative,01.08.2023,AUTOGRILL 0128 DESENZANO DEL,-18.63,01.08.2023,Biglietti metro,16.4,0
+negative,01.08.2023,CLESS TICKET ATM MILANO MILANO,-16.4,01.08.2023,Super Brunico,109.34,0
+negative,01.08.2023,LIDL 1105 BRUNICO,-109.34,02.08.2023,Bridge toll,82.0,0
+negative,02.08.2023,MAUTSTELLE SCHOENBERG SCHOENBERG,-82.0,02.08.2023,H&M,297.94,0
+negative,02.08.2023,H M Dresden 1DE0684 Dresden,-297.94,03.08.2023,GCP,239.77,0
+negative,03.08.2023,GOOGLE CLOUD J7FSJT CC,-239.77,03.08.2023,Presents Charlotte Dresden,993.47,0
+negative,03.08.2023,BM Weihnachtsland K Dresden,-993.47,04.08.2023,Parking Dresden,74.53,0
+negative,04.08.2023,TG FRAUENK DD 11940 DRESDEN,-74.53,04.08.2023,Hotel Berlin,1931.88,0
+negative,04.08.2023,Moonday Chausseestrasse Berlin,-1931.88,04.08.2023,Prking vacation,52.17,0
+negative,04.08.2023,Parkautomat Lohmen,-52.17,07.08.2023,Restskat,9257.0,0
+negative,07.08.2023,SKAT Restskat,-9257.0,07.08.2023,Prelievo vacation,372.61,0
+negative,07.08.2023,PSD BANK NORD EG LUEBECK 1,-372.61,07.08.2023,Benzina vacation,573.67,0
+negative,07.08.2023,TOTAL DEUTSCHLAND GMBH STOLPE,-573.67,06.08.2023,Vuggestue 08.2023,4243.0,0
+negative,07.08.2023,Vuggestue 08 2023,-4243.0,07.08.2023,Hotel lubeck,2587.57,0
+negative,07.08.2023,Atlantic Hotel Luebe,-2587.57,08.08.2023,Coursera,350.54,0
+negative,08.08.2023,PAYPAL HELPCOURSER 2I,-350.54,08.08.2023,Present Frederik,2136.73,0
+negative,08.08.2023,AMZN Mktp DE 1V5F84G94 AMAZON DE,-2136.73,08.08.2023,Supermarket ,761.39,0
+negative,08.08.2023,SuperB Solrød 39975,-761.39,10.08.2023,Haircut,369.0,0
+negative,10.08.2023,Kim Q Hair design 21210,-369.0,10.08.2023,Supermarket ,443.6,0
+negative,11.08.2023,Fisketorvet Føtex 90090,-443.6,12.08.2023,Supermarket ,313.65,0
+negative,14.08.2023,LIDL 37054,-313.65,15.08.2023,Artlist,14.07,0
+negative,15.08.2023,Udl kortbetaling 1 50 af DKK,-14.07,17.08.2023,Apple bill,42.0,0
+negative,17.08.2023,APPLE COM BILL CORK,-42.0,18.08.2023,Dentist,449.01,0
+negative,18.08.2023,Solrød Tandklinik 69222,-449.01,18.08.2023,Car tax,640.0,0
+negative,18.08.2023,Car tax,-640.0,21.08.2023,Supermarket ,239.45,0
+negative,21.08.2023,SuperB Solrød 49085,-239.45,25.08.2023,Adobe subscription ,95.39,0
+negative,25.08.2023,PAYPAL ADOBESYSTEM 35314369001,-95.39,27.08.2023,Movie rental,49.0,0
+negative,29.08.2023,APPLE COM BILL CORK,-49.0,31.08.2023,Mc donald,273.0,0
+negative,30.08.2023,McDonalds 107 Karlslunde,-273.0,31.08.2023,Mortgage,7300.0,0
+negative,31.08.2023,Transfer to budget,-7300.0,02.09.2023,Supermarket,732.15,0
+negative,04.09.2023,Fisketorvet Føtex 00768,-732.15,03.09.2023,Vuggestue 09.2023,4243.0,0
+negative,04.09.2023,Vuggestue 09 2023,-4243.0,02.09.2023,Parking hospital,316.1,0
+negative,05.09.2023,MobilePay EASY PARK A S,-316.1,07.09.2023,Coursera,355.97,0
+negative,07.09.2023,PAYPAL HELPCOURSER 2I,-355.97,07.09.2023,Hovmand service,2776.62,0
+negative,07.09.2023,Hovmand intervento,-2776.62,08.09.2023,Spotify,62.0,0
+negative,08.09.2023,MobilePay Caroline Boje,-62.0,08.09.2023,Mediscrub,109.35,0
+negative,08.09.2023,Waterfront Apotek 68389,-109.35,10.09.2023,Insurances,263.0,0
+negative,10.09.2023,MobilePay Caroline Boje,-263.0,11.09.2023,Supermarket ,686.72,0
+negative,11.09.2023,SuperB Solrød 40242,-686.72,12.09.2023,Pharmacy ,49.9,0
+negative,12.09.2023,Solrød Apotek 75020,-49.9,13.09.2023,Mc Donald,261.0,0
+negative,18.09.2023,McDonalds 52 Koege,-261.0,18.09.2023,Cough sirup,89.5,0
+negative,18.09.2023,Solrød Apotek 64052,-89.5,25.09.2023,Apple app,59.0,0
+negative,25.09.2023,APPLE COM BILL 80249625,-59.0,24.09.2023,Mc Donald,233.0,0
+negative,27.09.2023,McDonalds 107 Karlslunde,-233.0,29.09.2023,Mortgage,7300.0,0
+negative,29.09.2023,Transfer to budget,-7300.0,02.10.2021,Park,20.0,0
+negative,01.10.2023,Gebyrer i alt,-20.0,03.04.2019,Supermarket: Føtex,193.85,0
